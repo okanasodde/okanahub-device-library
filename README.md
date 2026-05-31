@@ -408,3 +408,18 @@ There are two ways this repo focuses on keeping quality device-type definitions:
     - To uninstall the pre-commit script: `pre-commit uninstall`
   - Learn more about [pre-commit](https://pre-commit.com/)
 - **GitHub Actions** - Automatically run before a PR can be merged. Repeats yamllint & validates against NetBox Device-Type Schema, note that if this fails then the PR cannot be merged.
+
+
+
+From here, your day-to-day loop has two halves.
+When you want to make and save your own changes, you edit files, then commit and push to your origin as normal:
+git add .
+git commit -m "My custom device types"
+git push origin master
+When you want to pull in the latest from upstream, you fetch their changes and merge them into your branch, then push the merged result back to your repo:
+git fetch upstream
+git merge upstream/master
+git push origin master
+That fetch plus merge is the heart of staying synced. Fetch downloads upstream's new commits without touching your files; merge then weaves them together with your own work. If you and upstream never edited the same lines of the same files, the merge happens automatically. If you both changed the same spot, Git will flag a merge conflict and ask you to decide which version wins — that's normal and just requires you to edit the conflicted files, then git add and git commit to finish.
+A small refinement worth knowing: some people prefer git rebase upstream/master instead of git merge because it keeps history tidier by replaying your changes on top of the upstream ones, rather than creating merge commits. For your use case either works fine; merge is simpler and safer to start with, so I'd suggest staying with merge until you're comfortable.
+One practical note specific to this project. The devicetype-library is a large collection of YAML files organized by manufacturer. Because your custom additions will usually be new files (new vendors or models) rather than edits to existing ones, you'll likely experience very few conflicts in practice — new files don't clash with new files. That makes this particular repo quite pleasant to keep in sync.
