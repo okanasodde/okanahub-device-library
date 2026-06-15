@@ -1,0 +1,15 @@
+---
+name: Opengear
+description: Out-of-band management, console server, and smart-out-of-band networking vendor.
+lookup:
+  - opengear
+url: https://opengear.com
+support_url: https://opengear.com/support/
+cve_portal: https://opengear.com/security-advisories/
+support_phone: +1-855-671-1337
+device_types_path: device-types/Opengear
+elevation_images_path: elevation-images/Opengear
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,17 @@
+---
+name: Schneider Electric
+description: Energy management and industrial automation vendor (parent of APC).
+lookup:
+  - schneider
+  - electric
+  - schneiderelectric
+url: https://www.se.com
+support_url: https://www.se.com/ww/en/work/support/
+cve_portal: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp
+support_phone: +1-800-789-3508
+device_types_path: device-types/Schneider Electric
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

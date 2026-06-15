@@ -1,0 +1,11 @@
+---
+name: Bonch
+description: Networking and telecommunications equipment brand.
+lookup:
+  - bonch
+device_types_path: device-types/Bonch
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

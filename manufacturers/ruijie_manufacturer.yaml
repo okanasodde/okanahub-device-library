@@ -1,0 +1,17 @@
+---
+name: Ruijie
+description: Chinese ICT vendor making enterprise and cloud-managed networking equipment including switches, routers, wireless access points, and gateways.
+lookup:
+  - ruijie
+  - os
+  - ruijieos
+url: https://www.ruijie.com/en-global/
+support_url: https://www.ruijie.com/en-global/support/
+cve_portal: https://www.ruijie.com/en-global/support/securityBulletins
+support_phone: +852-800-906-089
+device_types_path: device-types/Ruijie
+elevation_images_path: elevation-images/Ruijie
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

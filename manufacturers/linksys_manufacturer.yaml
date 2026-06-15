@@ -1,0 +1,14 @@
+---
+name: Linksys
+description: Brand of consumer and small-business networking hardware including Wi-Fi routers, mesh systems and switches.
+lookup:
+  - linksys
+url: https://www.linksys.com
+support_url: https://support.linksys.com
+support_phone: +1-800-326-7114
+device_types_path: device-types/Linksys
+elevation_images_path: elevation-images/Linksys
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

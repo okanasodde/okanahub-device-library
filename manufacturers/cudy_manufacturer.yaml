@@ -1,0 +1,14 @@
+---
+name: Cudy
+description: Consumer and SMB networking hardware vendor making Wi-Fi routers, mesh systems, access points and adapters.
+lookup:
+  - cudy
+url: https://www.cudy.com
+support_url: https://www.cudy.com/pages/support
+support_phone: +86-755-8600-8993
+device_types_path: device-types/Cudy
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

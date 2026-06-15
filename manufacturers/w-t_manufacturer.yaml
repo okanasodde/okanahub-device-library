@@ -1,0 +1,15 @@
+---
+name: W-T
+description: Wiesemann & Theis (W&T), German manufacturer of serial/Ethernet interface converters, network I/O controllers, PDUs and industrial communication hardware.
+lookup:
+  - w
+  - t
+  - wt
+  - wut
+url: https://www.wut.de
+device_types_path: device-types/W-T
+elevation_images_path: elevation-images/W-T
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

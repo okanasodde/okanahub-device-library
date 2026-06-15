@@ -1,0 +1,21 @@
+---
+name: Huawei
+description: Chinese ICT and telecommunications vendor making enterprise networking switches, routers, OLTs, servers, storage, and carrier infrastructure.
+lookup:
+  - huawei
+  - vrp
+  - huaweivrp
+  - smartax
+  - huaweismartax
+  - olt
+  - huaweiolt
+url: https://www.huawei.com
+support_url: https://support.huawei.com/enterprise/en/index.html
+cve_portal: https://www.huawei.com/en/psirt
+support_phone: +1-855-482-9343
+device_types_path: device-types/Huawei
+elevation_images_path: elevation-images/Huawei
+platforms_path: null
+module_types_path: module-types/Huawei
+module_images_path: null
+rack_types_path: null

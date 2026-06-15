@@ -1,0 +1,2200 @@
+---
+# Authored manufacturer content, keyed by the exact `device-types/<dir>` folder name.
+# Consumed by okanahub/dev_script.py, which merges these fields with filesystem-computed
+# *_path values, validates against schema/manufacturer.json, and writes
+# manufacturers/<slug>_manufacturer.yaml.
+#
+# `lookup` aliases are derived from Netmiko driver names: each underscore-separated
+# section becomes a token, plus a no-underscore variant of the full driver, all lowercase.
+# All url/support_url/cve_portal values were web-verified.
+3Com:
+  description: Defunct American networking equipment vendor (Ethernet switches, routers, NICs); acquired by HP in 2010 and folded into HPE networking.
+  lookup:
+    - 3com
+A10:
+  description: Application delivery, load balancing, and DDoS protection vendor.
+  lookup:
+    - a10
+  url: https://www.a10networks.com
+  support_url: https://support.a10networks.com
+  cve_portal: https://support.a10networks.com/support/security-advisories
+  support_phone: +1-888-822-7210
+ACEMAGICIAN:
+  description: Consumer brand of compact mini PCs and small-form-factor desktop computers, marketed as ACEMAGIC.
+  lookup:
+    - acemagician
+    - acemagic
+  url: https://acemagic.com
+  support_url: https://acemagic.com/pages/contact-us
+ADC:
+  description: ADC Telecommunications (KRONE) is a legacy fiber- and copper-based network connectivity and structured cabling brand, now part of CommScope.
+  lookup:
+    - adc
+  url: https://www.commscope.com
+  support_url: https://www.commscope.com/supportcenter
+ADVA:
+  description: Optical networking, packet transport and network synchronization equipment vendor; merged with ADTRAN and now operates as Adtran Networks SE.
+  lookup:
+    - adva
+  url: https://www.adva.com
+  support_url: https://www.adtran.com/en/about-us/support/support-contact-options
+  cve_portal: https://www.adtran.com/en/about-us/support/product-security
+  support_phone: +1-888-423-8726
+AFL:
+  description: Fiber optic cable, connectivity, and fusion splicing equipment manufacturer for broadband, data center, and energy infrastructure
+  lookup:
+    - afl
+  url: https://www.aflglobal.com
+  support_url: https://www.aflglobal.com/en/contact/contacts-and-feedback-forms
+  support_phone: +1-800-235-3423
+APC:
+  description: UPS, PDU, and data-center power and cooling vendor (Schneider Electric).
+  lookup:
+    - apc
+    - schneider
+  url: https://www.apc.com
+  support_url: https://www.apc.com/us/en/support/
+  cve_portal: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp
+  support_phone: +1-800-800-4272
+ARRIS:
+  description: Broadband customer-premises equipment vendor (cable modems, gateways, SURFboard routers); ARRIS brand owned by CommScope since 2019.
+  lookup:
+    - arris
+  url: https://www.commscope.com
+ASUS:
+  description: Consumer and commercial computer hardware vendor making motherboards, servers, workstations, laptops, networking gear, and graphics cards.
+  lookup:
+    - asus
+  url: https://www.asus.com
+  support_url: https://www.asus.com/support/
+  cve_portal: https://www.asus.com/security-advisory/
+  support_phone: +1-888-678-3688
+AVM:
+  description: German consumer electronics maker of FRITZ! home networking products including DSL/cable routers, mesh Wi-Fi, VoIP and smart-home devices.
+  lookup:
+    - avm
+  url: https://en.avm.de
+  support_url: https://en.avm.de/service/
+  cve_portal: https://en.fritz.com/service/current-security-notifications/
+  support_phone: +49-30-39976-0
+Accedian:
+  description: Network performance monitoring and service assurance vendor (Skylight/Provider Connectivity Assurance), acquired by Cisco in 2023.
+  lookup:
+    - accedian
+  url: https://www.cisco.com/site/us/en/about/corporate-development/acquisitions/accedian/index.html
+  cve_portal: https://sec.cloudapps.cisco.com/security/center/publicationListing.x
+ActionTec:
+  description: Broadband customer-premises equipment vendor (DSL/fiber gateways, routers, Wi-Fi extenders).
+  lookup:
+    - actiontec
+  url: https://www.actiontec.com
+  support_url: https://www.actiontec.com/support/
+  support_phone: +1-866-776-8322
+Adtran:
+  description: Fiber broadband access, optical transport, and enterprise networking vendor for service providers.
+  lookup:
+    - adtran
+    - os
+    - adtranos
+  url: https://www.adtran.com
+  support_url: https://www.adtran.com/en/about-us/support
+  cve_portal: https://www.adtran.com/en/about-us/support/product-security
+  support_phone: +1-888-423-8726
+Albis-Elcon:
+  description: Telecom access and transport network equipment vendor for fixed and mobile carriers.
+  lookup:
+    - albis
+    - elcon
+    - albiselcon
+  url: https://www.albis-elcon.com
+Alcatel-Lucent:
+  description: Alcatel-Lucent Enterprise provides enterprise networking switches, routers, WLAN, and communications hardware and solutions.
+  lookup:
+    - alcatel
+    - lucent
+    - alcatellucent
+  url: https://www.al-enterprise.com
+  support_url: https://www.al-enterprise.com/en/support
+  cve_portal: https://www.al-enterprise.com/en/support/security-advisories
+Allied Telesis:
+  description: Allied Telesis manufactures enterprise and industrial Ethernet switches, routers, and network infrastructure equipment.
+  lookup:
+    - allied
+    - telesis
+    - alliedtelesis
+  url: https://www.alliedtelesis.com
+  support_url: https://www.alliedtelesis.com/us/en/support
+  cve_portal: https://www.alliedtelesis.com/us/en/support/cybersecurity-vulnerability-statement
+  support_phone: +1-800-428-4835
+Allnet:
+  description: ALLNET GmbH is a German vendor and distributor of networking, WLAN, storage, security, and home-automation hardware.
+  lookup:
+    - allnet
+  url: https://www.allnet.de
+  support_phone: +49-89-89422215
+Allot:
+  description: Israeli vendor of network intelligence, traffic management, and cybersecurity solutions for communication service providers and enterprises.
+  lookup:
+    - allot
+  url: https://www.allot.com
+  support_phone: +1-833-967-8080
+Alpha:
+  description: Alpha Technologies (an EnerSys company), maker of DC power systems, rectifiers, and Cordex controllers for broadband, telecom, and industrial applications.
+  lookup:
+    - alpha
+  url: https://www.alpha.com
+  support_url: https://www.alpha.com/contact/technical-support
+  support_phone: +1-800-322-5742
+Apple:
+  description: Apple Inc. designs consumer electronics, computers, mobile devices, and networking products such as AirPort and Apple TV.
+  lookup:
+    - apple
+  url: https://www.apple.com
+  support_url: https://support.apple.com
+  cve_portal: https://support.apple.com/en-us/100100
+  support_phone: +1-800-275-2273
+Arbor:
+  description: Arbor Networks, now part of NETSCOUT, makes DDoS detection and mitigation products (Arbor Sightline, Arbor Edge Defense) for network security
+  lookup:
+    - arbor
+  url: https://www.netscout.com
+  support_url: https://www.netscout.com/support-services
+  support_phone: +1-888-357-7667
+Arctic Wolf:
+  description: Arctic Wolf Networks provides managed security operations, detection and response, and cybersecurity services and appliances.
+  lookup:
+    - arctic
+    - wolf
+    - arcticwolf
+  url: https://arcticwolf.com
+  support_phone: +1-888-272-8429
+Arista:
+  description: Cloud and data-center Ethernet switching vendor.
+  lookup:
+    - arista
+    - eos
+    - aristaeos
+  url: https://www.arista.com
+  support_url: https://www.arista.com/en/support
+  cve_portal: https://www.arista.com/en/support/advisories-notices
+  support_phone: +1-866-476-0000
+Aruba Networks:
+  description: Wireless networking and edge infrastructure vendor (part of HPE)
+  lookup:
+    - aruba
+    - aoscx
+    - os
+    - osswitch
+    - procurve
+    - arubaaoscx
+    - arubaos
+    - arubaosswitch
+    - arubaprocurve
+  url: https://www.arubanetworks.com
+  support_url: https://asp.arubanetworks.com
+  cve_portal: https://www.arubanetworks.com/support-services/security-bulletins/
+  support_phone: +1-800-943-4526
+Aten:
+  description: ATEN International manufactures KVM switches, secure KVM, AV/IT connectivity, and intelligent power distribution hardware.
+  lookup:
+    - aten
+  url: https://www.aten.com
+  support_url: https://www.aten.com/global/en/supportcenter/
+  cve_portal: https://www.aten.com/global/en/supportcenter/info/security-advisory/
+  support_phone: +1-888-999-2836
+AudioCodes:
+  description: Voice networking and VoIP vendor (session border controllers, media gateways, IP phones).
+  lookup:
+    - audiocodes
+  url: https://www.audiocodes.com
+  support_url: https://www.audiocodes.com/services-support
+  cve_portal: https://www.audiocodes.com/services-support/maintenance-and-support/security-vulnerabilities
+  support_phone: +1-732-652-1085
+Avaya:
+  description: Business communications, contact center, and unified communications vendor.
+  lookup:
+    - avaya
+    - ers
+    - avayaers
+    - vsp
+    - avayavsp
+  url: https://www.avaya.com
+  support_url: https://support.avaya.com
+  cve_portal: https://support.avaya.com/security
+  support_phone: +1-800-242-2121
+Avocent:
+  description: KVM switches, serial console servers, and IT infrastructure management hardware, now a brand of data center vendor Vertiv.
+  lookup:
+    - avocent
+  url: https://www.vertiv.com
+  support_url: https://www.vertiv.com/en-us/support/avocent-support/
+  cve_portal: https://www.vertiv.com/en-us/support/security-support-center/
+  support_phone: +1-888-793-8763
+Bachmann:
+  description: Power distribution and connectivity solutions vendor (rack PDUs, desk/office power modules).
+  lookup:
+    - bachmann
+  url: https://www.bachmann.com
+  support_phone: +49-711-86602-0
+Barracuda:
+  description: Email, network, and application security vendor (firewalls, email protection, backup).
+  lookup:
+    - barracuda
+  url: https://www.barracuda.com
+  support_url: https://www.barracuda.com/support
+  cve_portal: https://www.barracuda.com/company/legal/trust-center
+  support_phone: +1-888-268-4772
+Bastion:
+  description: Power electronics and uninterruptible power supply (UPS) brand.
+  lookup:
+    - bastion
+Belden:
+  description: Signal transmission, networking infrastructure, and cabling/connectivity solutions vendor.
+  lookup:
+    - belden
+  url: https://www.belden.com
+  support_url: https://www.belden.com/support
+  cve_portal: https://www.belden.com/security-assurance
+  support_phone: +1-800-235-3361
+BiZone:
+  description: Cybersecurity products and threat-intelligence services vendor (BI.ZONE).
+  lookup:
+    - bizone
+  url: https://bi.zone
+Blackmagicdesign:
+  description: Video production and broadcast equipment vendor (cameras, switchers, capture/playback).
+  lookup:
+    - blackmagicdesign
+    - blackmagic
+  url: https://www.blackmagicdesign.com
+  support_url: https://www.blackmagicdesign.com/support
+  support_phone: +1-408-954-0500
+Bonch:
+  description: Networking and telecommunications equipment brand.
+  lookup:
+    - bonch
+Brennenstuhl:
+  description: Power strips, extension leads, and electrical accessories manufacturer.
+  lookup:
+    - brennenstuhl
+  url: https://www.brennenstuhl.com
+  support_phone: +800-4872-0741
+Brocade:
+  description: Fibre Channel SAN switching and storage networking vendor (part of Broadcom).
+  lookup:
+    - brocade
+    - fastiron
+    - brocadefastiron
+    - fos
+    - brocadefos
+    - netiron
+    - brocadenetiron
+    - nos
+    - brocadenos
+    - vdx
+    - brocadevdx
+    - vyos
+    - brocadevyos
+  url: https://www.broadcom.com/products/fibre-channel-networking
+  support_url: https://support.broadcom.com
+  cve_portal: https://support.broadcom.com/web/ecx/security-advisory
+  support_phone: +1-800-752-8061
+CP Plus:
+  description: CCTV cameras and video surveillance and security systems manufacturer.
+  lookup:
+    - cp
+    - plus
+    - cpplus
+  url: https://cpplusworld.com
+  support_url: https://cpplusworld.com/faq
+  support_phone: +91-8800952952
+CXR:
+  description: French telecom and networking equipment maker for Ethernet, TDM, SONET/SDH and synchronization gear.
+  lookup:
+    - cxr
+  url: https://www.cxr.com
+  support_url: https://www.cxr.com/en/pages/support-57.html
+  support_phone: +33-2-37-62-88-00
+Cabeus:
+  description: Russian manufacturer of structured cabling systems, copper and fiber cables, patch panels, telecom cabinets and racks
+  lookup:
+    - cabeus
+  url: https://cabeus.ru
+  support_phone: +7-495-933-77-83
+Cable Matters:
+  description: Vendor of cables, adapters, docking stations and networking connectivity accessories (USB-C, Thunderbolt, DisplayPort, HDMI, Ethernet)
+  lookup:
+    - cable
+    - matters
+    - cablematters
+  url: https://www.cablematters.com
+  support_url: https://www.cablematters.com/cs-customerservice.aspx
+Calient:
+  description: Maker of 3D-MEMS photonic optical circuit switches (S-Series) for data centers and software-defined networks
+  lookup:
+    - calient
+  url: https://www.calient.net
+  support_phone: +1-805-695-4800
+Calix:
+  description: Provider of cloud and software broadband access platforms, systems and services for communications service providers
+  lookup:
+    - calix
+    - b6
+    - calixb6
+  url: https://www.calix.com
+  support_url: https://www.calix.com/support.html
+  cve_portal: https://www.calix.com/security.html
+Canon:
+  description: Japanese manufacturer of imaging and optical products including printers, multifunction devices, cameras and network imaging hardware
+  lookup:
+    - canon
+  url: https://global.canon
+  cve_portal: https://canon.jp/support/support-info/220609vulnerability-response
+  support_phone: +1-800-652-2666
+Certa:
+  description: Unidentified or low-profile vendor; no official company could be confidently confirmed for this name
+  lookup:
+    - certa
+Chatsworth-Products:
+  description: US manufacturer of data center and IT infrastructure racks, cabinets, cable management, power and thermal management solutions
+  lookup:
+    - chatsworth
+    - products
+    - chatsworthproducts
+  url: https://www.chatsworth.com
+  support_url: https://www.chatsworth.com/en-us/contact-us/
+  support_phone: +1-800-834-4969
+Check Point:
+  description: Network security, firewall, and threat-prevention vendor.
+  lookup:
+    - checkpoint
+    - gaia
+    - checkpointgaia
+  url: https://www.checkpoint.com
+  support_url: https://support.checkpoint.com
+  cve_portal: https://advisories.checkpoint.com/advisories/
+  support_phone: +1-888-361-5030
+Ciena:
+  description: Optical networking, packet-optical transport, and network automation vendor.
+  lookup:
+    - ciena
+    - saos
+    - cienasaos
+    - saos10
+    - cienasaos10
+    - waveserver
+    - cienawaveserver
+  url: https://www.ciena.com
+  support_url: https://www.ciena.com/support
+  cve_portal: https://www.ciena.com/about/security
+  support_phone: +1-800-243-6224
+Cisco:
+  description: Networking, security, and enterprise IT infrastructure vendor.
+  lookup:
+    - cisco
+    - apic
+    - ciscoapic
+    - asa
+    - ciscoasa
+    - ftd
+    - ciscoftd
+    - ios
+    - ciscoios
+    - nxos
+    - cisconxos
+    - s200
+    - ciscos200
+    - s300
+    - ciscos300
+    - s500
+    - ciscos500
+    - tp
+    - ciscotp
+    - viptela
+    - ciscoviptela
+    - wlc
+    - ciscowlc
+    - xe
+    - ciscoxe
+    - xr
+    - ciscoxr
+  url: https://www.cisco.com
+  support_url: https://www.cisco.com/c/en/us/support/index.html
+  cve_portal: https://sec.cloudapps.cisco.com/security/center/publicationListing.x
+  support_phone: +1-800-553-2447
+Citrix:
+  description: Application delivery, virtualization, and secure access (NetScaler) vendor (Cloud Software Group).
+  lookup:
+    - citrix
+    - netscaler
+  url: https://www.citrix.com
+  support_url: https://support.citrix.com
+  cve_portal: https://www.cloud.com/trust-center/product-security/vulnerability-response
+  support_phone: +1-800-424-8749
+Cohesity:
+  description: Data management, backup, and recovery software/appliance vendor.
+  lookup:
+    - cohesity
+  url: https://www.cohesity.com
+  support_url: https://www.cohesity.com/services/support/
+  cve_portal: https://www.cohesity.com/security-advisories/
+  support_phone: +1-855-926-4374
+Colable:
+  description: Chinese supplier of digital TV broadcasting headend equipment, including MPEG/H.264 encoders, multiplexers, modulators, set-top boxes, and Ethernet-over-coax systems
+  lookup:
+    - colable
+  url: https://www.colable.com
+Commscope:
+  description: Network infrastructure vendor (cabling, connectivity, broadband, and wireless solutions).
+  lookup:
+    - commscope
+  url: https://www.commscope.com
+  support_url: https://www.commscope.com/supportcenter
+  cve_portal: https://www.commscope.com/trust-center/security-advisories/
+  support_phone: +1-888-944-4357
+Complete Connect:
+  description: Networking and connectivity products brand.
+  lookup:
+    - complete
+    - connect
+    - completeconnect
+ConnectCom:
+  description: Networking and connectivity products brand.
+  lookup:
+    - connectcom
+Corning:
+  description: Optical fiber, cable, and connectivity solutions manufacturer for networks and data centers.
+  lookup:
+    - corning
+  url: https://www.corning.com
+  support_url: https://www.corning.com/optical-communications/worldwide/en/home/support.html
+  support_phone: +1-800-743-2675
+Corvil:
+  description: Network data analytics and performance monitoring vendor (part of Pico).
+  lookup:
+    - corvil
+  url: https://www.pico.net/corvil-analytics/
+Cradlepoint:
+  description: Cellular/5G wireless edge router and WAN networking vendor (part of Ericsson).
+  lookup:
+    - cradlepoint
+  url: https://cradlepoint.com
+  support_url: https://cradlepoint.com/support/
+  cve_portal: https://cradlepoint.com/trust-center/
+  support_phone: +1-855-813-3385
+CryptoPro:
+  description: Cryptographic software and PKI/digital-signature products vendor (CryptoPro CSP).
+  lookup:
+    - cryptopro
+  url: https://www.cryptopro.ru
+  support_phone: +7-495-995-48-20
+Cudy:
+  description: Consumer and SMB networking hardware vendor making Wi-Fi routers, mesh systems, access points and adapters.
+  lookup:
+    - cudy
+  url: https://www.cudy.com
+  support_url: https://www.cudy.com/pages/support
+  support_phone: +86-755-8600-8993
+CyberPower:
+  description: Manufacturer of uninterruptible power supplies (UPS), power distribution units, surge protectors and power management products.
+  lookup:
+    - cyberpower
+  url: https://www.cyberpowersystems.com
+  support_url: https://www.cyberpowersystems.com/support/
+  support_phone: +1-855-289-8177
+D-Link:
+  description: Networking hardware manufacturer producing switches, routers, wireless access points, and IP surveillance products.
+  lookup:
+    - dlink
+    - ds
+    - dlinkds
+  url: https://www.dlink.com
+  support_url: https://support.dlink.com
+  cve_portal: https://www.dlink.com/en/security-advisories
+  support_phone: +1-877-453-5465
+DCN:
+  description: Data communications equipment vendor (Digital China Networks / Yunke) producing Ethernet switches, routers, and wireless networking products.
+  lookup:
+    - dcn
+  url: http://www.dcnglobal.com
+DEPO:
+  description: Russian manufacturer of servers, storage systems, personal computers and IT infrastructure equipment.
+  lookup:
+    - depo
+  url: https://www.depo.ru
+  support_url: https://www.depo.ru/rubrica_r1632.aspx
+  support_phone: +7-495-969-22-27
+Dahua:
+  description: Video surveillance and security solutions vendor making IP and HDCVI cameras, NVRs/XVRs, PTZ, access control and related software.
+  lookup:
+    - dahua
+  url: https://www.dahuasecurity.com
+  support_url: https://support.dahuasecurity.com
+  cve_portal: https://www.dahuasecurity.com/about-dahua/trust-center/dahua-psirt
+  support_phone: +1-877-606-1590
+DataDirect Networks:
+  description: Data storage company providing high-performance and high-capacity storage systems for AI, analytics, and HPC environments.
+  lookup:
+    - datadirect
+    - networks
+    - datadirectnetworks
+    - ddn
+  url: https://www.ddn.com
+  support_url: https://www.ddn.com/support
+  support_phone: +1-800-837-2298
+Datacom:
+  description: Brazilian telecom and networking equipment vendor making carrier and enterprise Ethernet switches, routers and optical/MPLS systems (DmOS).
+  lookup:
+    - datacom
+  url: https://datacom.com.br
+  support_phone: +61-2-9023-5000
+Datto:
+  description: Vendor of backup, business continuity, and disaster recovery appliances and software for managed service providers.
+  lookup:
+    - datto
+  url: https://www.datto.com
+  support_url: https://www.datto.com/support
+  support_phone: +1-833-832-4780
+Datwyler:
+  description: Cabling systems and IT infrastructure connectivity vendor.
+  lookup:
+    - datwyler
+  url: https://www.datwyler.com
+  support_phone: +49-6190-8880-0
+Deciso:
+  description: Network security hardware vendor and maker of the OPNsense firewall platform.
+  lookup:
+    - deciso
+  url: https://www.deciso.com
+  support_url: https://www.deciso.com/support/
+  support_phone: +31-187-744-020
+Dell:
+  description: Enterprise IT vendor making servers, storage, networking switches, PCs, and data center infrastructure.
+  lookup:
+    - dell
+    - force10
+    - dellforce10
+    - isilon
+    - dellisilon
+    - os10
+    - dellos10
+    - os6
+    - dellos6
+    - os9
+    - dellos9
+    - powerconnect
+    - dellpowerconnect
+    - sonic
+    - dellsonic
+  url: https://www.dell.com
+  support_url: https://www.dell.com/support
+  cve_portal: https://www.dell.com/support/security/en-us
+  support_phone: +1-800-624-9896
+Delta:
+  description: Power electronics and infrastructure vendor making switching power supplies, networking switches, PDUs, and industrial automation equipment.
+  lookup:
+    - delta
+  url: https://www.deltaww.com
+  support_url: https://www.deltaww.com/en-US/service-support/contact-us
+  cve_portal: https://www.deltaww.com/en-US/service-support/product-cybersecurity/advisory
+  support_phone: +1-888-979-9889
+Diamond SA:
+  description: Fiber optic connector and cable assembly manufacturer.
+  lookup:
+    - diamond
+    - diamondsa
+  url: https://www.diamond-fo.com
+  support_phone: +41-58-307-45-45
+Digi:
+  description: Digi International, a vendor of cellular routers, gateways, embedded modules, and IoT connectivity hardware for industrial and enterprise networking.
+  lookup:
+    - digi
+  url: https://www.digi.com
+  support_url: https://www.digi.com/support
+  cve_portal: https://www.digi.com/resources/security
+  support_phone: +1-952-912-3456
+Digital Loggers:
+  description: Switched PDU and power control / automation equipment manufacturer.
+  lookup:
+    - digital
+    - loggers
+    - digitalloggers
+  url: https://www.digital-loggers.com
+  support_url: https://www.digital-loggers.com/support.html
+  support_phone: +1-408-330-5599
+Digitus:
+  description: IT connectivity and networking accessories brand (Assmann Group).
+  lookup:
+    - digitus
+  url: https://www.digitus.info
+  support_phone: +49-2351-554-0
+EFB Elektronik:
+  description: German manufacturer and distributor of network cabling, connectivity, fiber optic, and data communication infrastructure products.
+  lookup:
+    - efb
+    - elektronik
+    - efbelektronik
+  url: https://www.efb-elektronik.de
+  support_phone: +49-521-40418-0
+Eaton:
+  description: Power management company making UPS systems, PDUs, surge protection, and electrical/industrial power distribution equipment.
+  lookup:
+    - eaton
+  url: https://www.eaton.com
+  support_url: https://www.eaton.com/us/en-us/support.html
+  cve_portal: https://www.eaton.com/us/en-us/company/news-insights/cybersecurity/security-notifications.html
+  support_phone: +1-877-386-2273
+Edgecore:
+  description: Open networking hardware vendor making bare-metal data center and campus switches, routers, and Wi-Fi access points.
+  lookup:
+    - edgecore
+  url: https://www.edge-core.com
+  support_url: https://support.edge-core.com
+  support_phone: +886-3-5638888
+Eltex:
+  description: Russian designer and manufacturer of telecommunications equipment including Ethernet switches, GPON OLT/ONT, routers, and wireless access controllers.
+  lookup:
+    - eltex
+    - esr
+    - eltexesr
+  url: https://eltex-co.com
+  support_url: https://eltex-co.com/support/
+  support_phone: +7-383-274-10-01
+EnGenius:
+  description: Networking vendor making wireless access points, switches, and cloud-managed network solutions for small and mid-sized businesses.
+  lookup:
+    - engenius
+  url: https://www.engeniustech.com
+  support_url: https://www.engeniustech.com/support.html
+  support_phone: +1-714-432-8668
+Ericsson:
+  description: Swedish multinational telecommunications equipment and networking vendor for mobile and fixed network infrastructure.
+  lookup:
+    - ericsson
+    - ipos
+    - ericssonipos
+    - mltn63
+    - ericssonmltn63
+    - mltn66
+    - ericssonmltn66
+  url: https://www.ericsson.com
+  support_url: https://www.ericsson.com/en/support
+  cve_portal: https://www.ericsson.com/en/about-us/security/psirt
+  support_phone: +46-10-719-0000
+EtherWAN:
+  description: Manufacturer of industrial managed and unmanaged Ethernet switches, PoE switches, and media converters for harsh environments.
+  lookup:
+    - etherwan
+  url: https://www.etherwan.com
+  support_url: https://www.etherwan.com/us/support
+  support_phone: +1-714-779-3800
+ExaGrid:
+  description: Tiered backup storage appliance vendor for data backup, deduplication, and ransomware recovery.
+  lookup:
+    - exagrid
+  url: https://www.exagrid.com
+  support_url: https://www.exagrid.com/support/
+  support_phone: +1-800-868-6985
+Exegate:
+  description: Manufacturer of computer cases, power supply units, cooling fans, and PC peripherals/accessories.
+  lookup:
+    - exegate
+  url: https://www.exegate.com
+Extreme Networks:
+  description: Enterprise networking vendor making wired and wireless switches, routers, access points, and cloud network management software.
+  lookup:
+    - extreme
+    - networks
+    - ers
+    - extremeers
+    - exos
+    - extremeexos
+    - netiron
+    - extremenetiron
+    - nos
+    - extremenos
+    - slx
+    - extremeslx
+    - tierra
+    - extremetierra
+    - vdx
+    - extremevdx
+    - vsp
+    - extremevsp
+    - wing
+    - extremewing
+  url: https://www.extremenetworks.com
+  support_url: https://www.extremenetworks.com/support
+  cve_portal: https://www.extremenetworks.com/support/psirt
+  support_phone: +1-800-998-2408
+F5:
+  description: Application delivery, load balancing (BIG-IP) and application/API security vendor.
+  lookup:
+    - f5
+    - tmsh
+    - ltm
+    - f5tmsh
+    - f5ltm
+  url: https://www.f5.com
+  support_url: https://www.f5.com/support
+  cve_portal: https://my.f5.com/manage/s/article/K41942608
+  support_phone: +1-888-882-7535
+FS:
+  description: Networking and optical transceiver, switch, and cabling vendor (FS.com).
+  lookup:
+    - fs
+  url: https://www.fs.com
+  support_url: https://www.fs.com/service_support.html
+  support_phone: +1-888-468-9910
+Factor-TS:
+  description: Russian vendor of DIONIS-branded secure cryptorouters, firewalls and VPN/crypto gateways for protected IP data networks.
+  lookup:
+    - factor
+    - ts
+    - factorts
+  url: https://factor-ts.ru
+  support_phone: +7-495-662-66-40
+FibroLAN:
+  description: Israeli developer of Carrier Ethernet switches and Timing & Synchronization (PTP/NTP) equipment for telecom, utility and mobile transport networks.
+  lookup:
+    - fibrolan
+  url: https://www.fibrolan.com
+  support_url: https://www.fibrolan.com/Firmware
+  support_phone: +972-4-959-1717
+FireBrick:
+  description: UK manufacturer of routers, firewalls, and VoIP/network appliances.
+  lookup:
+    - firebrick
+  url: https://www.firebrick.co.uk
+  support_url: https://www.firebrick.co.uk/support/
+  support_phone: +44-1344-400-500
+Firewalla:
+  description: Consumer and small-business cybersecurity firewall appliances combining firewall, IPS/IDS, VPN, and parental controls.
+  lookup:
+    - firewalla
+  url: https://firewalla.com
+  support_url: https://help.firewalla.com/hc/en-us
+Fortinet:
+  description: Enterprise network security vendor making FortiGate firewalls, secure switches, wireless access points, and SASE/SD-WAN products.
+  lookup:
+    - fortinet
+  url: https://www.fortinet.com
+  support_url: https://support.fortinet.com/welcome/
+  cve_portal: https://www.fortiguard.com/psirt
+  support_phone: +1-408-542-7780
+Forza:
+  description: Forza Power Technologies, a maker of UPS systems, voltage regulators, surge protectors and power-protection devices
+  lookup:
+    - forza
+  url: https://www.forzaups.com
+  support_url: https://www.forzaups.com/support/
+Fujitsu:
+  description: Japanese multinational ICT vendor making servers, storage, client computing devices and IT services
+  lookup:
+    - fujitsu
+  url: https://www.fujitsu.com
+  support_url: https://support.ts.fujitsu.com
+  cve_portal: https://security.ts.fujitsu.com/ProductSecurity/
+  support_phone: +1-800-873-3822
+GL-iNet:
+  description: Manufacturer of compact Wi-Fi and travel routers, mini PCs, and OpenWrt-based networking devices.
+  lookup:
+    - gl-inet
+    - gl
+    - inet
+    - glinet
+    - gliinet
+  url: https://www.gl-inet.com
+  support_url: https://www.gl-inet.com/support/
+  cve_portal: https://www.gl-inet.com/security-updates/
+Generic:
+  description: Generic/placeholder manufacturer used in the NetBox device library for unbranded or whitebox components such as patch panels and blanking plates
+  lookup:
+    - generic
+Glovary:
+  description: Brand of low-cost fanless mini PCs and firewall/router appliances (Intel N100/N150/N305, 2.5GbE LAN) sold mainly via online marketplaces.
+  lookup:
+    - glovary
+Good Connections:
+  description: European brand of networking cables, connectors, and connectivity accessories for office and home network infrastructure.
+  lookup:
+    - good
+    - connections
+    - goodconnections
+Google:
+  description: Technology company that, among many products, makes Nest Wifi and Google Wifi consumer mesh networking routers and access points.
+  lookup:
+    - google
+  url: https://store.google.com
+  support_url: https://support.google.com/googlenest
+  cve_portal: https://cloud.google.com/support/bulletins
+Grandstream:
+  description: VoIP phones, IP video, networking and unified communications equipment vendor.
+  lookup:
+    - grandstream
+  url: https://www.grandstream.com
+  support_url: https://www.grandstream.com/support
+  cve_portal: https://psirt.grandstream.com/
+  support_phone: +1-617-566-9300
+HITACHI:
+  description: Maker of enterprise data storage systems and IT infrastructure, primarily through its Hitachi Vantara business.
+  lookup:
+    - hitachi
+  url: https://www.hitachivantara.com
+  support_url: https://support.hitachivantara.com
+  cve_portal: https://www.hitachi.com/hirt/security/index.html
+  support_phone: +1-800-446-0744
+HP:
+  description: Manufacturer of personal computers, printers and related peripherals; historically also ProCurve/Comware networking switches.
+  lookup:
+    - hp
+    - comware
+    - hpcomware
+    - procurve
+    - hpprocurve
+  url: https://www.hp.com
+  support_url: https://support.hp.com
+  cve_portal: https://support.hp.com/us-en/security-bulletins
+  support_phone: +1-800-474-6836
+HPE:
+  description: Enterprise IT vendor making servers, storage, and Aruba networking switches, routers and access points.
+  lookup:
+    - hpe
+    - comware
+    - hpcomware
+  url: https://www.hpe.com
+  support_url: https://support.hpe.com
+  cve_portal: https://www.hpe.com/us/en/about/digital-trust-center/security.html
+  support_phone: +1-800-633-3600
+HUBER SUHNER:
+  description: Manufacturer of radio frequency, fiber optic and low frequency connectivity components, cables and cabling systems.
+  lookup:
+    - huber
+    - suhner
+    - hubersuhner
+  url: https://www.hubersuhner.com
+  support_phone: +41-71-353-41-11
+HW-Group:
+  description: Maker of IP-based environmental and process monitoring devices, sensors and serial-over-IP gateways.
+  lookup:
+    - hw
+    - group
+    - hwgroup
+    - hwg
+  url: https://www.hw-group.com
+  support_phone: +420-222-511-918
+HiWatch:
+  description: Value-focused video surveillance brand by Hikvision offering IP and Turbo HD cameras, NVRs and DVRs.
+  lookup:
+    - hiwatch
+  url: https://www.hikvision.com/europe/products/hiwatch/
+  support_url: https://www.hikvision.com/en/support/
+  cve_portal: https://www.hikvision.com/en/support/cybersecurity/security-advisory/
+  support_phone: +1-866-200-6690
+Hikvision:
+  description: Manufacturer of video surveillance products including IP cameras, NVRs and DVRs for security and IoT applications.
+  lookup:
+    - hikvision
+  url: https://www.hikvision.com
+  support_url: https://www.hikvision.com/en/support/
+  cve_portal: https://www.hikvision.com/en/support/cybersecurity/security-advisory/
+  support_phone: +1-866-200-6690
+Hitron:
+  description: Taiwanese telecommunications equipment manufacturer making DOCSIS cable modems, gateways, and WiFi routers for cable service providers.
+  lookup:
+    - hitron
+  url: https://hitrontech.com/
+  support_url: https://hitrontech.com/service/
+  cve_portal: https://www.hitrontech.com/legal/product-security-policy/
+  support_phone: +886-3-578-6658
+Huawei:
+  description: Chinese ICT and telecommunications vendor making enterprise networking switches, routers, OLTs, servers, storage, and carrier infrastructure.
+  lookup:
+    - huawei
+    - vrp
+    - huaweivrp
+    - smartax
+    - huaweismartax
+    - olt
+    - huaweiolt
+  url: https://www.huawei.com
+  support_url: https://support.huawei.com/enterprise/en/index.html
+  cve_portal: https://www.huawei.com/en/psirt
+  support_phone: +1-855-482-9343
+IBM:
+  description: Enterprise IT vendor making servers, mainframes, storage, networking hardware, software, and cloud and consulting services.
+  lookup:
+    - ibm
+  url: https://www.ibm.com
+  support_url: https://www.ibm.com/mysupport
+  cve_portal: https://www.ibm.com/trust/security-vulnerability-management
+  support_phone: +1-800-426-7378
+ITK:
+  description: Electrical and network infrastructure products brand (IEK Group).
+  lookup:
+    - itk
+  support_phone: +7-495-542-22-24
+IceWhale:
+  description: Personal/home server hardware and software vendor (ZimaBoard, CasaOS).
+  lookup:
+    - icewhale
+  url: https://www.icewhale.org
+Ideco:
+  description: Russian network security vendor (UTM gateway / firewall).
+  lookup:
+    - ideco
+  url: https://ideco.ru
+  support_phone: +7-495-662-87-34
+Infinera:
+  description: Optical transport and packet-optical networking systems vendor (part of Nokia).
+  lookup:
+    - infinera
+  url: https://www.infinera.com
+  support_url: https://www.infinera.com/support/
+  support_phone: +1-408-716-5700
+Infoblox:
+  description: DNS, DHCP, and IP address management (DDI) and network security vendor.
+  lookup:
+    - infoblox
+  url: https://www.infoblox.com
+  support_url: https://support.infoblox.com
+  cve_portal: https://www.infoblox.com/products/grid/security-advisories/
+  support_phone: +1-888-463-6259
+Infortrend:
+  description: Network and direct-attached storage systems vendor (EonStor).
+  lookup:
+    - infortrend
+  url: https://www.infortrend.com
+  support_url: https://www.infortrend.com/global/Support
+  support_phone: +1-408-988-5088
+Infotecs:
+  description: Russian information-security vendor (ViPNet VPN and network security products).
+  lookup:
+    - infotecs
+  url: https://infotecs.ru
+  support_phone: +1-917-982-7130
+Inspur:
+  description: Servers, storage, and cloud data-center hardware vendor.
+  lookup:
+    - inspur
+  url: https://www.inspur.com
+  support_phone: +86-531-8160-4000
+Intel:
+  description: Semiconductor and computing hardware manufacturer (CPUs, networking, FPGAs).
+  lookup:
+    - intel
+  url: https://www.intel.com
+  support_url: https://www.intel.com/content/www/us/en/support.html
+  cve_portal: https://www.intel.com/content/www/us/en/security-center/default.html
+  support_phone: +1-800-538-3373
+Intelbras:
+  description: Brazilian vendor of networking, telecom, and electronic security equipment.
+  lookup:
+    - intelbras
+  url: https://www.intelbras.com
+  support_url: https://www.intelbras.com/pt-br/suporte
+  support_phone: +55-48-2106-0006
+Intellinet:
+  description: Networking and IT connectivity accessories brand (IC Intracom).
+  lookup:
+    - intellinet
+  url: https://www.intellinetnetwork.com
+  support_phone: +1-813-855-0550
+Ippon:
+  description: Manufacturer of uninterruptible power supplies (UPS), power distribution units, voltage stabilizers, and batteries for IT and infrastructure.
+  lookup:
+    - ippon
+  url: https://ippon.ru
+Ivanti:
+  description: IT software vendor providing unified endpoint management, IT asset and service management, and secure network access (VPN/ZTNA) products.
+  lookup:
+    - ivanti
+  url: https://www.ivanti.com
+  support_url: https://www.ivanti.com/support
+  cve_portal: https://www.ivanti.com/blog/topics/security-advisory
+  support_phone: +1-844-751-7629
+Juniper:
+  description: Enterprise and service-provider networking vendor making routers, switches, firewalls, and Junos network operating system software.
+  lookup:
+    - juniper
+    - junos
+    - juniperjunos
+  url: https://www.juniper.net
+  support_url: https://supportportal.juniper.net
+  cve_portal: https://advisory.juniper.net
+  support_phone: +1-888-314-5822
+Keenetic:
+  description: Consumer and SOHO Wi-Fi router and mesh networking vendor.
+  lookup:
+    - keenetic
+  url: https://keenetic.com
+  support_url: https://help.keenetic.com
+Kehua:
+  description: Power electronics vendor making UPS systems, critical power and data center infrastructure, and renewable energy solutions.
+  lookup:
+    - kehua
+  url: https://www.kehua.com
+  support_url: https://www.kehua.com/support.html
+  support_phone: +86-592-5160516
+Kemp Technologies:
+  description: Application delivery controller and load balancer vendor (LoadMaster, Progress Kemp).
+  lookup:
+    - kemp
+    - technologies
+    - kemptechnologies
+  url: https://kemp.ax
+  support_url: https://support.kemptechnologies.com
+  cve_portal: https://support.kemptechnologies.com/hc/en-us/sections/4408142031373-Security-Vulnerabilities
+  support_phone: +1-844-470-5367
+Kerlink:
+  description: LoRaWAN IoT network gateway and infrastructure vendor.
+  lookup:
+    - kerlink
+  url: https://www.kerlink.com
+Keysight:
+  description: Electronic test and measurement, and network test/visibility solutions vendor.
+  lookup:
+    - keysight
+  url: https://www.keysight.com
+  support_url: https://www.keysight.com/us/en/support.html
+  cve_portal: https://www.keysight.com/us/en/lib/resources/miscellaneous/keysight-security-advisories.html
+  support_phone: +1-800-829-4444
+LANCOM:
+  description: German manufacturer of business networking hardware including routers, switches, wireless access points and firewalls.
+  lookup:
+    - lancom
+  url: https://www.lancom-systems.com
+  support_url: https://www.lancom-systems.com/service-support/
+  cve_portal: https://www.lancom-systems.com/service-support/security-information
+  support_phone: +49-2405-49936210
+LTV:
+  description: Video surveillance and CCTV equipment brand.
+  lookup:
+    - ltv
+Lanner:
+  description: Taiwanese designer and manufacturer of network appliances, uCPE/SD-WAN and edge computing hardware.
+  lookup:
+    - lanner
+  url: https://www.lannerinc.com
+  support_url: https://www.lannerinc.com/services/design-and-manufacturing/technical-support
+  support_phone: +886-2-8692-6060
+Lantronix:
+  description: Provider of IoT, device networking, console servers and remote device management hardware.
+  lookup:
+    - lantronix
+  url: https://www.lantronix.com
+  support_url: https://www.lantronix.com/technical-support/
+  cve_portal: https://www.lantronix.com/technical-support/security-updates/
+  support_phone: +1-800-422-7055
+Legrand:
+  description: French specialist in electrical and digital building infrastructure, including data center power, PDUs and KVM.
+  lookup:
+    - legrand
+  url: https://www.legrand.com
+  support_url: https://www.legrand.us/contact-and-support
+  support_phone: +1-800-223-4162
+Lenovo:
+  description: Multinational manufacturer of PCs, servers, storage and data center networking hardware.
+  lookup:
+    - lenovo
+  url: https://www.lenovo.com
+  support_url: https://support.lenovo.com
+  cve_portal: https://support.lenovo.com/us/en/product_security/ps500001-lenovo-product-security-advisories
+  support_phone: +1-855-253-6686
+LevelOne:
+  description: Networking brand of Digital Data Communications offering switches, access points, media converters and IP surveillance.
+  lookup:
+    - levelone
+    - level1
+  url: https://global.level1.com
+  support_phone: +1-800-876-8889
+Leviton:
+  description: American manufacturer of electrical wiring devices, lighting controls, network/data center connectivity solutions, and EV charging equipment for residential, commercial, and industrial markets.
+  lookup:
+    - leviton
+  url: https://leviton.com
+  support_url: https://leviton.com/support/resources/product-support
+  support_phone: +1-800-824-3005
+Linksys:
+  description: Brand of consumer and small-business networking hardware including Wi-Fi routers, mesh systems and switches.
+  lookup:
+    - linksys
+  url: https://www.linksys.com
+  support_url: https://support.linksys.com
+  support_phone: +1-800-326-7114
+LiteOn:
+  description: Taiwanese manufacturer of optoelectronic semiconductor components, LEDs, and power management modules and supplies for electronics.
+  lookup:
+    - liteon
+    - lite-on
+    - liteontechnology
+  url: https://www.liteon.com
+  support_phone: +886-2-8798-2888
+Logilink:
+  description: IT and networking accessories brand (2-Power / Assmann).
+  lookup:
+    - logilink
+  url: https://www.logilink.com
+  support_phone: +49-2351-66887-0
+Longshine:
+  description: Networking equipment and connectivity products vendor.
+  lookup:
+    - longshine
+  url: https://www.longshine.de
+  support_phone: +49-4102-4922-0
+MDX:
+  description: Data center and networking equipment brand.
+  lookup:
+    - mdx
+Meinberg:
+  description: Time and frequency synchronization vendor (NTP/PTP time servers, GNSS clocks).
+  lookup:
+    - meinberg
+  url: https://www.meinbergglobal.com
+  support_url: https://www.meinbergglobal.com/english/support/
+  cve_portal: https://www.meinbergglobal.com/english/news/
+  support_phone: +1-877-787-1588
+Mellanox:
+  description: High-performance networking (InfiniBand and Ethernet) vendor, now NVIDIA Networking.
+  lookup:
+    - mellanox
+    - mlnxos
+    - mellanoxmlnxos
+  url: https://www.nvidia.com/en-us/networking/
+  support_url: https://www.nvidia.com/en-us/networking/support/
+Middle Atlantic:
+  description: AV/IT racks, enclosures, power distribution and technical furniture, a brand of Legrand AV.
+  lookup:
+    - middle
+    - atlantic
+    - middleatlantic
+  url: https://www.legrandav.com
+  support_url: https://www.legrandav.com/contact_us/contact_us
+  support_phone: +1-800-223-4162
+MikroTik:
+  description: Latvian vendor of routers, switches and wireless networking equipment running RouterOS.
+  lookup:
+    - mikrotik
+    - routeros
+    - mikrotikrouteros
+    - switchos
+    - mikrotikswitchos
+  url: https://mikrotik.com
+  support_url: https://help.mikrotik.com
+  cve_portal: https://mikrotik.com/supportsec
+  support_phone: +371-6-7317700
+Mimosa Networks:
+  description: Fixed wireless broadband access and backhaul radio equipment vendor (Mimosa product line by Radisys/Airspan).
+  lookup:
+    - mimosa
+    - networks
+    - mimosanetworks
+  url: https://mimosa.co
+  support_url: https://mimosa.co/support
+Minisforum:
+  description: Chinese manufacturer of mini PCs, workstations and small-form-factor computing hardware.
+  lookup:
+    - minisforum
+  url: https://www.minisforum.com
+  support_url: https://www.minisforum.net/new/support?lang=en
+MitraStar:
+  description: Taiwanese ODM/DMS company that designs and manufactures wired and wireless broadband networking customer-premises equipment such as fiber/PON CPE, gateways, OLTs and routers.
+  lookup:
+    - mitrastar
+    - mitra
+  url: https://www.mitrastar.com
+  support_url: https://vip.mitrastar.com/?lang=eng
+  support_phone: +886-3-5777998
+Most:
+  description: Russian manufacturer (brand MOST / МОСТ) of consumer and office surge protectors and power strips.
+  lookup:
+    - most
+  url: https://most2000.ru
+Motorola:
+  description: Consumer networking brand for DOCSIS cable modems, gateways and Wi-Fi routers under the Motorola name.
+  lookup:
+    - motorola
+  url: https://www.motorola.com/us/en/family/modems-networking
+  support_url: https://motorolanetwork.com/pages/help-site
+  support_phone: +1-888-325-9336
+Moxa:
+  description: Industrial networking and automation vendor making Ethernet switches, serial device servers, and industrial computing and connectivity products.
+  lookup:
+    - moxa
+    - nos
+    - moxanos
+  url: https://www.moxa.com
+  support_url: https://www.moxa.com/en/support
+  cve_portal: https://www.moxa.com/en/support/product-support/security-advisory
+  support_phone: +1-714-528-6777
+NEC:
+  description: Japanese multinational IT and networking vendor making telecom/5G/optical transport network equipment, servers, and IT solutions.
+  lookup:
+    - nec
+  url: https://www.nec.com/
+  support_url: https://www.nec.com/en/global/support/index.html
+  cve_portal: https://jpn.nec.com/security-info/policy_en.html
+NETIO:
+  description: Czech manufacturer of smart power distribution units (PDUs), power sockets and power strips controllable over LAN, WiFi and cloud.
+  lookup:
+    - netio
+  url: https://www.netio-products.com
+  support_url: https://www.netio-products.com/en/contact
+  support_phone: +420-211-150-111
+NICGIGA:
+  description: Networking hardware vendor making multi-gigabit Ethernet switches, network interface cards, and wireless repeaters/bridges for home and small business.
+  lookup:
+    - nicgiga
+  url: https://www.nicgiga.com
+  support_url: https://www.nicgiga.com/pages/help-faqs
+Nabu Casa:
+  description: Company behind Home Assistant; provides Home Assistant Cloud and smart-home hardware.
+  lookup:
+    - nabucasa
+    - nabu
+    - casa
+  url: https://www.nabucasa.com
+Nateks:
+  description: Russian developer and manufacturer of telecommunications and networking equipment, including switches, routers, multiplexers and xDSL/SDH/PDH transport gear.
+  lookup:
+    - nateks
+  url: https://www.nateks.ru
+  support_url: https://www.nateks.ru/podderzhka
+Neousys:
+  description: Rugged embedded and edge computing systems vendor.
+  lookup:
+    - neousys
+  url: https://www.neousys-tech.com
+  support_url: https://www.neousys-tech.com/en/support-service/technical-support
+  support_phone: +1-847-656-3298
+NetApp:
+  description: Data storage and cloud data-management systems vendor.
+  lookup:
+    - netapp
+  url: https://www.netapp.com
+  support_url: https://mysupport.netapp.com
+  cve_portal: https://security.netapp.com/advisory/
+  support_phone: +1-888-463-8277
+NetPing:
+  description: Networked environment monitoring and remote power management device vendor.
+  lookup:
+    - netping
+  url: https://www.netping.ru
+Netgate:
+  description: Vendor of pfSense- and TNSR-based firewall, VPN and routing appliances and software for network security and edge routing.
+  lookup:
+    - netgate
+  url: https://www.netgate.com
+  support_url: https://www.netgate.com/support
+  support_phone: +1-512-646-4100
+Netgear:
+  description: Networking hardware vendor of switches, routers, wireless access points, modems and storage for home, SMB and enterprise markets.
+  lookup:
+    - netgear
+  url: https://www.netgear.com
+  support_url: https://www.netgear.com/support/
+  cve_portal: https://www.netgear.com/about/security/
+  support_phone: +1-888-638-4327
+Netlink:
+  description: Networking and fiber-optic transmission equipment brand.
+  lookup:
+    - netlink
+Netonix:
+  description: Manufacturer of carrier-grade managed PoE switches purpose-built for wireless internet service providers (WISPs).
+  lookup:
+    - netonix
+  url: https://www.netonix.com
+Nexconec:
+  description: Networking and connectivity equipment brand.
+  lookup:
+    - nexconec
+  support_phone: +33-4-82-31-52-01
+Niagara:
+  description: Network visibility, packet broker, and security delivery platform vendor (Niagara Networks).
+  lookup:
+    - niagara
+  url: https://www.niagaranetworks.com
+  support_url: https://www.niagaranetworks.com/support/
+  support_phone: +1-408-471-6590
+Nokia:
+  description: Telecommunications and networking equipment vendor providing IP/optical routers, mobile (RAN/5G) and fixed broadband network infrastructure.
+  lookup:
+    - nokia
+    - sros
+    - nokiasros
+    - srl
+    - nokiasrl
+  url: https://www.nokia.com
+  support_url: https://customer.nokia.com/s/
+  cve_portal: https://www.nokia.com/about-us/security-and-privacy/product-security-advisory/
+Nozomi Networks:
+  description: OT and IoT cybersecurity, asset visibility, and threat detection vendor.
+  lookup:
+    - nozomi
+    - networks
+    - nozominetworks
+  url: https://www.nozominetworks.com
+  support_url: https://www.nozominetworks.com/support
+  cve_portal: https://security.nozominetworks.com
+  support_phone: +1-877-282-5858
+Nvidia:
+  description: GPU, accelerated computing, and data-center networking vendor (Ethernet/InfiniBand switches via Mellanox, plus AI/graphics hardware).
+  lookup:
+    - nvidia
+    - nvos
+    - nvidianvos
+    - mellanox
+    - mlnxos
+    - mellanoxmlnxos
+  url: https://www.nvidia.com
+  support_url: https://www.nvidia.com/en-us/support/
+  cve_portal: https://www.nvidia.com/en-us/product-security/
+  support_phone: +1-800-421-5048
+ONLINE USV-Systeme:
+  description: German uninterruptible power supply (UPS) systems manufacturer.
+  lookup:
+    - online
+    - usv
+    - systeme
+    - onlineusvsysteme
+  url: https://www.online-usv.de
+  support_phone: +49-89-2423990-10
+OPNsense:
+  description: Open-source FreeBSD-based firewall and routing platform (by Deciso).
+  lookup:
+    - opnsense
+  url: https://opnsense.org
+  support_url: https://opnsense.org/users/support/
+  cve_portal: https://docs.opnsense.org/security.html
+  support_phone: +31-187-744020
+Olencom:
+  description: Optical networking and transmission equipment vendor (Olencom Electronics).
+  lookup:
+    - olencom
+  url: https://www.olencom.com
+Opengear:
+  description: Out-of-band management, console server, and smart-out-of-band networking vendor.
+  lookup:
+    - opengear
+  url: https://opengear.com
+  support_url: https://opengear.com/support/
+  cve_portal: https://opengear.com/security-advisories/
+  support_phone: +1-855-671-1337
+Orange:
+  description: French multinational telecommunications operator (Orange S.A. / Orange Business) providing networking services and customer premises equipment such as Livebox business routers.
+  lookup:
+    - orange
+  url: https://www.orange.com
+  support_url: https://www.orange-business.com/en/get-help
+  cve_portal: https://advisories.orangecyberdefense.com
+Orient:
+  description: Low-cost networking hardware brand (Eastern European/Russian market) producing unmanaged Ethernet and PoE switches and injectors.
+  lookup:
+    - orient
+Osnovo:
+  description: PoE, media converter, and signal transmission equipment vendor.
+  lookup:
+    - osnovo
+  url: https://osnovo.com
+  support_phone: +7-800-707-06-54
+Overland-Tandberg:
+  description: Data storage, tape, and backup systems vendor.
+  lookup:
+    - overland
+    - tandberg
+    - overlandtandberg
+  url: https://www.overlandtandberg.com
+  support_url: https://www.overlandtandberg.com/support/
+  support_phone: +1-888-343-7627
+PC Engines:
+  description: Swiss maker of low-power embedded x86 single-board computers (APU/ALIX series) for networking, firewall and router appliances.
+  lookup:
+    - pcengines
+    - pc
+    - engines
+  url: https://www.pcengines.ch
+PLANET:
+  description: Taiwanese vendor of IP networking hardware including managed and PoE Ethernet switches, industrial switches, media converters, and IP surveillance products.
+  lookup:
+    - planet
+  url: https://www.planet.com.tw
+  support_url: https://www.planet.com.tw/en/support
+  cve_portal: https://www.planet.com.tw/en/support/security-advisory
+  support_phone: +886-2-22199518
+Palo Alto:
+  description: Enterprise cybersecurity vendor making next-generation firewalls, network security appliances and cloud security platforms.
+  lookup:
+    - paloalto
+    - panos
+    - paloaltopanos
+    - palo
+    - alto
+  url: https://www.paloaltonetworks.com
+  support_url: https://support.paloaltonetworks.com
+  cve_portal: https://security.paloaltonetworks.com
+  support_phone: +1-866-898-7087
+Panduit:
+  description: US manufacturer of network and electrical infrastructure products including structured cabling, connectivity, racks and cable management.
+  lookup:
+    - panduit
+  url: https://www.panduit.com
+  support_url: https://www.panduit.com/en/support.html
+  support_phone: +1-866-871-4571
+Parks:
+  description: Brazilian manufacturer of telecom and broadband access equipment, notably GPON OLTs and ONUs in the Fiberlink line.
+  lookup:
+    - parks
+  url: https://www.parks.com.br
+  support_phone: +55-51-3205-2949
+Patton:
+  description: US manufacturer of VoIP gateways, session border controllers, Ethernet extenders and network interface converters.
+  lookup:
+    - patton
+  url: https://www.patton.com
+  support_url: https://www.patton.com/support/
+  support_phone: +1-301-975-1007
+Peplink:
+  description: Networking hardware vendor specializing in SD-WAN routers, cellular bonding, and multi-WAN load-balancing appliances
+  lookup:
+    - peplink
+  url: https://www.peplink.com
+  support_url: https://www.peplink.com/support/
+Perle:
+  description: Device networking, media conversion, console server, and IoT connectivity hardware manufacturer
+  lookup:
+    - perle
+  url: https://www.perle.com
+  support_url: https://www.perle.com/support_services/
+  cve_portal: https://www.perle.com/support_services/security.shtml
+  support_phone: +1-905-946-5080
+Phoenix Contact:
+  description: German manufacturer of industrial automation, electrical connection and interface technology including terminal blocks, PLCs and industrial Ethernet.
+  lookup:
+    - phoenix
+    - contact
+    - phoenixcontact
+  url: https://www.phoenixcontact.com
+  support_url: https://www.phoenixcontact.com/en-pc/service-and-support
+  cve_portal: https://www.phoenixcontact.com/en-pc/service-and-support/psirt
+  support_phone: +1-800-808-7177
+Pluribus:
+  description: Software-defined networking pioneer behind the Netvisor ONE NOS and Freedom switches; acquired by Arista Networks in 2022.
+  lookup:
+    - pluribus
+  support_phone: +1-855-438-8638
+Polatis:
+  description: All-optical (photonic) matrix switch vendor (HUBER+SUHNER Polatis).
+  lookup:
+    - polatis
+  url: https://www.polatis.com
+  support_phone: +1-781-275-5080
+Powercom:
+  description: Taiwanese manufacturer of uninterruptible power supplies (UPS), automatic voltage regulators, and power-protection peripherals.
+  lookup:
+    - powercom
+  url: https://www.upspowercom.com
+  support_url: https://www.upspowercom.com/support
+  support_phone: +886-2-2225-8552
+Powerman:
+  description: Russian brand (TPG TAIPIT) of uninterruptible power supplies (UPS) and electrical power-protection equipment for IT and computing.
+  lookup:
+    - powerman
+  url: https://powerman.ru
+  support_phone: +27-861-444-445
+Pultimo:
+  description: Networking and IT equipment brand.
+  lookup:
+    - pultimo
+QCT:
+  description: 'Quanta Cloud Technology, a Quanta Computer subsidiary, makes hyperscale datacenter hardware: rackmount servers, storage, network switches, and integrated rack systems.'
+  lookup:
+    - qct
+    - quanta
+  url: https://www.qct.io
+  support_url: https://www.qct.io/Service-Warranty/index
+  cve_portal: https://www.qct.io/Press-Releases/index/PR/Server/Security-Center
+  support_phone: +1-855-728-6878
+QNAP:
+  description: Taiwanese vendor of network-attached storage (NAS) appliances, surveillance and networking hardware for file sharing, backup and virtualization.
+  lookup:
+    - qnap
+  url: https://www.qnap.com
+  support_url: https://service.qnap.com/en/home
+  cve_portal: https://www.qnap.com/en/security-advisories
+  support_phone: +1-771-333-8884
+QSAN:
+  description: Network-attached and SAN storage systems vendor.
+  lookup:
+    - qsan
+  url: https://www.qsan.com
+  support_url: https://www.qsan.com/support
+  cve_portal: https://www.qsan.com/security_advisories
+  support_phone: +886-2-7720-6355
+QTECH:
+  description: Russian networking and telecommunications equipment vendor.
+  lookup:
+    - qtech
+  url: https://www.qtech.ru
+  support_phone: +7-495-797-3311
+Qotom:
+  description: Chinese manufacturer of fanless mini PCs, industrial mini PCs, thin clients, and NAS appliances.
+  lookup:
+    - qotom
+  url: https://www.qotom.net
+Quantum:
+  description: Data storage, backup, and archive systems vendor.
+  lookup:
+    - quantum
+  url: https://www.quantum.com
+  support_url: https://www.quantum.com/en/service-support/
+  cve_portal: https://www.quantum.com/en/company/security/
+  support_phone: +1-800-284-5101
+RAD:
+  description: Israeli vendor of access and edge networking equipment for service providers, utilities, transportation and government critical infrastructure networks.
+  lookup:
+    - rad
+  url: https://www.rad.com
+  support_url: https://www.rad.com/contact-rad-support/
+  support_phone: +1-800-444-7234
+RackifyUS:
+  description: Online seller of server rack and rack-mount hardware accessories; no confirmed official manufacturer website identified.
+  lookup:
+    - rackifyus
+    - rackify
+Rackmount IT:
+  description: Vendor of model-specific 19-inch rack-mount kits and brackets for firewall and network security appliances.
+  lookup:
+    - rackmount
+    - it
+    - rackmountit
+  url: https://rackmount.it
+Raisecom:
+  description: Chinese networking vendor making Carrier Ethernet switches, demarcation devices, multi-service access platforms, and optical transport equipment.
+  lookup:
+    - raisecom
+  url: https://www.raisecom.com
+  support_phone: +86-10-8288-3305
+Raritan:
+  description: Vendor of intelligent rack PDUs, KVM-over-IP switches, and data center power and environment management hardware; now part of Legrand.
+  lookup:
+    - raritan
+  url: https://www.raritan.com
+  support_url: https://www.raritan.com/support
+  support_phone: +1-800-724-8090
+Raspberry Pi:
+  description: Designs and manufactures low-cost single-board computers and compute modules for education, hobbyist, and industrial embedded use.
+  lookup:
+    - raspberry
+    - pi
+    - raspberrypi
+  url: https://www.raspberrypi.com
+  support_url: https://www.raspberrypi.com/contact/
+  cve_portal: https://www.raspberrypi.com/contact/security/
+Reichle & De-Massari:
+  description: Swiss vendor of structured cabling and connectivity systems for data centers, LAN, and public networks, including fiber and copper components.
+  lookup:
+    - reichle
+    - de-massari
+    - demassari
+    - rdm
+    - rm
+  url: https://www.rdm.com
+  support_phone: +41-44-933-81-11
+Reolink:
+  description: Consumer and business security camera vendor making PoE/WiFi IP cameras, NVR systems, and video doorbells.
+  lookup:
+    - reolink
+  url: https://reolink.com
+  support_url: https://support.reolink.com
+  support_phone: +1-888-895-1558
+Ribbon Communications:
+  description: Telecom vendor of secure cloud communications software, session border controllers, and IP optical networking solutions for service providers and enterprises.
+  lookup:
+    - ribbon
+    - communications
+    - ribboncommunications
+  url: https://ribboncommunications.com
+  support_url: https://ribboncommunications.com/services/ribbon-support-portal
+  support_phone: +1-833-742-2661
+Riello:
+  description: Italian manufacturer of uninterruptible power supplies (UPS) and standby power systems from 400VA to 6MVA, part of the Riello Elettronica group.
+  lookup:
+    - riello
+  url: https://www.riello-ups.com/
+  support_url: https://www.riello-ups.com/pages/37-ups-services
+  cve_portal: https://www.riello-ups.com/pages/177-vulnerability-disclosure
+  support_phone: +39-0442-635811
+Rittal:
+  description: German manufacturer of industrial and IT enclosures, climate control/cooling units, power distribution, busbar systems, and data center server racks.
+  lookup:
+    - rittal
+  url: https://www.rittal.com
+  support_url: https://www.rittal.com/us-en_US/Services/Service-Request
+  support_phone: +1-800-477-4000
+Riverbed:
+  description: Network performance, observability, and WAN optimization (SteelHead) vendor for enterprise IT.
+  lookup:
+    - riverbed
+  url: https://www.riverbed.com
+  support_url: https://support.riverbed.com
+  cve_portal: https://www.riverbed.com/trust-center/
+  support_phone: +1-888-782-3822
+Rockwell Automation:
+  description: Industrial automation and digital transformation vendor (PLCs, drives, control systems).
+  lookup:
+    - rockwell
+    - automation
+    - rockwellautomation
+  url: https://www.rockwellautomation.com
+  support_url: https://support.rockwellautomation.com
+  cve_portal: https://www.rockwellautomation.com/en-us/trust-center/security-advisories.html
+  support_phone: +1-888-382-1583
+Rohde & Schwarz:
+  description: Test and measurement, broadcast, secure communications, and cybersecurity equipment manufacturer.
+  lookup:
+    - rohde
+    - schwarz
+    - rohdeschwarz
+  url: https://www.rohde-schwarz.com
+  support_url: https://www.rohde-schwarz.com/us/service-support/service/service-overview_229461.html
+  support_phone: +1-888-837-8772
+Room Alert:
+  description: AVTECH environment monitoring hardware (temperature, humidity, power) for data centers and facilities.
+  lookup:
+    - room
+    - alert
+    - roomalert
+    - avtech
+  url: https://avtech.com
+  support_url: https://avtech.com/support/
+  support_phone: +1-401-628-1600
+Ruckus:
+  description: RUCKUS Networks (CommScope) enterprise wired and wireless LAN networking vendor.
+  lookup:
+    - ruckus
+    - fastiron
+    - ruckusfastiron
+  url: https://www.ruckusnetworks.com
+  support_url: https://support.ruckuswireless.com
+  cve_portal: https://www.ruckusnetworks.com/support/security-bulletins/
+  support_phone: +1-800-830-5056
+RuggedCOM:
+  description: Siemens RUGGEDCOM rugged industrial Ethernet switches and routers for harsh environments.
+  lookup:
+    - ruggedcom
+  url: https://www.siemens.com/en-us/products/ruggedcom/
+  support_url: https://www.siemens.com/global/en/products/automation/industrial-communication/ruggedcom.html
+  cve_portal: https://www.siemens.com/cert/advisories
+Ruijie:
+  description: Chinese ICT vendor making enterprise and cloud-managed networking equipment including switches, routers, wireless access points, and gateways.
+  lookup:
+    - ruijie
+    - os
+    - ruijieos
+  url: https://www.ruijie.com/en-global/
+  support_url: https://www.ruijie.com/en-global/support/
+  cve_portal: https://www.ruijie.com/en-global/support/securityBulletins
+  support_phone: +852-800-906-089
+SMC Networks:
+  description: Networking hardware vendor producing Ethernet switches, routers, and broadband connectivity devices.
+  lookup:
+    - smc
+    - networks
+    - smcnetworks
+SNOM:
+  description: Snom Technology (VTech) maker of SIP/VoIP desk phones, DECT phones, and conference phones.
+  lookup:
+    - snom
+  url: https://www.snom.com
+  support_url: https://service.snom.com
+  support_phone: +1-339-227-6160
+SNR:
+  description: Network equipment vendor producing Ethernet switches, transceivers, Wi-Fi routers, ONT/STB devices, UPSs and PDUs, marketed under the SNR brand.
+  lookup:
+    - snr
+  url: https://snr.global
+SSD:
+  description: Russian manufacturer of fiber-optic and cable infrastructure components, including optical cross-connect enclosures (SHKON/KROSS), distribution frames and cabinets for telecom networks.
+  lookup:
+    - ssd
+    - svyazstroydetal
+    - ssdru
+  url: https://www.ssd.ru
+Safran:
+  description: Aerospace, defense, and resilient PNT/timing technology group (Safran).
+  lookup:
+    - safran
+  url: https://www.safran-group.com
+Sangoma:
+  description: Unified communications and VoIP vendor (telephony cards, gateways, FreePBX/Asterisk).
+  lookup:
+    - sangoma
+  url: https://www.sangoma.com
+  support_url: https://www.sangoma.com/support/
+  support_phone: +1-877-344-4861
+Schneider Electric:
+  description: Energy management and industrial automation vendor (parent of APC).
+  lookup:
+    - schneider
+    - electric
+    - schneiderelectric
+  url: https://www.se.com
+  support_url: https://www.se.com/ww/en/work/support/
+  cve_portal: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp
+  support_phone: +1-800-789-3508
+Schweitzer Engineering Laboratories:
+  description: Power-system protection, control, and grid automation equipment vendor (SEL).
+  lookup:
+    - schweitzer
+    - engineering
+    - laboratories
+    - sel
+  url: https://selinc.com
+  support_url: https://selinc.com/support/
+  cve_portal: https://selinc.com/support/security-notifications/
+  support_phone: +1-509-338-3838
+Seagate Systems:
+  description: Data storage systems and hard-drive/storage-array vendor.
+  lookup:
+    - seagate
+    - systems
+    - seagatesystems
+  url: https://www.seagate.com
+  support_url: https://www.seagate.com/support/
+  cve_portal: https://www.seagate.com/support/product-security/
+  support_phone: +1-800-732-4283
+Secunet:
+  description: German IT security company providing encryption, network security, eHealth, defense and public-sector cybersecurity products and solutions.
+  lookup:
+    - secunet
+  url: https://www.secunet.com
+  support_phone: +49-201-5454-0
+SecurityCode:
+  description: Russian information-security software and hardware vendor (Code of Security).
+  lookup:
+    - securitycode
+  url: https://www.securitycode.ru
+  support_phone: +7-495-982-30-20
+Sedna:
+  description: Networking and IT equipment brand.
+  lookup:
+    - sedna
+Server Technology:
+  description: Intelligent rack power distribution unit (PDU) vendor (Legrand brand).
+  lookup:
+    - server
+    - technology
+    - servertechnology
+  url: https://www.servertech.com
+  support_url: https://www.servertech.com/support
+  support_phone: +1-800-835-1515
+Shelly:
+  description: Smart-home and IoT device vendor (Wi-Fi relays, sensors, energy meters).
+  lookup:
+    - shelly
+  url: https://www.shelly.com
+  support_url: https://support.shelly.cloud
+  support_phone: +1-833-743-5591
+Siemon:
+  description: Network cabling and connectivity infrastructure manufacturer.
+  lookup:
+    - siemon
+  url: https://www.siemon.com
+  support_url: https://www.siemon.com/en/home/support
+  support_phone: +1-866-548-5814
+Silex:
+  description: Wireless LAN module and device networking/connectivity vendor (Silex Technology).
+  lookup:
+    - silex
+  url: https://www.silextechnology.com
+  support_url: https://www.silextechnology.com/support
+  support_phone: +1-866-765-8761
+Smartlabs:
+  description: Smart home automation hardware company; maker of the Insteon line of home control products.
+  lookup:
+    - smartlabs
+    - insteon
+  url: https://www.insteon.com
+  support_url: https://www.insteon.com/support
+  support_phone: +1-866-243-8022
+Smartoptics:
+  description: Open optical networking vendor making transceivers, multiplexers, transponders and DWDM optical line systems.
+  lookup:
+    - smartoptics
+  url: https://smartoptics.com
+  support_url: https://smartoptics.com/contact/
+  support_phone: +1-518-627-4325
+Socomec:
+  description: Electrical power equipment manufacturer of UPS systems, switching, transfer switches and energy measurement devices.
+  lookup:
+    - socomec
+  url: https://www.socomec.com
+  support_phone: +1-617-245-0447
+Softline:
+  description: Global IT solutions and services provider that also markets its own-brand SL-line rack servers.
+  lookup:
+    - softline
+  url: https://softline.com
+Solid Optics:
+  description: Supplier of optical networking products including compatible transceivers, multiplexers and OADMs from 1G to 400G.
+  lookup:
+    - solid
+    - optics
+    - solidoptics
+  url: https://www.solid-optics.com
+  support_url: https://www.solid-optics.com/contact/
+  support_phone: +1-855-678-4271
+Sonar:
+  description: Russian manufacturer (Rubezh Group brand) of public-address and emergency evacuation notification (SOUE) systems, including network switches for SONAR IP audio systems.
+  lookup:
+    - sonar
+  url: https://sonarpro.ru
+  support_url: https://sonarpro.ru/support/
+  support_phone: +1-702-447-1247
+SonicWall:
+  description: Network security vendor making firewalls, VPN, UTM, SD-WAN and email security appliances.
+  lookup:
+    - sonicwall
+    - sonicos
+  url: https://www.sonicwall.com
+  support_url: https://www.sonicwall.com/support
+  cve_portal: https://psirt.global.sonicwall.com/vuln-list
+  support_phone: +1-888-793-2830
+Sonnet:
+  description: Computer hardware maker of Thunderbolt and PCIe adapters, network interface cards, docks and storage expansion devices.
+  lookup:
+    - sonnet
+  url: https://www.sonnettech.com
+  support_url: https://www.sonnettech.com/support/index.html
+  support_phone: +1-949-587-3500
+Sophos:
+  description: Cybersecurity vendor making firewalls, endpoint protection, network security and managed detection and response services.
+  lookup:
+    - sophos
+  url: https://www.sophos.com
+  support_url: https://support.sophos.com
+  cve_portal: https://www.sophos.com/en-us/security-advisories
+  support_phone: +1-833-886-6005
+Sprinter:
+  description: Sprinter TX TDMoP multiplexer-switches by NSC Communications of Siberia for E1 and Ethernet transport over packet networks.
+  lookup:
+    - sprinter
+  url: https://www.nsc-com.com
+  support_url: https://www.nsc-com.com/support
+Stormshield:
+  description: Network security vendor (firewall/UTM, endpoint, and data security).
+  lookup:
+    - stormshield
+  url: https://www.stormshield.com
+  support_url: https://www.stormshield.com/support/
+  cve_portal: https://advisories.stormshield.eu
+  support_phone: +33-9-69-329-129
+Supermicro:
+  description: Server, storage, and motherboard hardware vendor for data centers.
+  lookup:
+    - supermicro
+    - smis
+  url: https://www.supermicro.com
+  support_url: https://www.supermicro.com/en/support
+  cve_portal: https://www.supermicro.com/en/support/security_center
+  support_phone: +1-866-893-2366
+Synology:
+  description: Network-attached storage (NAS), surveillance, and network device vendor.
+  lookup:
+    - synology
+  url: https://www.synology.com
+  support_url: https://www.synology.com/en-us/support
+  cve_portal: https://www.synology.com/en-us/security/advisory
+  support_phone: +1-425-296-3177
+Sysmatrix:
+  description: Networking and IT infrastructure equipment brand.
+  lookup:
+    - sysmatrix
+T-bao:
+  description: Chinese consumer electronics brand (Shenzhen Tianbei Technology) making mini PCs, laptops, all-in-one computers and monitors.
+  lookup:
+    - tbao
+    - bao
+    - tianbei
+TESmart:
+  description: Manufacturer of KVM switches, HDMI/AV switches and multi-monitor docking solutions, a brand of Tesla Elec Technology Co., Ltd.
+  lookup:
+    - tesmart
+  url: https://www.tesmart.com
+  support_url: https://support.tesmart.com/hc/en-us
+TFortis:
+  description: TFortis (by Fort-Telecom) makes industrial outdoor and indoor PoE Ethernet switches, media converters, and surge protection for IP video surveillance networks.
+  lookup:
+    - tfortis
+  url: https://tfortis.com
+TP-Link:
+  description: Consumer and business networking vendor (routers, switches, Wi-Fi, Omada/Deco).
+  lookup:
+    - tplink
+    - tp
+    - link
+  url: https://www.tp-link.com
+  support_url: https://www.tp-link.com/support/
+  cve_portal: https://www.tp-link.com/us/security-advisory/
+  support_phone: +1-866-225-8139
+Telco Systems:
+  description: Carrier Ethernet, MPLS and IP networking platforms vendor for service providers; operates as BATM Networks (division of BATM Advanced Communications).
+  lookup:
+    - telco
+    - systems
+    - telcosystems
+  url: https://www.telco.com
+  support_url: https://www.telco.com/telco-systems-support/
+Telcord:
+  description: Unidentified vendor; no official company information could be confirmed for this name.
+  lookup:
+    - telcord
+Teltonika:
+  description: Lithuanian manufacturer of industrial IoT/IIoT cellular routers, gateways and modems for networking and M2M connectivity.
+  lookup:
+    - teltonika
+  url: https://www.teltonika-networks.com
+  support_url: https://www.teltonika-networks.com/support
+  cve_portal: https://www.teltonika-networks.com/support/security-centre
+  support_phone: +1-640-650-2356
+Terramaster:
+  description: Manufacturer of network-attached storage (NAS) and direct-attached storage appliances running its TOS operating system for home and business.
+  lookup:
+    - terramaster
+  url: https://www.terra-master.com
+  support_url: https://www.terra-master.com/pages/support
+Testing:
+  description: Placeholder/test entry; not a real manufacturer.
+  lookup:
+    - testing
+Thales:
+  description: French multinational that makes cybersecurity and data-protection hardware, including Luna (SafeNet) hardware security modules (HSMs) for encryption and key management.
+  lookup:
+    - thales
+  url: https://www.thalesgroup.com
+  support_url: https://supportportal.thalesgroup.com/csm
+  cve_portal: https://www.thalesgroup.com/en/global/group/psirt/thales-product-security-advisories
+  support_phone: +1-410-931-7520
+Thomas-Krenn:
+  description: German build-to-order manufacturer of customized rack, tower and storage servers and industrial PCs.
+  lookup:
+    - thomas
+    - krenn
+    - thomaskrenn
+  url: https://www.thomas-krenn.com
+  support_url: https://www.thomas-krenn.com/en/services/support
+  support_phone: +49-8551-9150-500
+TrendNet:
+  description: Manufacturer of home and small-business networking and surveillance products, including switches, adapters, PoE gear and IP cameras.
+  lookup:
+    - trendnet
+  url: https://www.trendnet.com
+  support_url: https://www.trendnet.com/support/
+  support_phone: +1-866-845-3673
+UGREEN:
+  description: Consumer electronics manufacturer making charging accessories, cables, hubs, docking stations, and NAS storage devices.
+  lookup:
+    - ugreen
+  url: https://www.ugreen.com
+  support_url: https://www.ugreen.com/pages/support
+  support_phone: +1-888-820-8830
+Ubiquiti:
+  description: Networking equipment vendor producing UniFi and EdgeMax wireless access points, switches, routers, and security gateways.
+  lookup:
+    - ubiquiti
+    - edgerouter
+    - edgeswitch
+    - unifiswitch
+    - ubiquitiedgerouter
+    - ubiquitiedgeswitch
+    - ubiquitiunifiswitch
+  url: https://www.ui.com
+  support_url: https://help.ui.com
+  cve_portal: https://help.ui.com/hc/en-us/sections/9189667713943-Advisory-Notices
+UfiSpace:
+  description: Provider of open and disaggregated networking hardware (white-box routers and switches) for telecom carriers, cloud providers, and data centers.
+  lookup:
+    - ufispace
+  url: https://www.ufispace.com
+  support_url: https://www.ufispace.com/support/technical-support
+  support_phone: +886-2-7730-1188
+Uptime Industries:
+  description: Edge compute and infrastructure hardware vendor.
+  lookup:
+    - uptime
+    - industries
+    - uptimeindustries
+  support_phone: +1-315-784-7820
+V-Solution:
+  description: GPON/EPON optical access and broadband CPE vendor (V-SOL).
+  lookup:
+    - vsolution
+    - vsol
+  url: https://www.vsolcn.com
+  support_phone: +86-20-32211099
+Vertiv:
+  description: Data center power, cooling, and IT infrastructure management vendor.
+  lookup:
+    - vertiv
+  url: https://www.vertiv.com
+  support_url: https://www.vertiv.com/en-us/support/
+  cve_portal: https://www.vertiv.com/en-us/support/security-advisories/
+VideoXLink:
+  description: Video and KVM signal extension/transmission equipment brand.
+  lookup:
+    - videoxlink
+W-T:
+  description: Wiesemann & Theis (W&T), German manufacturer of serial/Ethernet interface converters, network I/O controllers, PDUs and industrial communication hardware.
+  lookup:
+    - w
+    - t
+    - wt
+    - wut
+  url: https://www.wut.de
+WTI:
+  description: Western Telematic, Inc., US manufacturer of out-of-band console servers, switched rack-mount PDUs and remote power-management appliances.
+  lookup:
+    - wti
+  url: https://www.wti.com
+  support_url: https://www.wti.com/pages/manuals-documentation
+  support_phone: +1-800-854-7226
+WatchGuard:
+  description: Network security vendor making the Firebox next-generation firewall/UTM appliances, plus secure WiFi, MFA and endpoint security products.
+  lookup:
+    - watchguard
+  url: https://www.watchguard.com
+  support_url: https://www.watchguard.com/wgrd-support/overview
+  cve_portal: https://www.watchguard.com/wgrd-psirt/advisories
+  support_phone: +1-877-232-3531
+Waytex:
+  description: French B2B importer and supplier of network connectivity, cabling, enclosures and multimedia accessories.
+  lookup:
+    - waytex
+  url: https://www.waytex.fr
+  support_phone: +33-4-98-11-43-89
+Weblib:
+  description: French vendor of guest WiFi, captive-portal (UCOPIA) and digital in-store engagement solutions for retail, hospitality and public venues.
+  lookup:
+    - weblib
+  url: https://www.weblib.com
+  support_phone: +33-1-40-92-73-90
+Wellink:
+  description: Russian vendor of wiSLA network quality-monitoring software and wiProbe hardware agents for telecom and enterprise SLA assurance.
+  lookup:
+    - wellink
+  url: https://www.wellink.ru
+  support_phone: +7-495-374-66-78
+Winegard:
+  description: US manufacturer of TV, RV and mobile antennas, satellite reception products and cellular/WiFi connectivity routers and systems.
+  lookup:
+    - winegard
+  url: https://winegard.com
+  support_url: https://winegard.com/contact-us/
+  support_phone: +1-800-288-8094
+Wireless-tag Technology:
+  description: Shenzhen-based manufacturer of ESP32/IoT WiFi, Bluetooth and Ethernet modules and development boards, including the WT32-ETH01.
+  lookup:
+    - wireless
+    - tag
+    - technology
+    - wirelesstag
+  url: https://en.wireless-tag.com
+  support_phone: +86-181-2205-7087
+Xfusion:
+  description: Chinese provider of computing infrastructure manufacturing rack, blade, and high-density servers and related data-center hardware (spun off from Huawei's x86 server business).
+  lookup:
+    - xfusion
+  url: https://www.xfusion.com
+  support_url: https://support.xfusion.com
+  cve_portal: https://support.xfusion.com/safe/en/psirt
+  support_phone: +86-400-009-8999
+Xiaomi:
+  description: Consumer electronics manufacturer producing smartphones, networking routers, and smart-home/IoT devices.
+  lookup:
+    - xiaomi
+  url: https://www.mi.com
+  support_url: https://www.mi.com/global/support/
+  cve_portal: https://trust.mi.com/misrc/bulletins/advisory
+XikeStor:
+  description: Chinese manufacturer of managed and unmanaged multi-gigabit and 10G Ethernet switches for home, SMB, and prosumer networks.
+  lookup:
+    - xikestor
+  url: https://www.xikestor.com
+  support_phone: +86-400-857-0075
+YAMAHA:
+  description: Japanese maker of network equipment including routers, firewalls, switches, and wireless LAN access points (Yamaha network products division).
+  lookup:
+    - yamaha
+    - telnet
+    - yamahatelnet
+  url: https://network.yamaha.com/
+  support_url: https://network.yamaha.com/support
+  support_phone: +1-800-326-1088
+Yealink:
+  description: IP phone, video conferencing, and unified communications endpoint vendor.
+  lookup:
+    - yealink
+  url: https://www.yealink.com
+  support_url: https://support.yealink.com
+  cve_portal: https://www.yealink.com/en/onepage/security-advisories
+Yeastar:
+  description: VoIP PBX, IP phone system, and VoIP gateway vendor providing on-premises and cloud unified communications for small and medium businesses.
+  lookup:
+    - yeastar
+  url: https://www.yeastar.com
+  support_url: https://support.yeastar.com
+  support_phone: +1-972-914-4899
+ZPAS:
+  description: Polish manufacturer of server/network racks, cabinets, and data center enclosures for ICT and power applications.
+  lookup:
+    - zpas
+  url: https://www.zpas.pl
+  support_phone: +48-74-872-01-00
+ZPE:
+  description: Serial console servers, out-of-band management, and branch networking infrastructure vendor (Nodegrid platform).
+  lookup:
+    - zpe
+  url: https://zpesystems.com
+  support_url: https://support.zpesystems.com
+  cve_portal: https://psirt.zpesystems.com/portal/en/home
+  support_phone: +1-844-497-3797
+ZTE:
+  description: Chinese telecommunications equipment and networking vendor producing carrier, enterprise, and mobile devices.
+  lookup:
+    - zte
+  url: https://www.zte.com.cn/global/
+  support_url: https://support.zte.com.cn
+  cve_portal: https://www.zte.com.cn/global/about/trust-center/ztepsirt.html
+  support_phone: +1-877-817-1759
+Zastava:
+  description: Unverified/placeholder manufacturer entry; no official company website could be confidently confirmed for this networking device.
+  lookup:
+    - zastava
+Zonit:
+  description: Manufacturer of at-the-rack data center power distribution, automatic transfer switch (ATS), and power redundancy products.
+  lookup:
+    - zonit
+  url: https://www.zonit.com
+  support_phone: +1-720-266-0050
+Zyxel:
+  description: Networking hardware vendor producing switches, firewalls, routers, and wireless access points for SMB and enterprise.
+  lookup:
+    - zyxel
+  url: https://www.zyxel.com
+  support_url: https://www.zyxel.com/global/en/support
+  cve_portal: https://www.zyxel.com/global/en/support/security-advisories
+  support_phone: +1-800-255-4101
+ghipsystems:
+  description: Networking and infrastructure equipment brand.
+  lookup:
+    - ghipsystems
+  support_phone: +49-40-65729818
+i-PRO:
+  description: Video surveillance, security camera, and imaging systems vendor (formerly Panasonic Security).
+  lookup:
+    - ipro
+    - i-pro
+  url: https://www.i-pro.com
+  support_url: https://www.i-pro.com/global/en/surveillance/support
+  cve_portal: https://i-pro.com/global/en/surveillance/cms/security_information
+  support_phone: +1-800-513-5417

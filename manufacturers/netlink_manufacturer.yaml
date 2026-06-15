@@ -1,0 +1,11 @@
+---
+name: Netlink
+description: Networking and fiber-optic transmission equipment brand.
+lookup:
+  - netlink
+device_types_path: device-types/Netlink
+elevation_images_path: elevation-images/Netlink
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

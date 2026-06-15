@@ -1,0 +1,17 @@
+---
+name: Reichle & De-Massari
+description: Swiss vendor of structured cabling and connectivity systems for data centers, LAN, and public networks, including fiber and copper components.
+lookup:
+  - reichle
+  - de-massari
+  - demassari
+  - rdm
+  - rm
+url: https://www.rdm.com
+support_phone: +41-44-933-81-11
+device_types_path: device-types/Reichle & De-Massari
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Reichle & De-Massari
+module_images_path: null
+rack_types_path: null

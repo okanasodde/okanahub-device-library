@@ -1,0 +1,13 @@
+---
+name: Inspur
+description: Servers, storage, and cloud data-center hardware vendor.
+lookup:
+  - inspur
+url: https://www.inspur.com
+support_phone: +86-531-8160-4000
+device_types_path: device-types/Inspur
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

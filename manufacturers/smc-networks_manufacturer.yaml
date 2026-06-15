@@ -1,0 +1,13 @@
+---
+name: SMC Networks
+description: Networking hardware vendor producing Ethernet switches, routers, and broadband connectivity devices.
+lookup:
+  - smc
+  - networks
+  - smcnetworks
+device_types_path: device-types/SMC Networks
+elevation_images_path: elevation-images/SMC Networks
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

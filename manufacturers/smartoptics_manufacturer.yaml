@@ -1,0 +1,14 @@
+---
+name: Smartoptics
+description: Open optical networking vendor making transceivers, multiplexers, transponders and DWDM optical line systems.
+lookup:
+  - smartoptics
+url: https://smartoptics.com
+support_url: https://smartoptics.com/contact/
+support_phone: +1-518-627-4325
+device_types_path: device-types/Smartoptics
+elevation_images_path: elevation-images/Smartoptics
+platforms_path: null
+module_types_path: module-types/Smartoptics
+module_images_path: null
+rack_types_path: null

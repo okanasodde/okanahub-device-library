@@ -1,0 +1,14 @@
+---
+name: Kehua
+description: Power electronics vendor making UPS systems, critical power and data center infrastructure, and renewable energy solutions.
+lookup:
+  - kehua
+url: https://www.kehua.com
+support_url: https://www.kehua.com/support.html
+support_phone: +86-592-5160516
+device_types_path: device-types/Kehua
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

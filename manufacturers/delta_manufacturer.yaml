@@ -1,0 +1,15 @@
+---
+name: Delta
+description: Power electronics and infrastructure vendor making switching power supplies, networking switches, PDUs, and industrial automation equipment.
+lookup:
+  - delta
+url: https://www.deltaww.com
+support_url: https://www.deltaww.com/en-US/service-support/contact-us
+cve_portal: https://www.deltaww.com/en-US/service-support/product-cybersecurity/advisory
+support_phone: +1-888-979-9889
+device_types_path: device-types/Delta
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Delta
+module_images_path: null
+rack_types_path: null

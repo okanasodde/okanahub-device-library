@@ -1,0 +1,15 @@
+---
+name: Avocent
+description: KVM switches, serial console servers, and IT infrastructure management hardware, now a brand of data center vendor Vertiv.
+lookup:
+  - avocent
+url: https://www.vertiv.com
+support_url: https://www.vertiv.com/en-us/support/avocent-support/
+cve_portal: https://www.vertiv.com/en-us/support/security-support-center/
+support_phone: +1-888-793-8763
+device_types_path: device-types/Avocent
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

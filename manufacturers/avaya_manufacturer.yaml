@@ -1,0 +1,19 @@
+---
+name: Avaya
+description: Business communications, contact center, and unified communications vendor.
+lookup:
+  - avaya
+  - ers
+  - avayaers
+  - vsp
+  - avayavsp
+url: https://www.avaya.com
+support_url: https://support.avaya.com
+cve_portal: https://support.avaya.com/security
+support_phone: +1-800-242-2121
+device_types_path: device-types/Avaya
+elevation_images_path: elevation-images/Avaya
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

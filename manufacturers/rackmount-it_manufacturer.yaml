@@ -1,0 +1,14 @@
+---
+name: Rackmount IT
+description: Vendor of model-specific 19-inch rack-mount kits and brackets for firewall and network security appliances.
+lookup:
+  - rackmount
+  - it
+  - rackmountit
+url: https://rackmount.it
+device_types_path: device-types/Rackmount IT
+elevation_images_path: elevation-images/Rackmount IT
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

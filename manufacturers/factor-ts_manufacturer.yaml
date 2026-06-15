@@ -1,0 +1,15 @@
+---
+name: Factor-TS
+description: Russian vendor of DIONIS-branded secure cryptorouters, firewalls and VPN/crypto gateways for protected IP data networks.
+lookup:
+  - factor
+  - ts
+  - factorts
+url: https://factor-ts.ru
+support_phone: +7-495-662-66-40
+device_types_path: device-types/Factor-TS
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

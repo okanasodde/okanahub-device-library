@@ -1,0 +1,15 @@
+---
+name: Synology
+description: Network-attached storage (NAS), surveillance, and network device vendor.
+lookup:
+  - synology
+url: https://www.synology.com
+support_url: https://www.synology.com/en-us/support
+cve_portal: https://www.synology.com/en-us/security/advisory
+support_phone: +1-425-296-3177
+device_types_path: device-types/Synology
+elevation_images_path: elevation-images/Synology
+platforms_path: null
+module_types_path: module-types/Synology
+module_images_path: null
+rack_types_path: null

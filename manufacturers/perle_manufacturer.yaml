@@ -1,0 +1,15 @@
+---
+name: Perle
+description: Device networking, media conversion, console server, and IoT connectivity hardware manufacturer
+lookup:
+  - perle
+url: https://www.perle.com
+support_url: https://www.perle.com/support_services/
+cve_portal: https://www.perle.com/support_services/security.shtml
+support_phone: +1-905-946-5080
+device_types_path: device-types/Perle
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

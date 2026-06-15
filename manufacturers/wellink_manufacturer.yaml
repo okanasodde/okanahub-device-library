@@ -1,0 +1,13 @@
+---
+name: Wellink
+description: Russian vendor of wiSLA network quality-monitoring software and wiProbe hardware agents for telecom and enterprise SLA assurance.
+lookup:
+  - wellink
+url: https://www.wellink.ru
+support_phone: +7-495-374-66-78
+device_types_path: device-types/Wellink
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

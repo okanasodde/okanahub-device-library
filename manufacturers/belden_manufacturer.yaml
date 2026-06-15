@@ -1,0 +1,15 @@
+---
+name: Belden
+description: Signal transmission, networking infrastructure, and cabling/connectivity solutions vendor.
+lookup:
+  - belden
+url: https://www.belden.com
+support_url: https://www.belden.com/support
+cve_portal: https://www.belden.com/security-assurance
+support_phone: +1-800-235-3361
+device_types_path: device-types/Belden
+elevation_images_path: elevation-images/Belden
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

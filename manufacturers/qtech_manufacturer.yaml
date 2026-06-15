@@ -1,0 +1,13 @@
+---
+name: QTECH
+description: Russian networking and telecommunications equipment vendor.
+lookup:
+  - qtech
+url: https://www.qtech.ru
+support_phone: +7-495-797-3311
+device_types_path: device-types/QTECH
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,13 @@
+---
+name: Digitus
+description: IT connectivity and networking accessories brand (Assmann Group).
+lookup:
+  - digitus
+url: https://www.digitus.info
+support_phone: +49-2351-554-0
+device_types_path: device-types/Digitus
+elevation_images_path: elevation-images/Digitus
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: rack-types/Digitus

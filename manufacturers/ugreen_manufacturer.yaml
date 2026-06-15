@@ -1,0 +1,14 @@
+---
+name: UGREEN
+description: Consumer electronics manufacturer making charging accessories, cables, hubs, docking stations, and NAS storage devices.
+lookup:
+  - ugreen
+url: https://www.ugreen.com
+support_url: https://www.ugreen.com/pages/support
+support_phone: +1-888-820-8830
+device_types_path: device-types/UGREEN
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

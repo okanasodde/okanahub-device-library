@@ -1,0 +1,17 @@
+---
+name: D-Link
+description: Networking hardware manufacturer producing switches, routers, wireless access points, and IP surveillance products.
+lookup:
+  - dlink
+  - ds
+  - dlinkds
+url: https://www.dlink.com
+support_url: https://support.dlink.com
+cve_portal: https://www.dlink.com/en/security-advisories
+support_phone: +1-877-453-5465
+device_types_path: device-types/D-Link
+elevation_images_path: elevation-images/D-Link
+platforms_path: null
+module_types_path: module-types/D-Link
+module_images_path: null
+rack_types_path: null

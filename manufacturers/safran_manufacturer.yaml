@@ -1,0 +1,12 @@
+---
+name: Safran
+description: Aerospace, defense, and resilient PNT/timing technology group (Safran).
+lookup:
+  - safran
+url: https://www.safran-group.com
+device_types_path: device-types/Safran
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

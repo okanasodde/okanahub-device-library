@@ -1,0 +1,11 @@
+---
+name: Glovary
+description: Brand of low-cost fanless mini PCs and firewall/router appliances (Intel N100/N150/N305, 2.5GbE LAN) sold mainly via online marketplaces.
+lookup:
+  - glovary
+device_types_path: device-types/Glovary
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

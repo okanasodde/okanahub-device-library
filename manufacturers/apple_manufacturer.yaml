@@ -1,0 +1,15 @@
+---
+name: Apple
+description: Apple Inc. designs consumer electronics, computers, mobile devices, and networking products such as AirPort and Apple TV.
+lookup:
+  - apple
+url: https://www.apple.com
+support_url: https://support.apple.com
+cve_portal: https://support.apple.com/en-us/100100
+support_phone: +1-800-275-2273
+device_types_path: device-types/Apple
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

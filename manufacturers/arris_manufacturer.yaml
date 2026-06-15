@@ -1,0 +1,12 @@
+---
+name: ARRIS
+description: Broadband customer-premises equipment vendor (cable modems, gateways, SURFboard routers); ARRIS brand owned by CommScope since 2019.
+lookup:
+  - arris
+url: https://www.commscope.com
+device_types_path: device-types/ARRIS
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

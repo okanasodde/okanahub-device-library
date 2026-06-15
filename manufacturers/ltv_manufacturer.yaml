@@ -1,0 +1,11 @@
+---
+name: LTV
+description: Video surveillance and CCTV equipment brand.
+lookup:
+  - ltv
+device_types_path: device-types/LTV
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

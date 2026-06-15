@@ -1,0 +1,15 @@
+---
+name: Smartlabs
+description: Smart home automation hardware company; maker of the Insteon line of home control products.
+lookup:
+  - smartlabs
+  - insteon
+url: https://www.insteon.com
+support_url: https://www.insteon.com/support
+support_phone: +1-866-243-8022
+device_types_path: device-types/Smartlabs
+elevation_images_path: elevation-images/Smartlabs
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

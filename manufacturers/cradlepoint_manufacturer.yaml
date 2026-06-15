@@ -1,0 +1,15 @@
+---
+name: Cradlepoint
+description: Cellular/5G wireless edge router and WAN networking vendor (part of Ericsson).
+lookup:
+  - cradlepoint
+url: https://cradlepoint.com
+support_url: https://cradlepoint.com/support/
+cve_portal: https://cradlepoint.com/trust-center/
+support_phone: +1-855-813-3385
+device_types_path: device-types/Cradlepoint
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

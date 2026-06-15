@@ -1,0 +1,14 @@
+---
+name: V-Solution
+description: GPON/EPON optical access and broadband CPE vendor (V-SOL).
+lookup:
+  - vsolution
+  - vsol
+url: https://www.vsolcn.com
+support_phone: +86-20-32211099
+device_types_path: device-types/V-Solution
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

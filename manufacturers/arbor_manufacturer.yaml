@@ -1,0 +1,14 @@
+---
+name: Arbor
+description: Arbor Networks, now part of NETSCOUT, makes DDoS detection and mitigation products (Arbor Sightline, Arbor Edge Defense) for network security
+lookup:
+  - arbor
+url: https://www.netscout.com
+support_url: https://www.netscout.com/support-services
+support_phone: +1-888-357-7667
+device_types_path: device-types/Arbor
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

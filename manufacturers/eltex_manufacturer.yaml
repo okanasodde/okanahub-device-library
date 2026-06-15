@@ -1,0 +1,16 @@
+---
+name: Eltex
+description: Russian designer and manufacturer of telecommunications equipment including Ethernet switches, GPON OLT/ONT, routers, and wireless access controllers.
+lookup:
+  - eltex
+  - esr
+  - eltexesr
+url: https://eltex-co.com
+support_url: https://eltex-co.com/support/
+support_phone: +7-383-274-10-01
+device_types_path: device-types/Eltex
+elevation_images_path: elevation-images/Eltex
+platforms_path: null
+module_types_path: module-types/Eltex
+module_images_path: null
+rack_types_path: null

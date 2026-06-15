@@ -1,0 +1,14 @@
+---
+name: SSD
+description: Russian manufacturer of fiber-optic and cable infrastructure components, including optical cross-connect enclosures (SHKON/KROSS), distribution frames and cabinets for telecom networks.
+lookup:
+  - ssd
+  - svyazstroydetal
+  - ssdru
+url: https://www.ssd.ru
+device_types_path: device-types/SSD
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/SSD
+module_images_path: null
+rack_types_path: null

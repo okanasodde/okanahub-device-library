@@ -1,0 +1,14 @@
+---
+name: Sonar
+description: Russian manufacturer (Rubezh Group brand) of public-address and emergency evacuation notification (SOUE) systems, including network switches for SONAR IP audio systems.
+lookup:
+  - sonar
+url: https://sonarpro.ru
+support_url: https://sonarpro.ru/support/
+support_phone: +1-702-447-1247
+device_types_path: device-types/Sonar
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

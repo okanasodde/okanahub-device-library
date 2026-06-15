@@ -1,0 +1,12 @@
+---
+name: TFortis
+description: TFortis (by Fort-Telecom) makes industrial outdoor and indoor PoE Ethernet switches, media converters, and surge protection for IP video surveillance networks.
+lookup:
+  - tfortis
+url: https://tfortis.com
+device_types_path: device-types/TFortis
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

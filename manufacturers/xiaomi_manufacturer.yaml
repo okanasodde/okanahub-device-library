@@ -1,0 +1,14 @@
+---
+name: Xiaomi
+description: Consumer electronics manufacturer producing smartphones, networking routers, and smart-home/IoT devices.
+lookup:
+  - xiaomi
+url: https://www.mi.com
+support_url: https://www.mi.com/global/support/
+cve_portal: https://trust.mi.com/misrc/bulletins/advisory
+device_types_path: device-types/Xiaomi
+elevation_images_path: elevation-images/Xiaomi
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

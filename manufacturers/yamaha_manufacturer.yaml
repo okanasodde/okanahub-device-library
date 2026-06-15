@@ -1,0 +1,16 @@
+---
+name: YAMAHA
+description: Japanese maker of network equipment including routers, firewalls, switches, and wireless LAN access points (Yamaha network products division).
+lookup:
+  - yamaha
+  - telnet
+  - yamahatelnet
+url: https://network.yamaha.com/
+support_url: https://network.yamaha.com/support
+support_phone: +1-800-326-1088
+device_types_path: device-types/YAMAHA
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,13 @@
+---
+name: XikeStor
+description: Chinese manufacturer of managed and unmanaged multi-gigabit and 10G Ethernet switches for home, SMB, and prosumer networks.
+lookup:
+  - xikestor
+url: https://www.xikestor.com
+support_phone: +86-400-857-0075
+device_types_path: device-types/XikeStor
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

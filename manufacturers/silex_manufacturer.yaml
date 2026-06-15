@@ -1,0 +1,14 @@
+---
+name: Silex
+description: Wireless LAN module and device networking/connectivity vendor (Silex Technology).
+lookup:
+  - silex
+url: https://www.silextechnology.com
+support_url: https://www.silextechnology.com/support
+support_phone: +1-866-765-8761
+device_types_path: device-types/Silex
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

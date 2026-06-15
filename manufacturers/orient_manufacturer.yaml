@@ -1,0 +1,11 @@
+---
+name: Orient
+description: Low-cost networking hardware brand (Eastern European/Russian market) producing unmanaged Ethernet and PoE switches and injectors.
+lookup:
+  - orient
+device_types_path: device-types/Orient
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

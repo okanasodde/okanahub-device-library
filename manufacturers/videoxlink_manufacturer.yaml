@@ -1,0 +1,11 @@
+---
+name: VideoXLink
+description: Video and KVM signal extension/transmission equipment brand.
+lookup:
+  - videoxlink
+device_types_path: device-types/VideoXLink
+elevation_images_path: elevation-images/VideoXLink
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

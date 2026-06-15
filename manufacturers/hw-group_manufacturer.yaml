@@ -1,0 +1,16 @@
+---
+name: HW-Group
+description: Maker of IP-based environmental and process monitoring devices, sensors and serial-over-IP gateways.
+lookup:
+  - hw
+  - group
+  - hwgroup
+  - hwg
+url: https://www.hw-group.com
+support_phone: +420-222-511-918
+device_types_path: device-types/HW-Group
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

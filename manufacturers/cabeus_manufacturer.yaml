@@ -1,0 +1,13 @@
+---
+name: Cabeus
+description: Russian manufacturer of structured cabling systems, copper and fiber cables, patch panels, telecom cabinets and racks
+lookup:
+  - cabeus
+url: https://cabeus.ru
+support_phone: +7-495-933-77-83
+device_types_path: device-types/Cabeus
+elevation_images_path: elevation-images/Cabeus
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: rack-types/Cabeus

@@ -1,0 +1,14 @@
+---
+name: FireBrick
+description: UK manufacturer of routers, firewalls, and VoIP/network appliances.
+lookup:
+  - firebrick
+url: https://www.firebrick.co.uk
+support_url: https://www.firebrick.co.uk/support/
+support_phone: +44-1344-400-500
+device_types_path: device-types/FireBrick
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

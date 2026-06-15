@@ -1,0 +1,16 @@
+---
+name: Solid Optics
+description: Supplier of optical networking products including compatible transceivers, multiplexers and OADMs from 1G to 400G.
+lookup:
+  - solid
+  - optics
+  - solidoptics
+url: https://www.solid-optics.com
+support_url: https://www.solid-optics.com/contact/
+support_phone: +1-855-678-4271
+device_types_path: device-types/Solid Optics
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

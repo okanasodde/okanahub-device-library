@@ -1,0 +1,18 @@
+---
+name: GL-iNet
+description: Manufacturer of compact Wi-Fi and travel routers, mini PCs, and OpenWrt-based networking devices.
+lookup:
+  - gl-inet
+  - gl
+  - inet
+  - glinet
+  - gliinet
+url: https://www.gl-inet.com
+support_url: https://www.gl-inet.com/support/
+cve_portal: https://www.gl-inet.com/security-updates/
+device_types_path: device-types/GL-iNet
+elevation_images_path: elevation-images/GL-iNet
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

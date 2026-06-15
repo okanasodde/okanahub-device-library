@@ -1,0 +1,14 @@
+---
+name: NEC
+description: Japanese multinational IT and networking vendor making telecom/5G/optical transport network equipment, servers, and IT solutions.
+lookup:
+  - nec
+url: https://www.nec.com/
+support_url: https://www.nec.com/en/global/support/index.html
+cve_portal: https://jpn.nec.com/security-info/policy_en.html
+device_types_path: device-types/NEC
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/NEC
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,12 @@
+---
+name: Most
+description: Russian manufacturer (brand MOST / МОСТ) of consumer and office surge protectors and power strips.
+lookup:
+  - most
+url: https://most2000.ru
+device_types_path: device-types/Most
+elevation_images_path: elevation-images/Most
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

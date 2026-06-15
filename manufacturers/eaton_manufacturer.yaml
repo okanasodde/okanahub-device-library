@@ -1,0 +1,15 @@
+---
+name: Eaton
+description: Power management company making UPS systems, PDUs, surge protection, and electrical/industrial power distribution equipment.
+lookup:
+  - eaton
+url: https://www.eaton.com
+support_url: https://www.eaton.com/us/en-us/support.html
+cve_portal: https://www.eaton.com/us/en-us/company/news-insights/cybersecurity/security-notifications.html
+support_phone: +1-877-386-2273
+device_types_path: device-types/Eaton
+elevation_images_path: elevation-images/Eaton
+platforms_path: null
+module_types_path: module-types/Eaton
+module_images_path: null
+rack_types_path: null

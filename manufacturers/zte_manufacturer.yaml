@@ -1,0 +1,15 @@
+---
+name: ZTE
+description: Chinese telecommunications equipment and networking vendor producing carrier, enterprise, and mobile devices.
+lookup:
+  - zte
+url: https://www.zte.com.cn/global/
+support_url: https://support.zte.com.cn
+cve_portal: https://www.zte.com.cn/global/about/trust-center/ztepsirt.html
+support_phone: +1-877-817-1759
+device_types_path: device-types/ZTE
+elevation_images_path: elevation-images/ZTE
+platforms_path: null
+module_types_path: module-types/ZTE
+module_images_path: module-images/ZTE
+rack_types_path: null

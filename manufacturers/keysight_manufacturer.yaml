@@ -1,0 +1,15 @@
+---
+name: Keysight
+description: Electronic test and measurement, and network test/visibility solutions vendor.
+lookup:
+  - keysight
+url: https://www.keysight.com
+support_url: https://www.keysight.com/us/en/support.html
+cve_portal: https://www.keysight.com/us/en/lib/resources/miscellaneous/keysight-security-advisories.html
+support_phone: +1-800-829-4444
+device_types_path: device-types/Keysight
+elevation_images_path: elevation-images/Keysight
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,15 @@
+---
+name: Ivanti
+description: IT software vendor providing unified endpoint management, IT asset and service management, and secure network access (VPN/ZTNA) products.
+lookup:
+  - ivanti
+url: https://www.ivanti.com
+support_url: https://www.ivanti.com/support
+cve_portal: https://www.ivanti.com/blog/topics/security-advisory
+support_phone: +1-844-751-7629
+device_types_path: device-types/Ivanti
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

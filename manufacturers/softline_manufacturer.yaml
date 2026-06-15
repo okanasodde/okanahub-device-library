@@ -1,0 +1,12 @@
+---
+name: Softline
+description: Global IT solutions and services provider that also markets its own-brand SL-line rack servers.
+lookup:
+  - softline
+url: https://softline.com
+device_types_path: device-types/Softline
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Softline
+module_images_path: null
+rack_types_path: null

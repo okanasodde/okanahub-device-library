@@ -1,0 +1,17 @@
+---
+name: Room Alert
+description: AVTECH environment monitoring hardware (temperature, humidity, power) for data centers and facilities.
+lookup:
+  - room
+  - alert
+  - roomalert
+  - avtech
+url: https://avtech.com
+support_url: https://avtech.com/support/
+support_phone: +1-401-628-1600
+device_types_path: device-types/Room Alert
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

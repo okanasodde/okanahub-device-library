@@ -1,0 +1,11 @@
+---
+name: ConnectCom
+description: Networking and connectivity products brand.
+lookup:
+  - connectcom
+device_types_path: device-types/ConnectCom
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

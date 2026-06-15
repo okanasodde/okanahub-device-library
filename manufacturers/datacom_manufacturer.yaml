@@ -1,0 +1,13 @@
+---
+name: Datacom
+description: Brazilian telecom and networking equipment vendor making carrier and enterprise Ethernet switches, routers and optical/MPLS systems (DmOS).
+lookup:
+  - datacom
+url: https://datacom.com.br
+support_phone: +61-2-9023-5000
+device_types_path: device-types/Datacom
+elevation_images_path: elevation-images/Datacom
+platforms_path: null
+module_types_path: module-types/Datacom
+module_images_path: null
+rack_types_path: null

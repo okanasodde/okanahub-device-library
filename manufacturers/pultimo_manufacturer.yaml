@@ -1,0 +1,11 @@
+---
+name: Pultimo
+description: Networking and IT equipment brand.
+lookup:
+  - pultimo
+device_types_path: device-types/Pultimo
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

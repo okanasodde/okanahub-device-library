@@ -1,0 +1,17 @@
+---
+name: Rockwell Automation
+description: Industrial automation and digital transformation vendor (PLCs, drives, control systems).
+lookup:
+  - rockwell
+  - automation
+  - rockwellautomation
+url: https://www.rockwellautomation.com
+support_url: https://support.rockwellautomation.com
+cve_portal: https://www.rockwellautomation.com/en-us/trust-center/security-advisories.html
+support_phone: +1-888-382-1583
+device_types_path: device-types/Rockwell Automation
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Rockwell Automation
+module_images_path: null
+rack_types_path: null

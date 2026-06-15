@@ -1,0 +1,16 @@
+---
+name: Thomas-Krenn
+description: German build-to-order manufacturer of customized rack, tower and storage servers and industrial PCs.
+lookup:
+  - thomas
+  - krenn
+  - thomaskrenn
+url: https://www.thomas-krenn.com
+support_url: https://www.thomas-krenn.com/en/services/support
+support_phone: +49-8551-9150-500
+device_types_path: device-types/Thomas-Krenn
+elevation_images_path: elevation-images/Thomas-Krenn
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

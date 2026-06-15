@@ -1,0 +1,13 @@
+---
+name: Complete Connect
+description: Networking and connectivity products brand.
+lookup:
+  - complete
+  - connect
+  - completeconnect
+device_types_path: device-types/Complete Connect
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Complete Connect
+module_images_path: null
+rack_types_path: null

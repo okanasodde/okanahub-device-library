@@ -1,0 +1,20 @@
+---
+name: Ubiquiti
+description: Networking equipment vendor producing UniFi and EdgeMax wireless access points, switches, routers, and security gateways.
+lookup:
+  - ubiquiti
+  - edgerouter
+  - edgeswitch
+  - unifiswitch
+  - ubiquitiedgerouter
+  - ubiquitiedgeswitch
+  - ubiquitiunifiswitch
+url: https://www.ui.com
+support_url: https://help.ui.com
+cve_portal: https://help.ui.com/hc/en-us/sections/9189667713943-Advisory-Notices
+device_types_path: device-types/Ubiquiti
+elevation_images_path: elevation-images/Ubiquiti
+platforms_path: null
+module_types_path: module-types/Ubiquiti
+module_images_path: null
+rack_types_path: null

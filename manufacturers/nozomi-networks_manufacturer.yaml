@@ -1,0 +1,17 @@
+---
+name: Nozomi Networks
+description: OT and IoT cybersecurity, asset visibility, and threat detection vendor.
+lookup:
+  - nozomi
+  - networks
+  - nozominetworks
+url: https://www.nozominetworks.com
+support_url: https://www.nozominetworks.com/support
+cve_portal: https://security.nozominetworks.com
+support_phone: +1-877-282-5858
+device_types_path: device-types/Nozomi Networks
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

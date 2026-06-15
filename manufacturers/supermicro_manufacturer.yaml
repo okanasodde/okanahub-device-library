@@ -1,0 +1,16 @@
+---
+name: Supermicro
+description: Server, storage, and motherboard hardware vendor for data centers.
+lookup:
+  - supermicro
+  - smis
+url: https://www.supermicro.com
+support_url: https://www.supermicro.com/en/support
+cve_portal: https://www.supermicro.com/en/support/security_center
+support_phone: +1-866-893-2366
+device_types_path: device-types/Supermicro
+elevation_images_path: elevation-images/Supermicro
+platforms_path: null
+module_types_path: module-types/Supermicro
+module_images_path: null
+rack_types_path: null

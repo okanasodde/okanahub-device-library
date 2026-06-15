@@ -1,0 +1,15 @@
+---
+name: Teltonika
+description: Lithuanian manufacturer of industrial IoT/IIoT cellular routers, gateways and modems for networking and M2M connectivity.
+lookup:
+  - teltonika
+url: https://www.teltonika-networks.com
+support_url: https://www.teltonika-networks.com/support
+cve_portal: https://www.teltonika-networks.com/support/security-centre
+support_phone: +1-640-650-2356
+device_types_path: device-types/Teltonika
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

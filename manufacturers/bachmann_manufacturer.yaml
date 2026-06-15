@@ -1,0 +1,13 @@
+---
+name: Bachmann
+description: Power distribution and connectivity solutions vendor (rack PDUs, desk/office power modules).
+lookup:
+  - bachmann
+url: https://www.bachmann.com
+support_phone: +49-711-86602-0
+device_types_path: device-types/Bachmann
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

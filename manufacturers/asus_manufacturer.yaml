@@ -1,0 +1,15 @@
+---
+name: ASUS
+description: Consumer and commercial computer hardware vendor making motherboards, servers, workstations, laptops, networking gear, and graphics cards.
+lookup:
+  - asus
+url: https://www.asus.com
+support_url: https://www.asus.com/support/
+cve_portal: https://www.asus.com/security-advisory/
+support_phone: +1-888-678-3688
+device_types_path: device-types/ASUS
+elevation_images_path: elevation-images/ASUS
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

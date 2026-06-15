@@ -1,0 +1,14 @@
+---
+name: NETIO
+description: Czech manufacturer of smart power distribution units (PDUs), power sockets and power strips controllable over LAN, WiFi and cloud.
+lookup:
+  - netio
+url: https://www.netio-products.com
+support_url: https://www.netio-products.com/en/contact
+support_phone: +420-211-150-111
+device_types_path: device-types/NETIO
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

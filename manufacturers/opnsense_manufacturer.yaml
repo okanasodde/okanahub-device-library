@@ -1,0 +1,15 @@
+---
+name: OPNsense
+description: Open-source FreeBSD-based firewall and routing platform (by Deciso).
+lookup:
+  - opnsense
+url: https://opnsense.org
+support_url: https://opnsense.org/users/support/
+cve_portal: https://docs.opnsense.org/security.html
+support_phone: +31-187-744020
+device_types_path: device-types/OPNsense
+elevation_images_path: elevation-images/OPNsense
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

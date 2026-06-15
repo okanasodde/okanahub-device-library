@@ -1,0 +1,14 @@
+---
+name: Niagara
+description: Network visibility, packet broker, and security delivery platform vendor (Niagara Networks).
+lookup:
+  - niagara
+url: https://www.niagaranetworks.com
+support_url: https://www.niagaranetworks.com/support/
+support_phone: +1-408-471-6590
+device_types_path: device-types/Niagara
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Niagara
+module_images_path: null
+rack_types_path: null

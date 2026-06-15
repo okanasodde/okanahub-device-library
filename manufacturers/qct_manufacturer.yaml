@@ -1,0 +1,16 @@
+---
+name: QCT
+description: 'Quanta Cloud Technology, a Quanta Computer subsidiary, makes hyperscale datacenter hardware: rackmount servers, storage, network switches, and integrated rack systems.'
+lookup:
+  - qct
+  - quanta
+url: https://www.qct.io
+support_url: https://www.qct.io/Service-Warranty/index
+cve_portal: https://www.qct.io/Press-Releases/index/PR/Server/Security-Center
+support_phone: +1-855-728-6878
+device_types_path: device-types/QCT
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

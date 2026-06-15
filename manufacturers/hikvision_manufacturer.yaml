@@ -1,0 +1,15 @@
+---
+name: Hikvision
+description: Manufacturer of video surveillance products including IP cameras, NVRs and DVRs for security and IoT applications.
+lookup:
+  - hikvision
+url: https://www.hikvision.com
+support_url: https://www.hikvision.com/en/support/
+cve_portal: https://www.hikvision.com/en/support/cybersecurity/security-advisory/
+support_phone: +1-866-200-6690
+device_types_path: device-types/Hikvision
+elevation_images_path: elevation-images/Hikvision
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

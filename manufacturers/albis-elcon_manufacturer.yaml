@@ -1,0 +1,14 @@
+---
+name: Albis-Elcon
+description: Telecom access and transport network equipment vendor for fixed and mobile carriers.
+lookup:
+  - albis
+  - elcon
+  - albiselcon
+url: https://www.albis-elcon.com
+device_types_path: device-types/Albis-Elcon
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

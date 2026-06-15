@@ -1,0 +1,17 @@
+---
+name: Seagate Systems
+description: Data storage systems and hard-drive/storage-array vendor.
+lookup:
+  - seagate
+  - systems
+  - seagatesystems
+url: https://www.seagate.com
+support_url: https://www.seagate.com/support/
+cve_portal: https://www.seagate.com/support/product-security/
+support_phone: +1-800-732-4283
+device_types_path: device-types/Seagate Systems
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

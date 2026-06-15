@@ -1,0 +1,17 @@
+---
+name: Allied Telesis
+description: Allied Telesis manufactures enterprise and industrial Ethernet switches, routers, and network infrastructure equipment.
+lookup:
+  - allied
+  - telesis
+  - alliedtelesis
+url: https://www.alliedtelesis.com
+support_url: https://www.alliedtelesis.com/us/en/support
+cve_portal: https://www.alliedtelesis.com/us/en/support/cybersecurity-vulnerability-statement
+support_phone: +1-800-428-4835
+device_types_path: device-types/Allied Telesis
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Allied Telesis
+module_images_path: null
+rack_types_path: null

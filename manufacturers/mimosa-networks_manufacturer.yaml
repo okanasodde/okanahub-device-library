@@ -1,0 +1,15 @@
+---
+name: Mimosa Networks
+description: Fixed wireless broadband access and backhaul radio equipment vendor (Mimosa product line by Radisys/Airspan).
+lookup:
+  - mimosa
+  - networks
+  - mimosanetworks
+url: https://mimosa.co
+support_url: https://mimosa.co/support
+device_types_path: device-types/Mimosa Networks
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

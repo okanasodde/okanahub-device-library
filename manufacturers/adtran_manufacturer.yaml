@@ -1,0 +1,17 @@
+---
+name: Adtran
+description: Fiber broadband access, optical transport, and enterprise networking vendor for service providers.
+lookup:
+  - adtran
+  - os
+  - adtranos
+url: https://www.adtran.com
+support_url: https://www.adtran.com/en/about-us/support
+cve_portal: https://www.adtran.com/en/about-us/support/product-security
+support_phone: +1-888-423-8726
+device_types_path: device-types/Adtran
+elevation_images_path: elevation-images/Adtran
+platforms_path: null
+module_types_path: module-types/Adtran
+module_images_path: null
+rack_types_path: null

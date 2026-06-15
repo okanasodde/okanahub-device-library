@@ -1,0 +1,14 @@
+---
+name: Yeastar
+description: VoIP PBX, IP phone system, and VoIP gateway vendor providing on-premises and cloud unified communications for small and medium businesses.
+lookup:
+  - yeastar
+url: https://www.yeastar.com
+support_url: https://support.yeastar.com
+support_phone: +1-972-914-4899
+device_types_path: device-types/Yeastar
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

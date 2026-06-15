@@ -1,0 +1,12 @@
+---
+name: ITK
+description: Electrical and network infrastructure products brand (IEK Group).
+lookup:
+  - itk
+support_phone: +7-495-542-22-24
+device_types_path: device-types/ITK
+elevation_images_path: elevation-images/ITK
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

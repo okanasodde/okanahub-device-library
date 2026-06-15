@@ -1,0 +1,14 @@
+---
+name: Orange
+description: French multinational telecommunications operator (Orange S.A. / Orange Business) providing networking services and customer premises equipment such as Livebox business routers.
+lookup:
+  - orange
+url: https://www.orange.com
+support_url: https://www.orange-business.com/en/get-help
+cve_portal: https://advisories.orangecyberdefense.com
+device_types_path: device-types/Orange
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

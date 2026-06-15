@@ -1,0 +1,13 @@
+---
+name: SecurityCode
+description: Russian information-security software and hardware vendor (Code of Security).
+lookup:
+  - securitycode
+url: https://www.securitycode.ru
+support_phone: +7-495-982-30-20
+device_types_path: device-types/SecurityCode
+elevation_images_path: elevation-images/SecurityCode
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

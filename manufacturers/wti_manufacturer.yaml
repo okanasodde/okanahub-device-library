@@ -1,0 +1,14 @@
+---
+name: WTI
+description: Western Telematic, Inc., US manufacturer of out-of-band console servers, switched rack-mount PDUs and remote power-management appliances.
+lookup:
+  - wti
+url: https://www.wti.com
+support_url: https://www.wti.com/pages/manuals-documentation
+support_phone: +1-800-854-7226
+device_types_path: device-types/WTI
+elevation_images_path: elevation-images/WTI
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

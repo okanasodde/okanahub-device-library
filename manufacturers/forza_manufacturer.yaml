@@ -1,0 +1,13 @@
+---
+name: Forza
+description: Forza Power Technologies, a maker of UPS systems, voltage regulators, surge protectors and power-protection devices
+lookup:
+  - forza
+url: https://www.forzaups.com
+support_url: https://www.forzaups.com/support/
+device_types_path: device-types/Forza
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,14 @@
+---
+name: Yealink
+description: IP phone, video conferencing, and unified communications endpoint vendor.
+lookup:
+  - yealink
+url: https://www.yealink.com
+support_url: https://support.yealink.com
+cve_portal: https://www.yealink.com/en/onepage/security-advisories
+device_types_path: device-types/Yealink
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

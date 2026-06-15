@@ -1,0 +1,15 @@
+---
+name: Infoblox
+description: DNS, DHCP, and IP address management (DDI) and network security vendor.
+lookup:
+  - infoblox
+url: https://www.infoblox.com
+support_url: https://support.infoblox.com
+cve_portal: https://www.infoblox.com/products/grid/security-advisories/
+support_phone: +1-888-463-6259
+device_types_path: device-types/Infoblox
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

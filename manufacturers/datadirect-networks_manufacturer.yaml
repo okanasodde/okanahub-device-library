@@ -1,0 +1,17 @@
+---
+name: DataDirect Networks
+description: Data storage company providing high-performance and high-capacity storage systems for AI, analytics, and HPC environments.
+lookup:
+  - datadirect
+  - networks
+  - datadirectnetworks
+  - ddn
+url: https://www.ddn.com
+support_url: https://www.ddn.com/support
+support_phone: +1-800-837-2298
+device_types_path: device-types/DataDirect Networks
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/DataDirect Networks
+module_images_path: null
+rack_types_path: null

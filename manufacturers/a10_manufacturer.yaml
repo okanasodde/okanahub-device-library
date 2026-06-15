@@ -1,0 +1,15 @@
+---
+name: A10
+description: Application delivery, load balancing, and DDoS protection vendor.
+lookup:
+  - a10
+url: https://www.a10networks.com
+support_url: https://support.a10networks.com
+cve_portal: https://support.a10networks.com/support/security-advisories
+support_phone: +1-888-822-7210
+device_types_path: device-types/A10
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,15 @@
+---
+name: EFB Elektronik
+description: German manufacturer and distributor of network cabling, connectivity, fiber optic, and data communication infrastructure products.
+lookup:
+  - efb
+  - elektronik
+  - efbelektronik
+url: https://www.efb-elektronik.de
+support_phone: +49-521-40418-0
+device_types_path: device-types/EFB Elektronik
+elevation_images_path: elevation-images/EFB Elektronik
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

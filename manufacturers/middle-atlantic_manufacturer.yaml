@@ -1,0 +1,16 @@
+---
+name: Middle Atlantic
+description: AV/IT racks, enclosures, power distribution and technical furniture, a brand of Legrand AV.
+lookup:
+  - middle
+  - atlantic
+  - middleatlantic
+url: https://www.legrandav.com
+support_url: https://www.legrandav.com/contact_us/contact_us
+support_phone: +1-800-223-4162
+device_types_path: device-types/Middle Atlantic
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

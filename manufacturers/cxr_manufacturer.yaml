@@ -1,0 +1,14 @@
+---
+name: CXR
+description: French telecom and networking equipment maker for Ethernet, TDM, SONET/SDH and synchronization gear.
+lookup:
+  - cxr
+url: https://www.cxr.com
+support_url: https://www.cxr.com/en/pages/support-57.html
+support_phone: +33-2-37-62-88-00
+device_types_path: device-types/CXR
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,15 @@
+---
+name: MitraStar
+description: Taiwanese ODM/DMS company that designs and manufactures wired and wireless broadband networking customer-premises equipment such as fiber/PON CPE, gateways, OLTs and routers.
+lookup:
+  - mitrastar
+  - mitra
+url: https://www.mitrastar.com
+support_url: https://vip.mitrastar.com/?lang=eng
+support_phone: +886-3-5777998
+device_types_path: device-types/MitraStar
+elevation_images_path: elevation-images/MitraStar
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

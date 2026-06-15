@@ -1,0 +1,15 @@
+---
+name: AVM
+description: German consumer electronics maker of FRITZ! home networking products including DSL/cable routers, mesh Wi-Fi, VoIP and smart-home devices.
+lookup:
+  - avm
+url: https://en.avm.de
+support_url: https://en.avm.de/service/
+cve_portal: https://en.fritz.com/service/current-security-notifications/
+support_phone: +49-30-39976-0
+device_types_path: device-types/AVM
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

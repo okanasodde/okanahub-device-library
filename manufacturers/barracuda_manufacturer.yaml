@@ -1,0 +1,15 @@
+---
+name: Barracuda
+description: Email, network, and application security vendor (firewalls, email protection, backup).
+lookup:
+  - barracuda
+url: https://www.barracuda.com
+support_url: https://www.barracuda.com/support
+cve_portal: https://www.barracuda.com/company/legal/trust-center
+support_phone: +1-888-268-4772
+device_types_path: device-types/Barracuda
+elevation_images_path: elevation-images/Barracuda
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

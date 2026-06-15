@@ -1,0 +1,13 @@
+---
+name: Firewalla
+description: Consumer and small-business cybersecurity firewall appliances combining firewall, IPS/IDS, VPN, and parental controls.
+lookup:
+  - firewalla
+url: https://firewalla.com
+support_url: https://help.firewalla.com/hc/en-us
+device_types_path: device-types/Firewalla
+elevation_images_path: elevation-images/Firewalla
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,14 @@
+---
+name: Diamond SA
+description: Fiber optic connector and cable assembly manufacturer.
+lookup:
+  - diamond
+  - diamondsa
+url: https://www.diamond-fo.com
+support_phone: +41-58-307-45-45
+device_types_path: device-types/Diamond SA
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Diamond SA
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,15 @@
+---
+name: Thales
+description: French multinational that makes cybersecurity and data-protection hardware, including Luna (SafeNet) hardware security modules (HSMs) for encryption and key management.
+lookup:
+  - thales
+url: https://www.thalesgroup.com
+support_url: https://supportportal.thalesgroup.com/csm
+cve_portal: https://www.thalesgroup.com/en/global/group/psirt/thales-product-security-advisories
+support_phone: +1-410-931-7520
+device_types_path: device-types/Thales
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Thales
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,15 @@
+---
+name: QNAP
+description: Taiwanese vendor of network-attached storage (NAS) appliances, surveillance and networking hardware for file sharing, backup and virtualization.
+lookup:
+  - qnap
+url: https://www.qnap.com
+support_url: https://service.qnap.com/en/home
+cve_portal: https://www.qnap.com/en/security-advisories
+support_phone: +1-771-333-8884
+device_types_path: device-types/QNAP
+elevation_images_path: elevation-images/QNAP
+platforms_path: null
+module_types_path: module-types/QNAP
+module_images_path: null
+rack_types_path: null

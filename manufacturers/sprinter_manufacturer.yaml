@@ -1,0 +1,13 @@
+---
+name: Sprinter
+description: Sprinter TX TDMoP multiplexer-switches by NSC Communications of Siberia for E1 and Ethernet transport over packet networks.
+lookup:
+  - sprinter
+url: https://www.nsc-com.com
+support_url: https://www.nsc-com.com/support
+device_types_path: device-types/Sprinter
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

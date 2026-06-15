@@ -1,0 +1,16 @@
+---
+name: Wireless-tag Technology
+description: Shenzhen-based manufacturer of ESP32/IoT WiFi, Bluetooth and Ethernet modules and development boards, including the WT32-ETH01.
+lookup:
+  - wireless
+  - tag
+  - technology
+  - wirelesstag
+url: https://en.wireless-tag.com
+support_phone: +86-181-2205-7087
+device_types_path: device-types/Wireless-tag Technology
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

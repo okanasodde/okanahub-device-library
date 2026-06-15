@@ -1,0 +1,14 @@
+---
+name: Legrand
+description: French specialist in electrical and digital building infrastructure, including data center power, PDUs and KVM.
+lookup:
+  - legrand
+url: https://www.legrand.com
+support_url: https://www.legrand.us/contact-and-support
+support_phone: +1-800-223-4162
+device_types_path: device-types/Legrand
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

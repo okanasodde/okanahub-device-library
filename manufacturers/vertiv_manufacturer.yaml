@@ -1,0 +1,14 @@
+---
+name: Vertiv
+description: Data center power, cooling, and IT infrastructure management vendor.
+lookup:
+  - vertiv
+url: https://www.vertiv.com
+support_url: https://www.vertiv.com/en-us/support/
+cve_portal: https://www.vertiv.com/en-us/support/security-advisories/
+device_types_path: device-types/Vertiv
+elevation_images_path: elevation-images/Vertiv
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: rack-types/Vertiv

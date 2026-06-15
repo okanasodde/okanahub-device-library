@@ -1,0 +1,13 @@
+---
+name: Logilink
+description: IT and networking accessories brand (2-Power / Assmann).
+lookup:
+  - logilink
+url: https://www.logilink.com
+support_phone: +49-2351-66887-0
+device_types_path: device-types/Logilink
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

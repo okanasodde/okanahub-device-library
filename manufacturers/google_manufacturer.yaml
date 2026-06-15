@@ -1,0 +1,14 @@
+---
+name: Google
+description: Technology company that, among many products, makes Nest Wifi and Google Wifi consumer mesh networking routers and access points.
+lookup:
+  - google
+url: https://store.google.com
+support_url: https://support.google.com/googlenest
+cve_portal: https://cloud.google.com/support/bulletins
+device_types_path: device-types/Google
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

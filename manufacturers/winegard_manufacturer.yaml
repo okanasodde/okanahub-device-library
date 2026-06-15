@@ -1,0 +1,14 @@
+---
+name: Winegard
+description: US manufacturer of TV, RV and mobile antennas, satellite reception products and cellular/WiFi connectivity routers and systems.
+lookup:
+  - winegard
+url: https://winegard.com
+support_url: https://winegard.com/contact-us/
+support_phone: +1-800-288-8094
+device_types_path: device-types/Winegard
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

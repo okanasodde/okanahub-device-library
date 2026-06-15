@@ -1,0 +1,14 @@
+---
+name: AFL
+description: Fiber optic cable, connectivity, and fusion splicing equipment manufacturer for broadband, data center, and energy infrastructure
+lookup:
+  - afl
+url: https://www.aflglobal.com
+support_url: https://www.aflglobal.com/en/contact/contacts-and-feedback-forms
+support_phone: +1-800-235-3423
+device_types_path: device-types/AFL
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/AFL
+module_images_path: null
+rack_types_path: null

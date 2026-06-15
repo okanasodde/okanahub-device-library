@@ -1,0 +1,12 @@
+---
+name: NetPing
+description: Networked environment monitoring and remote power management device vendor.
+lookup:
+  - netping
+url: https://www.netping.ru
+device_types_path: device-types/NetPing
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

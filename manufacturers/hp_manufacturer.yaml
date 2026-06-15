@@ -1,0 +1,19 @@
+---
+name: HP
+description: Manufacturer of personal computers, printers and related peripherals; historically also ProCurve/Comware networking switches.
+lookup:
+  - hp
+  - comware
+  - hpcomware
+  - procurve
+  - hpprocurve
+url: https://www.hp.com
+support_url: https://support.hp.com
+cve_portal: https://support.hp.com/us-en/security-bulletins
+support_phone: +1-800-474-6836
+device_types_path: device-types/HP
+elevation_images_path: elevation-images/HP
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

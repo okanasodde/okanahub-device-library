@@ -1,0 +1,11 @@
+---
+name: Testing
+description: Placeholder/test entry; not a real manufacturer.
+lookup:
+  - testing
+device_types_path: device-types/Testing
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

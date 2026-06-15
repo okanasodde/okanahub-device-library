@@ -1,0 +1,14 @@
+---
+name: Motorola
+description: Consumer networking brand for DOCSIS cable modems, gateways and Wi-Fi routers under the Motorola name.
+lookup:
+  - motorola
+url: https://www.motorola.com/us/en/family/modems-networking
+support_url: https://motorolanetwork.com/pages/help-site
+support_phone: +1-888-325-9336
+device_types_path: device-types/Motorola
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,15 @@
+---
+name: Blackmagicdesign
+description: Video production and broadcast equipment vendor (cameras, switchers, capture/playback).
+lookup:
+  - blackmagicdesign
+  - blackmagic
+url: https://www.blackmagicdesign.com
+support_url: https://www.blackmagicdesign.com/support
+support_phone: +1-408-954-0500
+device_types_path: device-types/Blackmagicdesign
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,12 @@
+---
+name: RackifyUS
+description: Online seller of server rack and rack-mount hardware accessories; no confirmed official manufacturer website identified.
+lookup:
+  - rackifyus
+  - rackify
+device_types_path: device-types/RackifyUS
+elevation_images_path: elevation-images/RackifyUS
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

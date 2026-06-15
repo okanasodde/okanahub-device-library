@@ -1,0 +1,15 @@
+---
+name: Fujitsu
+description: Japanese multinational ICT vendor making servers, storage, client computing devices and IT services
+lookup:
+  - fujitsu
+url: https://www.fujitsu.com
+support_url: https://support.ts.fujitsu.com
+cve_portal: https://security.ts.fujitsu.com/ProductSecurity/
+support_phone: +1-800-873-3822
+device_types_path: device-types/Fujitsu
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

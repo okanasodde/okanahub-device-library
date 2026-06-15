@@ -1,0 +1,15 @@
+---
+name: ZPE
+description: Serial console servers, out-of-band management, and branch networking infrastructure vendor (Nodegrid platform).
+lookup:
+  - zpe
+url: https://zpesystems.com
+support_url: https://support.zpesystems.com
+cve_portal: https://psirt.zpesystems.com/portal/en/home
+support_phone: +1-844-497-3797
+device_types_path: device-types/ZPE
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/ZPE
+module_images_path: null
+rack_types_path: null

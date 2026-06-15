@@ -1,0 +1,14 @@
+---
+name: Datto
+description: Vendor of backup, business continuity, and disaster recovery appliances and software for managed service providers.
+lookup:
+  - datto
+url: https://www.datto.com
+support_url: https://www.datto.com/support
+support_phone: +1-833-832-4780
+device_types_path: device-types/Datto
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Datto
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,14 @@
+---
+name: ActionTec
+description: Broadband customer-premises equipment vendor (DSL/fiber gateways, routers, Wi-Fi extenders).
+lookup:
+  - actiontec
+url: https://www.actiontec.com
+support_url: https://www.actiontec.com/support/
+support_phone: +1-866-776-8322
+device_types_path: device-types/ActionTec
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

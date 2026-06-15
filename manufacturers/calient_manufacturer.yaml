@@ -1,0 +1,13 @@
+---
+name: Calient
+description: Maker of 3D-MEMS photonic optical circuit switches (S-Series) for data centers and software-defined networks
+lookup:
+  - calient
+url: https://www.calient.net
+support_phone: +1-805-695-4800
+device_types_path: device-types/Calient
+elevation_images_path: elevation-images/Calient
+platforms_path: null
+module_types_path: module-types/Calient
+module_images_path: null
+rack_types_path: null

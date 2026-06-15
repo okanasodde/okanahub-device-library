@@ -1,0 +1,13 @@
+---
+name: Terramaster
+description: Manufacturer of network-attached storage (NAS) and direct-attached storage appliances running its TOS operating system for home and business.
+lookup:
+  - terramaster
+url: https://www.terra-master.com
+support_url: https://www.terra-master.com/pages/support
+device_types_path: device-types/Terramaster
+elevation_images_path: elevation-images/Terramaster
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

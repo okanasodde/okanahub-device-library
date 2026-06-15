@@ -1,0 +1,21 @@
+---
+name: Ericsson
+description: Swedish multinational telecommunications equipment and networking vendor for mobile and fixed network infrastructure.
+lookup:
+  - ericsson
+  - ipos
+  - ericssonipos
+  - mltn63
+  - ericssonmltn63
+  - mltn66
+  - ericssonmltn66
+url: https://www.ericsson.com
+support_url: https://www.ericsson.com/en/support
+cve_portal: https://www.ericsson.com/en/about-us/security/psirt
+support_phone: +46-10-719-0000
+device_types_path: device-types/Ericsson
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

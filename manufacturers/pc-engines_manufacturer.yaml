@@ -1,0 +1,14 @@
+---
+name: PC Engines
+description: Swiss maker of low-power embedded x86 single-board computers (APU/ALIX series) for networking, firewall and router appliances.
+lookup:
+  - pcengines
+  - pc
+  - engines
+url: https://www.pcengines.ch
+device_types_path: device-types/PC Engines
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

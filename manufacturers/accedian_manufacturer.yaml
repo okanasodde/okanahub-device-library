@@ -1,0 +1,13 @@
+---
+name: Accedian
+description: Network performance monitoring and service assurance vendor (Skylight/Provider Connectivity Assurance), acquired by Cisco in 2023.
+lookup:
+  - accedian
+url: https://www.cisco.com/site/us/en/about/corporate-development/acquisitions/accedian/index.html
+cve_portal: https://sec.cloudapps.cisco.com/security/center/publicationListing.x
+device_types_path: device-types/Accedian
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

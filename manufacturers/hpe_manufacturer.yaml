@@ -1,0 +1,17 @@
+---
+name: HPE
+description: Enterprise IT vendor making servers, storage, and Aruba networking switches, routers and access points.
+lookup:
+  - hpe
+  - comware
+  - hpcomware
+url: https://www.hpe.com
+support_url: https://support.hpe.com
+cve_portal: https://www.hpe.com/us/en/about/digital-trust-center/security.html
+support_phone: +1-800-633-3600
+device_types_path: device-types/HPE
+elevation_images_path: elevation-images/HPE
+platforms_path: null
+module_types_path: module-types/HPE
+module_images_path: null
+rack_types_path: rack-types/HPE

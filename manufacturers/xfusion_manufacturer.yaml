@@ -1,0 +1,15 @@
+---
+name: Xfusion
+description: Chinese provider of computing infrastructure manufacturing rack, blade, and high-density servers and related data-center hardware (spun off from Huawei's x86 server business).
+lookup:
+  - xfusion
+url: https://www.xfusion.com
+support_url: https://support.xfusion.com
+cve_portal: https://support.xfusion.com/safe/en/psirt
+support_phone: +86-400-009-8999
+device_types_path: device-types/Xfusion
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

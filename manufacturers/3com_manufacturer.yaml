@@ -1,0 +1,11 @@
+---
+name: 3Com
+description: Defunct American networking equipment vendor (Ethernet switches, routers, NICs); acquired by HP in 2010 and folded into HPE networking.
+lookup:
+  - 3com
+device_types_path: device-types/3Com
+elevation_images_path: elevation-images/3Com
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

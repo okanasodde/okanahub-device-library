@@ -1,0 +1,15 @@
+---
+name: HiWatch
+description: Value-focused video surveillance brand by Hikvision offering IP and Turbo HD cameras, NVRs and DVRs.
+lookup:
+  - hiwatch
+url: https://www.hikvision.com/europe/products/hiwatch/
+support_url: https://www.hikvision.com/en/support/
+cve_portal: https://www.hikvision.com/en/support/cybersecurity/security-advisory/
+support_phone: +1-866-200-6690
+device_types_path: device-types/HiWatch
+elevation_images_path: elevation-images/HiWatch
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

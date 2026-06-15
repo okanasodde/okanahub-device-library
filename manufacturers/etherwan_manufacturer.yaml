@@ -1,0 +1,14 @@
+---
+name: EtherWAN
+description: Manufacturer of industrial managed and unmanaged Ethernet switches, PoE switches, and media converters for harsh environments.
+lookup:
+  - etherwan
+url: https://www.etherwan.com
+support_url: https://www.etherwan.com/us/support
+support_phone: +1-714-779-3800
+device_types_path: device-types/EtherWAN
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

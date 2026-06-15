@@ -1,0 +1,12 @@
+---
+name: Corvil
+description: Network data analytics and performance monitoring vendor (part of Pico).
+lookup:
+  - corvil
+url: https://www.pico.net/corvil-analytics/
+device_types_path: device-types/Corvil
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,13 @@
+---
+name: Infotecs
+description: Russian information-security vendor (ViPNet VPN and network security products).
+lookup:
+  - infotecs
+url: https://infotecs.ru
+support_phone: +1-917-982-7130
+device_types_path: device-types/Infotecs
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

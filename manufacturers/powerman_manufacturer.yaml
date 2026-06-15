@@ -1,0 +1,13 @@
+---
+name: Powerman
+description: Russian brand (TPG TAIPIT) of uninterruptible power supplies (UPS) and electrical power-protection equipment for IT and computing.
+lookup:
+  - powerman
+url: https://powerman.ru
+support_phone: +27-861-444-445
+device_types_path: device-types/Powerman
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,15 @@
+---
+name: Stormshield
+description: Network security vendor (firewall/UTM, endpoint, and data security).
+lookup:
+  - stormshield
+url: https://www.stormshield.com
+support_url: https://www.stormshield.com/support/
+cve_portal: https://advisories.stormshield.eu
+support_phone: +33-9-69-329-129
+device_types_path: device-types/Stormshield
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Stormshield
+module_images_path: null
+rack_types_path: null

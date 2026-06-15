@@ -1,0 +1,14 @@
+---
+name: LevelOne
+description: Networking brand of Digital Data Communications offering switches, access points, media converters and IP surveillance.
+lookup:
+  - levelone
+  - level1
+url: https://global.level1.com
+support_phone: +1-800-876-8889
+device_types_path: device-types/LevelOne
+elevation_images_path: elevation-images/LevelOne
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

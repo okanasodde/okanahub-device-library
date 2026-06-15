@@ -1,0 +1,14 @@
+---
+name: EnGenius
+description: Networking vendor making wireless access points, switches, and cloud-managed network solutions for small and mid-sized businesses.
+lookup:
+  - engenius
+url: https://www.engeniustech.com
+support_url: https://www.engeniustech.com/support.html
+support_phone: +1-714-432-8668
+device_types_path: device-types/EnGenius
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

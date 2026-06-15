@@ -1,0 +1,15 @@
+---
+name: Digi
+description: Digi International, a vendor of cellular routers, gateways, embedded modules, and IoT connectivity hardware for industrial and enterprise networking.
+lookup:
+  - digi
+url: https://www.digi.com
+support_url: https://www.digi.com/support
+cve_portal: https://www.digi.com/resources/security
+support_phone: +1-952-912-3456
+device_types_path: device-types/Digi
+elevation_images_path: elevation-images/Digi
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

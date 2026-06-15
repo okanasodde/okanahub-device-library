@@ -1,0 +1,14 @@
+---
+name: ExaGrid
+description: Tiered backup storage appliance vendor for data backup, deduplication, and ransomware recovery.
+lookup:
+  - exagrid
+url: https://www.exagrid.com
+support_url: https://www.exagrid.com/support/
+support_phone: +1-800-868-6985
+device_types_path: device-types/ExaGrid
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

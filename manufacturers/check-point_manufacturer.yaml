@@ -1,0 +1,17 @@
+---
+name: Check Point
+description: Network security, firewall, and threat-prevention vendor.
+lookup:
+  - checkpoint
+  - gaia
+  - checkpointgaia
+url: https://www.checkpoint.com
+support_url: https://support.checkpoint.com
+cve_portal: https://advisories.checkpoint.com/advisories/
+support_phone: +1-888-361-5030
+device_types_path: device-types/Check Point
+elevation_images_path: elevation-images/Check Point
+platforms_path: null
+module_types_path: module-types/Check Point
+module_images_path: module-images/Check Point
+rack_types_path: null

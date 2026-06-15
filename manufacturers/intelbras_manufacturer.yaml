@@ -1,0 +1,14 @@
+---
+name: Intelbras
+description: Brazilian vendor of networking, telecom, and electronic security equipment.
+lookup:
+  - intelbras
+url: https://www.intelbras.com
+support_url: https://www.intelbras.com/pt-br/suporte
+support_phone: +55-48-2106-0006
+device_types_path: device-types/Intelbras
+elevation_images_path: elevation-images/Intelbras
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

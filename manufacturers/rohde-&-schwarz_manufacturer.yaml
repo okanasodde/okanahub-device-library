@@ -1,0 +1,16 @@
+---
+name: Rohde & Schwarz
+description: Test and measurement, broadcast, secure communications, and cybersecurity equipment manufacturer.
+lookup:
+  - rohde
+  - schwarz
+  - rohdeschwarz
+url: https://www.rohde-schwarz.com
+support_url: https://www.rohde-schwarz.com/us/service-support/service/service-overview_229461.html
+support_phone: +1-888-837-8772
+device_types_path: device-types/Rohde & Schwarz
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

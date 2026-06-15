@@ -1,0 +1,14 @@
+---
+name: Shelly
+description: Smart-home and IoT device vendor (Wi-Fi relays, sensors, energy meters).
+lookup:
+  - shelly
+url: https://www.shelly.com
+support_url: https://support.shelly.cloud
+support_phone: +1-833-743-5591
+device_types_path: device-types/Shelly
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

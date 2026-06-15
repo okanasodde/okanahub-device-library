@@ -1,0 +1,13 @@
+---
+name: TESmart
+description: Manufacturer of KVM switches, HDMI/AV switches and multi-monitor docking solutions, a brand of Tesla Elec Technology Co., Ltd.
+lookup:
+  - tesmart
+url: https://www.tesmart.com
+support_url: https://support.tesmart.com/hc/en-us
+device_types_path: device-types/TESmart
+elevation_images_path: elevation-images/TESmart
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

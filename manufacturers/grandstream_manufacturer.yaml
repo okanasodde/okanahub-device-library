@@ -1,0 +1,15 @@
+---
+name: Grandstream
+description: VoIP phones, IP video, networking and unified communications equipment vendor.
+lookup:
+  - grandstream
+url: https://www.grandstream.com
+support_url: https://www.grandstream.com/support
+cve_portal: https://psirt.grandstream.com/
+support_phone: +1-617-566-9300
+device_types_path: device-types/Grandstream
+elevation_images_path: elevation-images/Grandstream
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,14 @@
+---
+name: Deciso
+description: Network security hardware vendor and maker of the OPNsense firewall platform.
+lookup:
+  - deciso
+url: https://www.deciso.com
+support_url: https://www.deciso.com/support/
+support_phone: +31-187-744-020
+device_types_path: device-types/Deciso
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

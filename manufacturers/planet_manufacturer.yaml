@@ -1,0 +1,15 @@
+---
+name: PLANET
+description: Taiwanese vendor of IP networking hardware including managed and PoE Ethernet switches, industrial switches, media converters, and IP surveillance products.
+lookup:
+  - planet
+url: https://www.planet.com.tw
+support_url: https://www.planet.com.tw/en/support
+cve_portal: https://www.planet.com.tw/en/support/security-advisory
+support_phone: +886-2-22199518
+device_types_path: device-types/PLANET
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

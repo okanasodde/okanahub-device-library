@@ -1,0 +1,13 @@
+---
+name: Osnovo
+description: PoE, media converter, and signal transmission equipment vendor.
+lookup:
+  - osnovo
+url: https://osnovo.com
+support_phone: +7-800-707-06-54
+device_types_path: device-types/Osnovo
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

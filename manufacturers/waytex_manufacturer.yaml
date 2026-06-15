@@ -1,0 +1,13 @@
+---
+name: Waytex
+description: French B2B importer and supplier of network connectivity, cabling, enclosures and multimedia accessories.
+lookup:
+  - waytex
+url: https://www.waytex.fr
+support_phone: +33-4-98-11-43-89
+device_types_path: device-types/Waytex
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

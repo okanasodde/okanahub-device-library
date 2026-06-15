@@ -1,0 +1,15 @@
+---
+name: Meinberg
+description: Time and frequency synchronization vendor (NTP/PTP time servers, GNSS clocks).
+lookup:
+  - meinberg
+url: https://www.meinbergglobal.com
+support_url: https://www.meinbergglobal.com/english/support/
+cve_portal: https://www.meinbergglobal.com/english/news/
+support_phone: +1-877-787-1588
+device_types_path: device-types/Meinberg
+elevation_images_path: elevation-images/Meinberg
+platforms_path: null
+module_types_path: module-types/Meinberg
+module_images_path: null
+rack_types_path: null

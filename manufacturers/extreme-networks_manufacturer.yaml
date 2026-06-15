@@ -1,0 +1,34 @@
+---
+name: Extreme Networks
+description: Enterprise networking vendor making wired and wireless switches, routers, access points, and cloud network management software.
+lookup:
+  - extreme
+  - networks
+  - ers
+  - extremeers
+  - exos
+  - extremeexos
+  - netiron
+  - extremenetiron
+  - nos
+  - extremenos
+  - slx
+  - extremeslx
+  - tierra
+  - extremetierra
+  - vdx
+  - extremevdx
+  - vsp
+  - extremevsp
+  - wing
+  - extremewing
+url: https://www.extremenetworks.com
+support_url: https://www.extremenetworks.com/support
+cve_portal: https://www.extremenetworks.com/support/psirt
+support_phone: +1-800-998-2408
+device_types_path: device-types/Extreme Networks
+elevation_images_path: elevation-images/Extreme Networks
+platforms_path: null
+module_types_path: module-types/Extreme Networks
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,13 @@
+---
+name: Weblib
+description: French vendor of guest WiFi, captive-portal (UCOPIA) and digital in-store engagement solutions for retail, hospitality and public venues.
+lookup:
+  - weblib
+url: https://www.weblib.com
+support_phone: +33-1-40-92-73-90
+device_types_path: device-types/Weblib
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

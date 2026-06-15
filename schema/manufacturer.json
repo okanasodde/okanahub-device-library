@@ -1,0 +1,96 @@
+{
+    "type": "object",
+    "$id": "urn:devicetype-library:manufacturer",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "properties": {
+        "name": {
+            "type": "string",
+            "maxLength": 255
+        },
+        "description": {
+            "type": "string",
+            "maxLength": 255
+        },
+        "lookup": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "maxLength": 255
+            },
+            "default": []
+        },
+        "url": {
+            "type": "string",
+            "format": "uri",
+            "maxLength": 200
+        },
+        "support_url": {
+            "type": "string",
+            "format": "uri",
+            "maxLength": 200
+        },
+        "cve_portal": {
+            "type": "string",
+            "format": "uri",
+            "maxLength": 200
+        },
+        "support_email": {
+            "type": "string",
+            "format": "email",
+            "maxLength": 254
+        },
+        "support_phone": {
+            "type": "string",
+            "maxLength": 255
+        },
+        "default_account": {
+            "type": "string",
+            "maxLength": 255
+        },
+        "support_credentials": {
+            "type": ["string", "null"],
+            "format": "uuid",
+            "default": null
+        },
+        "logo_light": {
+            "type": "string",
+            "maxLength": 200
+        },
+        "logo_dark": {
+            "type": "string",
+            "maxLength": 200
+        },
+        "device_types_path": {
+            "type": ["string", "null"],
+            "maxLength": 255,
+            "default": null
+        },
+        "elevation_images_path": {
+            "type": ["string", "null"],
+            "maxLength": 255,
+            "default": null
+        },
+        "platforms_path": {
+            "type": ["string", "null"],
+            "maxLength": 255,
+            "default": null
+        },
+        "module_types_path": {
+            "type": ["string", "null"],
+            "maxLength": 255,
+            "default": null
+        },
+        "module_images_path": {
+            "type": ["string", "null"],
+            "maxLength": 255,
+            "default": null
+        },
+        "rack_types_path": {
+            "type": ["string", "null"],
+            "maxLength": 255,
+            "default": null
+        }
+    },
+    "required": ["name"],
+    "additionalProperties": false
+}

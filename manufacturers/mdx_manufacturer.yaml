@@ -1,0 +1,11 @@
+---
+name: MDX
+description: Data center and networking equipment brand.
+lookup:
+  - mdx
+device_types_path: device-types/MDX
+elevation_images_path: elevation-images/MDX
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

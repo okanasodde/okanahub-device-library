@@ -1,0 +1,15 @@
+---
+name: Cohesity
+description: Data management, backup, and recovery software/appliance vendor.
+lookup:
+  - cohesity
+url: https://www.cohesity.com
+support_url: https://www.cohesity.com/services/support/
+cve_portal: https://www.cohesity.com/security-advisories/
+support_phone: +1-855-926-4374
+device_types_path: device-types/Cohesity
+elevation_images_path: elevation-images/Cohesity
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

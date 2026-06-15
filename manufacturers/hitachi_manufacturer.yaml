@@ -1,0 +1,15 @@
+---
+name: HITACHI
+description: Maker of enterprise data storage systems and IT infrastructure, primarily through its Hitachi Vantara business.
+lookup:
+  - hitachi
+url: https://www.hitachivantara.com
+support_url: https://support.hitachivantara.com
+cve_portal: https://www.hitachi.com/hirt/security/index.html
+support_phone: +1-800-446-0744
+device_types_path: device-types/HITACHI
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

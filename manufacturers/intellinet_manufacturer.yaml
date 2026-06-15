@@ -1,0 +1,13 @@
+---
+name: Intellinet
+description: Networking and IT connectivity accessories brand (IC Intracom).
+lookup:
+  - intellinet
+url: https://www.intellinetnetwork.com
+support_phone: +1-813-855-0550
+device_types_path: device-types/Intellinet
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,13 @@
+---
+name: CryptoPro
+description: Cryptographic software and PKI/digital-signature products vendor (CryptoPro CSP).
+lookup:
+  - cryptopro
+url: https://www.cryptopro.ru
+support_phone: +7-495-995-48-20
+device_types_path: device-types/CryptoPro
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,13 @@
+---
+name: Good Connections
+description: European brand of networking cables, connectors, and connectivity accessories for office and home network infrastructure.
+lookup:
+  - good
+  - connections
+  - goodconnections
+device_types_path: device-types/Good Connections
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

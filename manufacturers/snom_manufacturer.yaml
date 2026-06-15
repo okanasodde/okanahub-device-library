@@ -1,0 +1,14 @@
+---
+name: SNOM
+description: Snom Technology (VTech) maker of SIP/VoIP desk phones, DECT phones, and conference phones.
+lookup:
+  - snom
+url: https://www.snom.com
+support_url: https://service.snom.com
+support_phone: +1-339-227-6160
+device_types_path: device-types/SNOM
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,12 @@
+---
+name: Colable
+description: Chinese supplier of digital TV broadcasting headend equipment, including MPEG/H.264 encoders, multiplexers, modulators, set-top boxes, and Ethernet-over-coax systems
+lookup:
+  - colable
+url: https://www.colable.com
+device_types_path: device-types/Colable
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

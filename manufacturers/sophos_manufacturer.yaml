@@ -1,0 +1,15 @@
+---
+name: Sophos
+description: Cybersecurity vendor making firewalls, endpoint protection, network security and managed detection and response services.
+lookup:
+  - sophos
+url: https://www.sophos.com
+support_url: https://support.sophos.com
+cve_portal: https://www.sophos.com/en-us/security-advisories
+support_phone: +1-833-886-6005
+device_types_path: device-types/Sophos
+elevation_images_path: elevation-images/Sophos
+platforms_path: null
+module_types_path: module-types/Sophos
+module_images_path: null
+rack_types_path: null

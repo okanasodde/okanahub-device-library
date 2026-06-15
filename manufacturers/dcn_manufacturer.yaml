@@ -1,0 +1,12 @@
+---
+name: DCN
+description: Data communications equipment vendor (Digital China Networks / Yunke) producing Ethernet switches, routers, and wireless networking products.
+lookup:
+  - dcn
+url: http://www.dcnglobal.com
+device_types_path: device-types/DCN
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

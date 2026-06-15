@@ -1,0 +1,15 @@
+---
+name: Mellanox
+description: High-performance networking (InfiniBand and Ethernet) vendor, now NVIDIA Networking.
+lookup:
+  - mellanox
+  - mlnxos
+  - mellanoxmlnxos
+url: https://www.nvidia.com/en-us/networking/
+support_url: https://www.nvidia.com/en-us/networking/support/
+device_types_path: device-types/Mellanox
+elevation_images_path: elevation-images/Mellanox
+platforms_path: null
+module_types_path: module-types/Mellanox
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,16 @@
+---
+name: Chatsworth-Products
+description: US manufacturer of data center and IT infrastructure racks, cabinets, cable management, power and thermal management solutions
+lookup:
+  - chatsworth
+  - products
+  - chatsworthproducts
+url: https://www.chatsworth.com
+support_url: https://www.chatsworth.com/en-us/contact-us/
+support_phone: +1-800-834-4969
+device_types_path: device-types/Chatsworth-Products
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

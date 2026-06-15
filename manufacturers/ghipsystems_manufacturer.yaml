@@ -1,0 +1,12 @@
+---
+name: ghipsystems
+description: Networking and infrastructure equipment brand.
+lookup:
+  - ghipsystems
+support_phone: +49-40-65729818
+device_types_path: device-types/ghipsystems
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

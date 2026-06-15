@@ -1,0 +1,14 @@
+---
+name: Nabu Casa
+description: Company behind Home Assistant; provides Home Assistant Cloud and smart-home hardware.
+lookup:
+  - nabucasa
+  - nabu
+  - casa
+url: https://www.nabucasa.com
+device_types_path: device-types/Nabu Casa
+elevation_images_path: elevation-images/Nabu Casa
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

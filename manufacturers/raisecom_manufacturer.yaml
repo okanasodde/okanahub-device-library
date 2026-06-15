@@ -1,0 +1,13 @@
+---
+name: Raisecom
+description: Chinese networking vendor making Carrier Ethernet switches, demarcation devices, multi-service access platforms, and optical transport equipment.
+lookup:
+  - raisecom
+url: https://www.raisecom.com
+support_phone: +86-10-8288-3305
+device_types_path: device-types/Raisecom
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

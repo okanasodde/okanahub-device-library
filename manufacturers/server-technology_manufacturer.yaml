@@ -1,0 +1,16 @@
+---
+name: Server Technology
+description: Intelligent rack power distribution unit (PDU) vendor (Legrand brand).
+lookup:
+  - server
+  - technology
+  - servertechnology
+url: https://www.servertech.com
+support_url: https://www.servertech.com/support
+support_phone: +1-800-835-1515
+device_types_path: device-types/Server Technology
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

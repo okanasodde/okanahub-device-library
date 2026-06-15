@@ -1,0 +1,23 @@
+---
+name: Aruba Networks
+description: Wireless networking and edge infrastructure vendor (part of HPE)
+lookup:
+  - aruba
+  - aoscx
+  - os
+  - osswitch
+  - procurve
+  - arubaaoscx
+  - arubaos
+  - arubaosswitch
+  - arubaprocurve
+url: https://www.arubanetworks.com
+support_url: https://asp.arubanetworks.com
+cve_portal: https://www.arubanetworks.com/support-services/security-bulletins/
+support_phone: +1-800-943-4526
+device_types_path: null
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

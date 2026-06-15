@@ -1,0 +1,19 @@
+---
+name: Palo Alto
+description: Enterprise cybersecurity vendor making next-generation firewalls, network security appliances and cloud security platforms.
+lookup:
+  - paloalto
+  - panos
+  - paloaltopanos
+  - palo
+  - alto
+url: https://www.paloaltonetworks.com
+support_url: https://support.paloaltonetworks.com
+cve_portal: https://security.paloaltonetworks.com
+support_phone: +1-866-898-7087
+device_types_path: device-types/Palo Alto
+elevation_images_path: elevation-images/Palo Alto
+platforms_path: null
+module_types_path: module-types/Palo Alto
+module_images_path: null
+rack_types_path: null

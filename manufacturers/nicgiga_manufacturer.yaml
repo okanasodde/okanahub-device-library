@@ -1,0 +1,13 @@
+---
+name: NICGIGA
+description: Networking hardware vendor making multi-gigabit Ethernet switches, network interface cards, and wireless repeaters/bridges for home and small business.
+lookup:
+  - nicgiga
+url: https://www.nicgiga.com
+support_url: https://www.nicgiga.com/pages/help-faqs
+device_types_path: device-types/NICGIGA
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

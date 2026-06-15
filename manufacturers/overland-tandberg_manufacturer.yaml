@@ -1,0 +1,16 @@
+---
+name: Overland-Tandberg
+description: Data storage, tape, and backup systems vendor.
+lookup:
+  - overland
+  - tandberg
+  - overlandtandberg
+url: https://www.overlandtandberg.com
+support_url: https://www.overlandtandberg.com/support/
+support_phone: +1-888-343-7627
+device_types_path: device-types/Overland-Tandberg
+elevation_images_path: elevation-images/Overland-Tandberg
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

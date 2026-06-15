@@ -1,0 +1,11 @@
+---
+name: Sysmatrix
+description: Networking and IT infrastructure equipment brand.
+lookup:
+  - sysmatrix
+device_types_path: device-types/Sysmatrix
+elevation_images_path: elevation-images/Sysmatrix
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

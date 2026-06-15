@@ -1,0 +1,15 @@
+---
+name: LiteOn
+description: Taiwanese manufacturer of optoelectronic semiconductor components, LEDs, and power management modules and supplies for electronics.
+lookup:
+  - liteon
+  - lite-on
+  - liteontechnology
+url: https://www.liteon.com
+support_phone: +886-2-8798-2888
+device_types_path: device-types/LiteOn
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/LiteOn
+module_images_path: null
+rack_types_path: null

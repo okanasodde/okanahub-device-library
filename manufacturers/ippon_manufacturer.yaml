@@ -1,0 +1,12 @@
+---
+name: Ippon
+description: Manufacturer of uninterruptible power supplies (UPS), power distribution units, voltage stabilizers, and batteries for IT and infrastructure.
+lookup:
+  - ippon
+url: https://ippon.ru
+device_types_path: device-types/Ippon
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

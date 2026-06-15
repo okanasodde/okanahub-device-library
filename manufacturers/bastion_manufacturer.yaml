@@ -1,0 +1,11 @@
+---
+name: Bastion
+description: Power electronics and uninterruptible power supply (UPS) brand.
+lookup:
+  - bastion
+device_types_path: device-types/Bastion
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Bastion
+module_images_path: null
+rack_types_path: null

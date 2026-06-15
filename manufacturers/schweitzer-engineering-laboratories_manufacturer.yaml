@@ -1,0 +1,18 @@
+---
+name: Schweitzer Engineering Laboratories
+description: Power-system protection, control, and grid automation equipment vendor (SEL).
+lookup:
+  - schweitzer
+  - engineering
+  - laboratories
+  - sel
+url: https://selinc.com
+support_url: https://selinc.com/support/
+cve_portal: https://selinc.com/support/security-notifications/
+support_phone: +1-509-338-3838
+device_types_path: device-types/Schweitzer Engineering Laboratories
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Schweitzer Engineering Laboratories
+module_images_path: null
+rack_types_path: null

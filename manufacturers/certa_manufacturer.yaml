@@ -1,0 +1,11 @@
+---
+name: Certa
+description: Unidentified or low-profile vendor; no official company could be confidently confirmed for this name
+lookup:
+  - certa
+device_types_path: device-types/Certa
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Certa
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,15 @@
+---
+name: Dahua
+description: Video surveillance and security solutions vendor making IP and HDCVI cameras, NVRs/XVRs, PTZ, access control and related software.
+lookup:
+  - dahua
+url: https://www.dahuasecurity.com
+support_url: https://support.dahuasecurity.com
+cve_portal: https://www.dahuasecurity.com/about-dahua/trust-center/dahua-psirt
+support_phone: +1-877-606-1590
+device_types_path: device-types/Dahua
+elevation_images_path: elevation-images/Dahua
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

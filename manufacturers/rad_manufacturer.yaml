@@ -1,0 +1,14 @@
+---
+name: RAD
+description: Israeli vendor of access and edge networking equipment for service providers, utilities, transportation and government critical infrastructure networks.
+lookup:
+  - rad
+url: https://www.rad.com
+support_url: https://www.rad.com/contact-rad-support/
+support_phone: +1-800-444-7234
+device_types_path: device-types/RAD
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

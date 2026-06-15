@@ -1,0 +1,12 @@
+---
+name: IceWhale
+description: Personal/home server hardware and software vendor (ZimaBoard, CasaOS).
+lookup:
+  - icewhale
+url: https://www.icewhale.org
+device_types_path: device-types/IceWhale
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

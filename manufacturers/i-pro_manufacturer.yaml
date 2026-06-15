@@ -1,0 +1,16 @@
+---
+name: i-PRO
+description: Video surveillance, security camera, and imaging systems vendor (formerly Panasonic Security).
+lookup:
+  - ipro
+  - i-pro
+url: https://www.i-pro.com
+support_url: https://www.i-pro.com/global/en/surveillance/support
+cve_portal: https://i-pro.com/global/en/surveillance/cms/security_information
+support_phone: +1-800-513-5417
+device_types_path: device-types/i-PRO
+elevation_images_path: elevation-images/i-PRO
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

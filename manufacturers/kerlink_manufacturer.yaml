@@ -1,0 +1,12 @@
+---
+name: Kerlink
+description: LoRaWAN IoT network gateway and infrastructure vendor.
+lookup:
+  - kerlink
+url: https://www.kerlink.com
+device_types_path: device-types/Kerlink
+elevation_images_path: elevation-images/Kerlink
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,17 @@
+---
+name: Phoenix Contact
+description: German manufacturer of industrial automation, electrical connection and interface technology including terminal blocks, PLCs and industrial Ethernet.
+lookup:
+  - phoenix
+  - contact
+  - phoenixcontact
+url: https://www.phoenixcontact.com
+support_url: https://www.phoenixcontact.com/en-pc/service-and-support
+cve_portal: https://www.phoenixcontact.com/en-pc/service-and-support/psirt
+support_phone: +1-800-808-7177
+device_types_path: device-types/Phoenix Contact
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Phoenix Contact
+module_images_path: null
+rack_types_path: null

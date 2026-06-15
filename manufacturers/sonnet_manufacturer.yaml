@@ -1,0 +1,14 @@
+---
+name: Sonnet
+description: Computer hardware maker of Thunderbolt and PCIe adapters, network interface cards, docks and storage expansion devices.
+lookup:
+  - sonnet
+url: https://www.sonnettech.com
+support_url: https://www.sonnettech.com/support/index.html
+support_phone: +1-949-587-3500
+device_types_path: device-types/Sonnet
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

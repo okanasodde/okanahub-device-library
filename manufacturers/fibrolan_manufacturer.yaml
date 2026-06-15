@@ -1,0 +1,14 @@
+---
+name: FibroLAN
+description: Israeli developer of Carrier Ethernet switches and Timing & Synchronization (PTP/NTP) equipment for telecom, utility and mobile transport networks.
+lookup:
+  - fibrolan
+url: https://www.fibrolan.com
+support_url: https://www.fibrolan.com/Firmware
+support_phone: +972-4-959-1717
+device_types_path: device-types/FibroLAN
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

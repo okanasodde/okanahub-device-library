@@ -1,0 +1,17 @@
+---
+name: Juniper
+description: Enterprise and service-provider networking vendor making routers, switches, firewalls, and Junos network operating system software.
+lookup:
+  - juniper
+  - junos
+  - juniperjunos
+url: https://www.juniper.net
+support_url: https://supportportal.juniper.net
+cve_portal: https://advisory.juniper.net
+support_phone: +1-888-314-5822
+device_types_path: device-types/Juniper
+elevation_images_path: elevation-images/Juniper
+platforms_path: null
+module_types_path: module-types/Juniper
+module_images_path: null
+rack_types_path: null

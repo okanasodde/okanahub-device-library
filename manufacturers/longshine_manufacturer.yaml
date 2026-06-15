@@ -1,0 +1,13 @@
+---
+name: Longshine
+description: Networking equipment and connectivity products vendor.
+lookup:
+  - longshine
+url: https://www.longshine.de
+support_phone: +49-4102-4922-0
+device_types_path: device-types/Longshine
+elevation_images_path: elevation-images/Longshine
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

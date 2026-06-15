@@ -1,0 +1,14 @@
+---
+name: ACEMAGICIAN
+description: Consumer brand of compact mini PCs and small-form-factor desktop computers, marketed as ACEMAGIC.
+lookup:
+  - acemagician
+  - acemagic
+url: https://acemagic.com
+support_url: https://acemagic.com/pages/contact-us
+device_types_path: device-types/ACEMAGICIAN
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

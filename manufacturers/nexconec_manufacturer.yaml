@@ -1,0 +1,12 @@
+---
+name: Nexconec
+description: Networking and connectivity equipment brand.
+lookup:
+  - nexconec
+support_phone: +33-4-82-31-52-01
+device_types_path: device-types/Nexconec
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/Nexconec
+module_images_path: null
+rack_types_path: null

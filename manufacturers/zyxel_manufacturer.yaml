@@ -1,0 +1,15 @@
+---
+name: Zyxel
+description: Networking hardware vendor producing switches, firewalls, routers, and wireless access points for SMB and enterprise.
+lookup:
+  - zyxel
+url: https://www.zyxel.com
+support_url: https://www.zyxel.com/global/en/support
+cve_portal: https://www.zyxel.com/global/en/support/security-advisories
+support_phone: +1-800-255-4101
+device_types_path: device-types/Zyxel
+elevation_images_path: elevation-images/Zyxel
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

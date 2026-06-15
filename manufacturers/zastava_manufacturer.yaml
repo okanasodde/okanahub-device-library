@@ -1,0 +1,11 @@
+---
+name: Zastava
+description: Unverified/placeholder manufacturer entry; no official company website could be confidently confirmed for this networking device.
+lookup:
+  - zastava
+device_types_path: device-types/Zastava
+elevation_images_path: elevation-images/Zastava
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

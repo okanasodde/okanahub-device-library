@@ -1,0 +1,14 @@
+---
+name: Uptime Industries
+description: Edge compute and infrastructure hardware vendor.
+lookup:
+  - uptime
+  - industries
+  - uptimeindustries
+support_phone: +1-315-784-7820
+device_types_path: device-types/Uptime Industries
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

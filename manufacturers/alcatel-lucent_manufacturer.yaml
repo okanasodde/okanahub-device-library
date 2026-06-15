@@ -1,0 +1,16 @@
+---
+name: Alcatel-Lucent
+description: Alcatel-Lucent Enterprise provides enterprise networking switches, routers, WLAN, and communications hardware and solutions.
+lookup:
+  - alcatel
+  - lucent
+  - alcatellucent
+url: https://www.al-enterprise.com
+support_url: https://www.al-enterprise.com/en/support
+cve_portal: https://www.al-enterprise.com/en/support/security-advisories
+device_types_path: device-types/Alcatel-Lucent
+elevation_images_path: elevation-images/Alcatel-Lucent
+platforms_path: null
+module_types_path: module-types/Alcatel-Lucent
+module_images_path: null
+rack_types_path: null

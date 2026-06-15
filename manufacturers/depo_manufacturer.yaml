@@ -1,0 +1,14 @@
+---
+name: DEPO
+description: Russian manufacturer of servers, storage systems, personal computers and IT infrastructure equipment.
+lookup:
+  - depo
+url: https://www.depo.ru
+support_url: https://www.depo.ru/rubrica_r1632.aspx
+support_phone: +7-495-969-22-27
+device_types_path: device-types/DEPO
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

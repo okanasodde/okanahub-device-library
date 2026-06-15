@@ -1,0 +1,15 @@
+---
+name: Lantronix
+description: Provider of IoT, device networking, console servers and remote device management hardware.
+lookup:
+  - lantronix
+url: https://www.lantronix.com
+support_url: https://www.lantronix.com/technical-support/
+cve_portal: https://www.lantronix.com/technical-support/security-updates/
+support_phone: +1-800-422-7055
+device_types_path: device-types/Lantronix
+elevation_images_path: elevation-images/Lantronix
+platforms_path: null
+module_types_path: module-types/Lantronix
+module_images_path: null
+rack_types_path: null

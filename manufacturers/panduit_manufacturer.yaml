@@ -1,0 +1,14 @@
+---
+name: Panduit
+description: US manufacturer of network and electrical infrastructure products including structured cabling, connectivity, racks and cable management.
+lookup:
+  - panduit
+url: https://www.panduit.com
+support_url: https://www.panduit.com/en/support.html
+support_phone: +1-866-871-4571
+device_types_path: device-types/Panduit
+elevation_images_path: elevation-images/Panduit
+platforms_path: null
+module_types_path: module-types/Panduit
+module_images_path: module-images/Panduit
+rack_types_path: rack-types/Panduit

@@ -1,0 +1,16 @@
+---
+name: ONLINE USV-Systeme
+description: German uninterruptible power supply (UPS) systems manufacturer.
+lookup:
+  - online
+  - usv
+  - systeme
+  - onlineusvsysteme
+url: https://www.online-usv.de
+support_phone: +49-89-2423990-10
+device_types_path: device-types/ONLINE USV-Systeme
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

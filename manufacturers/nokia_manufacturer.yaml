@@ -1,0 +1,18 @@
+---
+name: Nokia
+description: Telecommunications and networking equipment vendor providing IP/optical routers, mobile (RAN/5G) and fixed broadband network infrastructure.
+lookup:
+  - nokia
+  - sros
+  - nokiasros
+  - srl
+  - nokiasrl
+url: https://www.nokia.com
+support_url: https://customer.nokia.com/s/
+cve_portal: https://www.nokia.com/about-us/security-and-privacy/product-security-advisory/
+device_types_path: device-types/Nokia
+elevation_images_path: elevation-images/Nokia
+platforms_path: null
+module_types_path: module-types/Nokia
+module_images_path: null
+rack_types_path: null

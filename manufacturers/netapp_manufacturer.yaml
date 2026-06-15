@@ -1,0 +1,15 @@
+---
+name: NetApp
+description: Data storage and cloud data-management systems vendor.
+lookup:
+  - netapp
+url: https://www.netapp.com
+support_url: https://mysupport.netapp.com
+cve_portal: https://security.netapp.com/advisory/
+support_phone: +1-888-463-8277
+device_types_path: device-types/NetApp
+elevation_images_path: elevation-images/NetApp
+platforms_path: null
+module_types_path: module-types/NetApp
+module_images_path: null
+rack_types_path: null

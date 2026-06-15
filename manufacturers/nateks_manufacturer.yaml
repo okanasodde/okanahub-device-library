@@ -1,0 +1,13 @@
+---
+name: Nateks
+description: Russian developer and manufacturer of telecommunications and networking equipment, including switches, routers, multiplexers and xDSL/SDH/PDH transport gear.
+lookup:
+  - nateks
+url: https://www.nateks.ru
+support_url: https://www.nateks.ru/podderzhka
+device_types_path: device-types/Nateks
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

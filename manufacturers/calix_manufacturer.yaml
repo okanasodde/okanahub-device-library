@@ -1,0 +1,16 @@
+---
+name: Calix
+description: Provider of cloud and software broadband access platforms, systems and services for communications service providers
+lookup:
+  - calix
+  - b6
+  - calixb6
+url: https://www.calix.com
+support_url: https://www.calix.com/support.html
+cve_portal: https://www.calix.com/security.html
+device_types_path: device-types/Calix
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

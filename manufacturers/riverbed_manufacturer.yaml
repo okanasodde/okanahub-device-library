@@ -1,0 +1,15 @@
+---
+name: Riverbed
+description: Network performance, observability, and WAN optimization (SteelHead) vendor for enterprise IT.
+lookup:
+  - riverbed
+url: https://www.riverbed.com
+support_url: https://support.riverbed.com
+cve_portal: https://www.riverbed.com/trust-center/
+support_phone: +1-888-782-3822
+device_types_path: device-types/Riverbed
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,13 @@
+---
+name: Ideco
+description: Russian network security vendor (UTM gateway / firewall).
+lookup:
+  - ideco
+url: https://ideco.ru
+support_phone: +7-495-662-87-34
+device_types_path: device-types/Ideco
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

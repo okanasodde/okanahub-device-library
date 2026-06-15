@@ -1,0 +1,41 @@
+---
+name: Cisco
+description: Networking, security, and enterprise IT infrastructure vendor.
+lookup:
+  - cisco
+  - apic
+  - ciscoapic
+  - asa
+  - ciscoasa
+  - ftd
+  - ciscoftd
+  - ios
+  - ciscoios
+  - nxos
+  - cisconxos
+  - s200
+  - ciscos200
+  - s300
+  - ciscos300
+  - s500
+  - ciscos500
+  - tp
+  - ciscotp
+  - viptela
+  - ciscoviptela
+  - wlc
+  - ciscowlc
+  - xe
+  - ciscoxe
+  - xr
+  - ciscoxr
+url: https://www.cisco.com
+support_url: https://www.cisco.com/c/en/us/support/index.html
+cve_portal: https://sec.cloudapps.cisco.com/security/center/publicationListing.x
+support_phone: +1-800-553-2447
+device_types_path: device-types/Cisco
+elevation_images_path: elevation-images/Cisco
+platforms_path: null
+module_types_path: module-types/Cisco
+module_images_path: module-images/Cisco
+rack_types_path: null

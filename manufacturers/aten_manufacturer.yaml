@@ -1,0 +1,15 @@
+---
+name: Aten
+description: ATEN International manufactures KVM switches, secure KVM, AV/IT connectivity, and intelligent power distribution hardware.
+lookup:
+  - aten
+url: https://www.aten.com
+support_url: https://www.aten.com/global/en/supportcenter/
+cve_portal: https://www.aten.com/global/en/supportcenter/info/security-advisory/
+support_phone: +1-888-999-2836
+device_types_path: device-types/Aten
+elevation_images_path: elevation-images/Aten
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

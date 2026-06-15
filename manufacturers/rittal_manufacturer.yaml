@@ -1,0 +1,14 @@
+---
+name: Rittal
+description: German manufacturer of industrial and IT enclosures, climate control/cooling units, power distribution, busbar systems, and data center server racks.
+lookup:
+  - rittal
+url: https://www.rittal.com
+support_url: https://www.rittal.com/us-en_US/Services/Service-Request
+support_phone: +1-800-477-4000
+device_types_path: device-types/Rittal
+elevation_images_path: elevation-images/Rittal
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: rack-types/Rittal

@@ -1,0 +1,19 @@
+---
+name: F5
+description: Application delivery, load balancing (BIG-IP) and application/API security vendor.
+lookup:
+  - f5
+  - tmsh
+  - ltm
+  - f5tmsh
+  - f5ltm
+url: https://www.f5.com
+support_url: https://www.f5.com/support
+cve_portal: https://my.f5.com/manage/s/article/K41942608
+support_phone: +1-888-882-7535
+device_types_path: device-types/F5
+elevation_images_path: elevation-images/F5
+platforms_path: null
+module_types_path: module-types/F5
+module_images_path: null
+rack_types_path: null

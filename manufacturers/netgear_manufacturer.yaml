@@ -1,0 +1,15 @@
+---
+name: Netgear
+description: Networking hardware vendor of switches, routers, wireless access points, modems and storage for home, SMB and enterprise markets.
+lookup:
+  - netgear
+url: https://www.netgear.com
+support_url: https://www.netgear.com/support/
+cve_portal: https://www.netgear.com/about/security/
+support_phone: +1-888-638-4327
+device_types_path: device-types/Netgear
+elevation_images_path: elevation-images/Netgear
+platforms_path: null
+module_types_path: module-types/Netgear
+module_images_path: null
+rack_types_path: null

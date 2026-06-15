@@ -1,0 +1,16 @@
+---
+name: SonicWall
+description: Network security vendor making firewalls, VPN, UTM, SD-WAN and email security appliances.
+lookup:
+  - sonicwall
+  - sonicos
+url: https://www.sonicwall.com
+support_url: https://www.sonicwall.com/support
+cve_portal: https://psirt.global.sonicwall.com/vuln-list
+support_phone: +1-888-793-2830
+device_types_path: device-types/SonicWall
+elevation_images_path: null
+platforms_path: null
+module_types_path: module-types/SonicWall
+module_images_path: null
+rack_types_path: null

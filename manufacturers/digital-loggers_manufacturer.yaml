@@ -1,0 +1,16 @@
+---
+name: Digital Loggers
+description: Switched PDU and power control / automation equipment manufacturer.
+lookup:
+  - digital
+  - loggers
+  - digitalloggers
+url: https://www.digital-loggers.com
+support_url: https://www.digital-loggers.com/support.html
+support_phone: +1-408-330-5599
+device_types_path: device-types/Digital Loggers
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

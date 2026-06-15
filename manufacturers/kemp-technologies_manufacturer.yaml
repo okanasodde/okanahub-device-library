@@ -1,0 +1,17 @@
+---
+name: Kemp Technologies
+description: Application delivery controller and load balancer vendor (LoadMaster, Progress Kemp).
+lookup:
+  - kemp
+  - technologies
+  - kemptechnologies
+url: https://kemp.ax
+support_url: https://support.kemptechnologies.com
+cve_portal: https://support.kemptechnologies.com/hc/en-us/sections/4408142031373-Security-Vulnerabilities
+support_phone: +1-844-470-5367
+device_types_path: device-types/Kemp Technologies
+elevation_images_path: elevation-images/Kemp Technologies
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

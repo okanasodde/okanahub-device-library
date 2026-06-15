@@ -1,0 +1,15 @@
+---
+name: Arctic Wolf
+description: Arctic Wolf Networks provides managed security operations, detection and response, and cybersecurity services and appliances.
+lookup:
+  - arctic
+  - wolf
+  - arcticwolf
+url: https://arcticwolf.com
+support_phone: +1-888-272-8429
+device_types_path: device-types/Arctic Wolf
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -1,0 +1,13 @@
+---
+name: Minisforum
+description: Chinese manufacturer of mini PCs, workstations and small-form-factor computing hardware.
+lookup:
+  - minisforum
+url: https://www.minisforum.com
+support_url: https://www.minisforum.net/new/support?lang=en
+device_types_path: device-types/Minisforum
+elevation_images_path: elevation-images/Minisforum
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

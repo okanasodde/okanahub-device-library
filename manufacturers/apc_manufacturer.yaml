@@ -1,0 +1,16 @@
+---
+name: APC
+description: UPS, PDU, and data-center power and cooling vendor (Schneider Electric).
+lookup:
+  - apc
+  - schneider
+url: https://www.apc.com
+support_url: https://www.apc.com/us/en/support/
+cve_portal: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp
+support_phone: +1-800-800-4272
+device_types_path: device-types/APC
+elevation_images_path: elevation-images/APC
+platforms_path: null
+module_types_path: module-types/APC
+module_images_path: null
+rack_types_path: rack-types/APC

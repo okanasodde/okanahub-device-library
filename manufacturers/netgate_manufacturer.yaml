@@ -1,0 +1,14 @@
+---
+name: Netgate
+description: Vendor of pfSense- and TNSR-based firewall, VPN and routing appliances and software for network security and edge routing.
+lookup:
+  - netgate
+url: https://www.netgate.com
+support_url: https://www.netgate.com/support
+support_phone: +1-512-646-4100
+device_types_path: device-types/Netgate
+elevation_images_path: elevation-images/Netgate
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

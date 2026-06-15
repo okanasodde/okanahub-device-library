@@ -1,0 +1,13 @@
+---
+name: T-bao
+description: Chinese consumer electronics brand (Shenzhen Tianbei Technology) making mini PCs, laptops, all-in-one computers and monitors.
+lookup:
+  - tbao
+  - bao
+  - tianbei
+device_types_path: device-types/T-bao
+elevation_images_path: null
+platforms_path: null
+module_types_path: null
+module_images_path: null
+rack_types_path: null

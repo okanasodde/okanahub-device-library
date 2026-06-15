@@ -1,0 +1,20 @@
+---
+name: Nvidia
+description: GPU, accelerated computing, and data-center networking vendor (Ethernet/InfiniBand switches via Mellanox, plus AI/graphics hardware).
+lookup:
+  - nvidia
+  - nvos
+  - nvidianvos
+  - mellanox
+  - mlnxos
+  - mellanoxmlnxos
+url: https://www.nvidia.com
+support_url: https://www.nvidia.com/en-us/support/
+cve_portal: https://www.nvidia.com/en-us/product-security/
+support_phone: +1-800-421-5048
+device_types_path: device-types/Nvidia
+elevation_images_path: elevation-images/Nvidia
+platforms_path: null
+module_types_path: module-types/Nvidia
+module_images_path: null
+rack_types_path: null
