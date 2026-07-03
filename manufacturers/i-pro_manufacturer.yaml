@@ -4,6 +4,8 @@ description: Video surveillance, security camera, and imaging systems vendor (fo
 lookup:
   - ipro
   - i-pro
+oui_vendors:
+  - i-PRO Co., Ltd.
 url: https://www.i-pro.com
 support_url: https://www.i-pro.com/global/en/surveillance/support
 cve_portal: https://i-pro.com/global/en/surveillance/cms/security_information

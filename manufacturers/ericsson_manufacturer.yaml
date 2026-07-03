@@ -9,13 +9,22 @@ lookup:
   - ericssonmltn63
   - mltn66
   - ericssonmltn66
+oui_vendors:
+  - Ericsson
+  - Ericsson - North America
+  - Ericsson AB
+  - Ericsson Group
+  - Ericsson Television Limited
+  - Ericsson-LG Enterprise
+  - Ericsson, EAB/RWI/K
+  - LG-Ericsson Co.,Ltd.
 url: https://www.ericsson.com
 support_url: https://www.ericsson.com/en/support
 cve_portal: https://www.ericsson.com/en/about-us/security/psirt
 support_phone: +46-10-719-0000
 device_types_path: device-types/Ericsson
 elevation_images_path: null
-platforms_path: null
+platforms_path: platforms/Ericsson
 module_types_path: null
 module_images_path: null
 rack_types_path: null

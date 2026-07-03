@@ -1,0 +1,5 @@
+---
+name: SB S300
+manufacturer: Cisco
+network_driver: cisco_s300
+description: Cisco Small Business 300 series switches. Legacy SMB line. Maintenance/EOL era.

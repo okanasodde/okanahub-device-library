@@ -1,0 +1,5 @@
+---
+name: SONiC (Edgecore)
+manufacturer: Edgecore
+network_driver: edgecore_sonic
+description: Edgecore community/Enterprise SONiC switches. Active.

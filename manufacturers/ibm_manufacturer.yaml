@@ -3,6 +3,12 @@ name: IBM
 description: Enterprise IT vendor making servers, mainframes, storage, networking hardware, software, and cloud and consulting services.
 lookup:
   - ibm
+oui_vendors:
+  - IBM
+  - IBM Corp
+  - IBM Corporation
+  - IBM JAPAN, FUJISAWA MT+D
+  - IBM Research GmbH
 url: https://www.ibm.com
 support_url: https://www.ibm.com/mysupport
 cve_portal: https://www.ibm.com/trust/security-vulnerability-management

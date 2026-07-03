@@ -1,0 +1,5 @@
+---
+name: MLNX-OS Onyx
+manufacturer: Mellanox
+network_driver: mellanox_mlnxos
+description: Mellanox MLNX-OS/Onyx switch OS. Now NVIDIA; converging toward SONiC. Maintenance.

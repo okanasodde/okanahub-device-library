@@ -1,0 +1,5 @@
+---
+name: AlliedWare Plus
+manufacturer: Allied Telesis
+network_driver: allied_telesis_awplus
+description: Allied Telesis AlliedWare Plus switches/routers. Successor to legacy AlliedWare. Active.

@@ -3,12 +3,14 @@ name: Infinera
 description: Optical transport and packet-optical networking systems vendor (part of Nokia).
 lookup:
   - infinera
+oui_vendors:
+  - Infinera, Inc.
 url: https://www.infinera.com
 support_url: https://www.infinera.com/support/
 support_phone: +1-408-716-5700
 device_types_path: device-types/Infinera
 elevation_images_path: null
-platforms_path: null
+platforms_path: platforms/Infinera
 module_types_path: null
 module_images_path: null
 rack_types_path: null

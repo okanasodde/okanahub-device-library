@@ -1,0 +1,5 @@
+---
+name: Gaia
+manufacturer: Check Point
+network_driver: checkpoint_gaia
+description: Check Point Gaia security-gateway OS (Linux-based). Active/strategic.

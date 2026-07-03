@@ -1,0 +1,5 @@
+---
+name: ProCurve (Aruba)
+manufacturer: Aruba Networks
+network_driver: aruba_procurve
+description: Legacy HP/Aruba ProCurve switches. Superseded by ArubaOS-Switch/AOS-CX. End-of-life era.

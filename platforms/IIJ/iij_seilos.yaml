@@ -1,0 +1,5 @@
+---
+name: SEIL
+manufacturer: IIJ
+network_driver: iij_seilos
+description: IIJ SEIL routers. Regional (Japan).

@@ -1,0 +1,5 @@
+---
+name: EXOS
+manufacturer: Extreme Networks
+network_driver: extreme_exos
+description: Extreme EXOS (Linux-based) switching OS. Active/strategic.

@@ -1,0 +1,5 @@
+---
+name: Comware (HPE)
+manufacturer: HP
+network_driver: hp_comware
+description: HPE (H3C-derived) Comware switches. Enterprise-line ownership split HPE/H3C. Maintenance/active.

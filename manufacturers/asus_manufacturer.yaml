@@ -3,6 +3,9 @@ name: ASUS
 description: Consumer and commercial computer hardware vendor making motherboards, servers, workstations, laptops, networking gear, and graphics cards.
 lookup:
   - asus
+oui_vendors:
+  - Asus Network Technologies, Inc.
+  - ASUSTek COMPUTER INC.
 url: https://www.asus.com
 support_url: https://www.asus.com/support/
 cve_portal: https://www.asus.com/security-advisory/

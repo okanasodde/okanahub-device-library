@@ -1,0 +1,16 @@
+---
+name: Furukawa Electric
+description: Japanese electrical and optical materials manufacturer whose telecommunications division produces FITELnet enterprise and carrier IPsec/VPN routers.
+lookup:
+  - furukawa
+  - fitelnet
+  - furukawafitelnet
+oui_vendors:
+  - Furukawa Electric Co., Ltd.
+url: https://www.furukawaelectric.com
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Furukawa Electric
+module_types_path: null
+module_images_path: null
+rack_types_path: null

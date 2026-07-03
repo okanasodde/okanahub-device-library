@@ -1,0 +1,5 @@
+---
+name: ROAP
+manufacturer: Raisecom
+network_driver: raisecom_roap
+description: Raisecom ROAP-based access devices. Regional (China).

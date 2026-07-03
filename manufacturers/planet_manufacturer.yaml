@@ -3,6 +3,10 @@ name: PLANET
 description: Taiwanese vendor of IP networking hardware including managed and PoE Ethernet switches, industrial switches, media converters, and IP surveillance products.
 lookup:
   - planet
+oui_vendors:
+  - PLANET INT Co., Ltd
+  - PLANET System Co.,LTD
+  - PLANET Technology Corporation
 url: https://www.planet.com.tw
 support_url: https://www.planet.com.tw/en/support
 cve_portal: https://www.planet.com.tw/en/support/security-advisory

@@ -1,0 +1,5 @@
+---
+name: VRP
+manufacturer: Huawei
+network_driver: huawei_vrp
+description: Huawei Versatile Routing Platform switches/routers. Active/strategic.

@@ -1,0 +1,5 @@
+---
+name: OcNOS
+manufacturer: IP Infusion
+network_driver: ipinfusion_ocnos
+description: IP Infusion OcNOS disaggregated NOS. Active.

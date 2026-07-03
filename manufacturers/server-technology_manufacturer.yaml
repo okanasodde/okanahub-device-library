@@ -5,6 +5,8 @@ lookup:
   - server
   - technology
   - servertechnology
+oui_vendors:
+  - Server Technology, Inc.
 url: https://www.servertech.com
 support_url: https://www.servertech.com/support
 support_phone: +1-800-835-1515

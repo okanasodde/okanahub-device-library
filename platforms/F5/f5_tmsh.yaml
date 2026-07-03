@@ -1,0 +1,5 @@
+---
+name: TMSH
+manufacturer: F5
+network_driver: f5_tmsh
+description: F5 BIG-IP TMOS shell (tmsh). Active/strategic.

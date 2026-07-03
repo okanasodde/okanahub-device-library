@@ -3,6 +3,8 @@ name: Keysight
 description: Electronic test and measurement, and network test/visibility solutions vendor.
 lookup:
   - keysight
+oui_vendors:
+  - Keysight Technologies, Inc.
 url: https://www.keysight.com
 support_url: https://www.keysight.com/us/en/support.html
 cve_portal: https://www.keysight.com/us/en/lib/resources/miscellaneous/keysight-security-advisories.html

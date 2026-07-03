@@ -1,0 +1,5 @@
+---
+name: Fabric OS
+manufacturer: Brocade
+network_driver: brocade_fos
+description: Brocade Fabric OS (FOS) SAN switches. Brocade acquired by Broadcom (2017); FOS active for storage networking.

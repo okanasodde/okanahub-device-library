@@ -1,0 +1,16 @@
+---
+name: IP Infusion
+description: IP Infusion, founded in 1999 and a subsidiary of ACCESS, is a disaggregated networking software vendor whose OcNOS network operating system runs on white-box switches and routers.
+lookup:
+  - ipinfusion
+  - ocnos
+  - ipinfusionocnos
+url: https://www.ipinfusion.com/
+support_url: https://www.ipinfusion.com/support/
+support_phone: +1-866-994-1279
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/IP Infusion
+module_types_path: null
+module_images_path: null
+rack_types_path: null

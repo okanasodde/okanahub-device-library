@@ -1,0 +1,5 @@
+---
+name: CER
+manufacturer: ARRIS
+network_driver: arris_cer
+description: ARRIS C-series Edge Router (CMTS). ARRIS acquired by CommScope (2019). Cable line maintained.

@@ -3,6 +3,8 @@ name: Infotecs
 description: Russian information-security vendor (ViPNet VPN and network security products).
 lookup:
   - infotecs
+oui_vendors:
+  - JSC InfoTeCS
 url: https://infotecs.ru
 support_phone: +1-917-982-7130
 device_types_path: device-types/Infotecs

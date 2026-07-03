@@ -3,6 +3,8 @@ name: Synology
 description: Network-attached storage (NAS), surveillance, and network device vendor.
 lookup:
   - synology
+oui_vendors:
+  - Synology Incorporated
 url: https://www.synology.com
 support_url: https://www.synology.com/en-us/support
 cve_portal: https://www.synology.com/en-us/security/advisory

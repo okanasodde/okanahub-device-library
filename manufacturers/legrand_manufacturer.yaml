@@ -3,6 +3,12 @@ name: Legrand
 description: French specialist in electrical and digital building infrastructure, including data center power, PDUs and KVM.
 lookup:
   - legrand
+oui_vendors:
+  - LEGRAND
+  - Legrand Electric Ltd
+  - Legrand Home Systems, Inc
+  - Legrand INTELLIGENT ELECTRICAL(HUIZHOU)CO.,LTD.
+  - Pass & Seymour, Inc d/b/a Legrand
 url: https://www.legrand.com
 support_url: https://www.legrand.us/contact-and-support
 support_phone: +1-800-223-4162

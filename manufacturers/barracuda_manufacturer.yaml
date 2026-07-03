@@ -3,6 +3,8 @@ name: Barracuda
 description: Email, network, and application security vendor (firewalls, email protection, backup).
 lookup:
   - barracuda
+oui_vendors:
+  - Barracuda Networks, Inc.
 url: https://www.barracuda.com
 support_url: https://www.barracuda.com/support
 cve_portal: https://www.barracuda.com/company/legal/trust-center

@@ -1,0 +1,5 @@
+---
+name: LCOS SX 4
+manufacturer: LANCOM
+network_driver: lancom_lcossx4
+description: LANCOM Systems LCOS SX v4 switches. LANCOM majority-owned by Rohde & Schwarz. Active (EU).

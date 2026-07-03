@@ -1,0 +1,6 @@
+---
+name: IOS
+manufacturer: Cisco
+network_driver: cisco_ios
+napalm_driver: ios
+description: Cisco IOS classic routers/switches. Mature; superseded by IOS XE on new platforms but broadly deployed.

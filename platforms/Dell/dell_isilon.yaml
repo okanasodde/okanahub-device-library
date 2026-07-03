@@ -1,0 +1,5 @@
+---
+name: Isilon OneFS
+manufacturer: Dell
+network_driver: dell_isilon
+description: Dell EMC Isilon/PowerScale storage (OneFS). Isilon via EMC (Dell-EMC merger 2016). Active.

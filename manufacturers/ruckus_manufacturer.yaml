@@ -5,13 +5,15 @@ lookup:
   - ruckus
   - fastiron
   - ruckusfastiron
+oui_vendors:
+  - Ruckus Wireless
 url: https://www.ruckusnetworks.com
 support_url: https://support.ruckuswireless.com
 cve_portal: https://www.ruckusnetworks.com/support/security-bulletins/
 support_phone: +1-800-830-5056
 device_types_path: device-types/Ruckus
 elevation_images_path: elevation-images/Ruckus
-platforms_path: null
+platforms_path: platforms/Ruckus
 module_types_path: null
 module_images_path: null
 rack_types_path: null

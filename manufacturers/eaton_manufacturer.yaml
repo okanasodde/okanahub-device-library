@@ -3,6 +3,13 @@ name: Eaton
 description: Power management company making UPS systems, PDUs, surge protection, and electrical/industrial power distribution equipment.
 lookup:
   - eaton
+oui_vendors:
+  - Eaton Automation AG
+  - Eaton Bussmann
+  - Eaton Corp. Electrical Group Data Center Solutions - Pulizzi
+  - Eaton Corporation
+  - EATON FHF Funke + Huster Fernsig GmbH
+  - Eaton Industries GmbH
 url: https://www.eaton.com
 support_url: https://www.eaton.com/us/en-us/support.html
 cve_portal: https://www.eaton.com/us/en-us/company/news-insights/cybersecurity/security-notifications.html

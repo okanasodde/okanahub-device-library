@@ -1,0 +1,5 @@
+---
+name: CMTS (Casa)
+manufacturer: Casa Systems
+network_driver: casa_cmts
+description: Casa Systems CMTS/CCAP. Casa Systems filed bankruptcy (2024); assets acquired. Uncertain lifecycle.

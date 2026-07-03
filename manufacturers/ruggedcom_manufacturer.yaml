@@ -3,6 +3,9 @@ name: RuggedCOM
 description: Siemens RUGGEDCOM rugged industrial Ethernet switches and routers for harsh environments.
 lookup:
   - ruggedcom
+oui_vendors:
+  - RuggedCom
+  - RuggedCom Inc.
 url: https://www.siemens.com/en-us/products/ruggedcom/
 support_url: https://www.siemens.com/global/en/products/automation/industrial-communication/ruggedcom.html
 cve_portal: https://www.siemens.com/cert/advisories

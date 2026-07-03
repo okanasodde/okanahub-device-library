@@ -1,0 +1,5 @@
+---
+name: Coriant
+manufacturer: Infinera
+network_driver: coriant
+description: Coriant optical transport. Coriant acquired by Infinera (2018). Legacy branding.

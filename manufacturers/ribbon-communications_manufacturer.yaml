@@ -5,6 +5,9 @@ lookup:
   - ribbon
   - communications
   - ribboncommunications
+oui_vendors:
+  - SONUS NETWORKS, INC.
+  - Edgewater Networks Inc
 url: https://ribboncommunications.com
 support_url: https://ribboncommunications.com/services/ribbon-support-portal
 support_phone: +1-833-742-2661

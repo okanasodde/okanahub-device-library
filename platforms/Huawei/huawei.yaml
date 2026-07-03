@@ -1,0 +1,5 @@
+---
+name: VRP (Huawei)
+manufacturer: Huawei
+network_driver: huawei
+description: Huawei VRP generic driver. Active vendor (subject to regional trade restrictions).

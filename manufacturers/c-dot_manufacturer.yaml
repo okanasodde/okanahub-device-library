@@ -1,0 +1,14 @@
+---
+name: C-DOT
+description: Centre for Development of Telematics is India's premier telecom R&D organization, an autonomous body of the Department of Telecommunications established in 1984 that develops indigenous telecom products and systems.
+lookup:
+  - cdot
+  - cros
+  - cdotcros
+url: https://www.cdot.in/
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/C-DOT
+module_types_path: null
+module_images_path: null
+rack_types_path: null

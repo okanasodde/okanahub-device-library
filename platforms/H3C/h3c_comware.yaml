@@ -1,0 +1,5 @@
+---
+name: Comware (H3C)
+manufacturer: H3C
+network_driver: h3c_comware
+description: H3C Comware. H3C spun out of the HP/H3C JV; majority owned by Unisplendour (China). Active.

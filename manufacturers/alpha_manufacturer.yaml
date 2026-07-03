@@ -3,6 +3,10 @@ name: Alpha
 description: Alpha Technologies (an EnerSys company), maker of DC power systems, rectifiers, and Cordex controllers for broadband, telecom, and industrial applications.
 lookup:
   - alpha
+oui_vendors:
+  - Alpha  Technologies Inc.
+  - ALPHA TECHNOLOGIES, INC.
+  - ALPHA TECHNOLOGIES, LLC
 url: https://www.alpha.com
 support_url: https://www.alpha.com/contact/technical-support
 support_phone: +1-800-322-5742

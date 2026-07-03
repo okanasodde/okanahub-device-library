@@ -15,13 +15,15 @@ lookup:
   - brocadevdx
   - vyos
   - brocadevyos
+oui_vendors:
+  - Brocade Communications Systems LLC
 url: https://www.broadcom.com/products/fibre-channel-networking
 support_url: https://support.broadcom.com
 cve_portal: https://support.broadcom.com/web/ecx/security-advisory
 support_phone: +1-800-752-8061
 device_types_path: device-types/Brocade
 elevation_images_path: elevation-images/Brocade
-platforms_path: null
+platforms_path: platforms/Brocade
 module_types_path: module-types/Brocade
 module_images_path: null
 rack_types_path: null

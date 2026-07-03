@@ -1,0 +1,5 @@
+---
+name: FITELnet
+manufacturer: Furukawa Electric
+network_driver: furukawa_fitelnet
+description: Furukawa Electric FITELnet routers. Regional (Japan).

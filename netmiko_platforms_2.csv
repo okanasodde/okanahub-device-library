@@ -1,0 +1,167 @@
+netmiko_driver,platform_name,description
+a10,A10 ACOS,A10 Networks ACOS load balancers/ADCs. Active product line.
+accedian,Accedian,Accedian performance-assurance devices. Accedian acquired by Cisco in 2023; product line largely wound down.
+adtran_os,AOS (Adtran),Adtran Operating System on NetVanta/Total Access routers/switches. Note: unrelated to Alcatel/Aruba AOS. Active.
+adva_fsp150f2,FSP150 F2,ADVA FSP 150 F2 series carrier-Ethernet access. ADVA merged with ADTRAN (2022) forming Adtran Holdings. Active.
+adva_fsp150f3,FSP150 F3,ADVA FSP 150 F3 series carrier-Ethernet access. ADVA merged with ADTRAN (2022). Active.
+alaxala_ax26s,AX2600S,ALAXALA AX2600S switches. ALAXALA is a Hitachi/NEC joint venture (now Hitachi subsidiary). Active in Japan market.
+alaxala_ax36s,AX3600S,ALAXALA AX3600S switches. Hitachi subsidiary. Active in Japan market.
+alcatel_aos,AOS (Alcatel),Alcatel-Lucent Enterprise OmniSwitch AOS. ALE (enterprise) spun out of Alcatel-Lucent; Nokia acquired the carrier side (2016). Active.
+alcatel_sros,SR OS (Alcatel),Alcatel-Lucent Service Router OS. Carrier business absorbed by Nokia (2016); now branded Nokia SR OS. Legacy naming.
+allied_telesis_awplus,AlliedWare Plus,Allied Telesis AlliedWare Plus switches/routers. Successor to legacy AlliedWare. Active.
+apresia_aeos,AEOS,APRESIA Systems AEOS switches. APRESIA formerly Hitachi Metals networking line. Active in Japan.
+arista_eos,EOS (Arista),Arista Extensible Operating System (Linux-based). Flagship DC switching OS. Active/strategic.
+arris_cer,CER,ARRIS C-series Edge Router (CMTS). ARRIS acquired by CommScope (2019). Cable line maintained.
+aruba_aoscx,AOS-CX,Aruba AOS-CX modern switching OS. Aruba is HPE's networking arm (Aruba acquired 2015). Active/strategic.
+aruba_os,AOS (Aruba),ArubaOS for wireless controllers and access points. HPE subsidiary. Active.
+aruba_osswitch,ArubaOS-Switch,ArubaOS-Switch (legacy Provision/HP switch OS). Being superseded by AOS-CX. Maintenance.
+aruba_procurve,ProCurve (Aruba),Legacy HP/Aruba ProCurve switches. Superseded by ArubaOS-Switch/AOS-CX. End-of-life era.
+asterfusion_asternos,AsterNOS,AsterFusion AsterNOS (SONiC-based) data-center switches. Active.
+audiocode_66,AudioCodes 6.6,AudioCodes gateways/SBCs running firmware v6.6. Legacy branch.
+audiocode_72,AudioCodes 7.2,AudioCodes gateways/SBCs running firmware v7.2. Active branch.
+audiocode_shell,AudioCodes Shell,AudioCodes device native shell interface. Active.
+avara_aos,AOS (Avara),Avara Technologies OAP800 access platform AOS. Niche/regional.
+avaya_ers,ERS (Avaya),Avaya Ethernet Routing Switch. Legacy Nortel line; enterprise networking sold to Extreme (2017). Legacy.
+avaya_vsp,VSP (Avaya),Avaya Virtual Services Platform (VOSS). Nortel heritage; sold to Extreme (2017). Legacy branding.
+aviat_wtm,WTM,Aviat Networks WTM microwave radios. Active.
+bintec_boss,BOSS,bintec elmeg BOSS router OS. Brand now under Teldat. Active/regional.
+broadcom_icos,ICOS,Broadcom ICOS (FASTPATH-derived) merchant-silicon switch OS. Active as reference NOS.
+brocade_fastiron,FastIron (Brocade),Brocade FastIron (ICX) campus switches. Brocade IP networking sold to Extreme (2017); FastIron continued by Ruckus/CommScope. Legacy driver.
+brocade_fos,Fabric OS,Brocade Fabric OS (FOS) SAN switches. Brocade acquired by Broadcom (2017); FOS active for storage networking.
+brocade_netiron,NetIron (Brocade),Brocade NetIron (MLX/CER) routers. IP line sold to Extreme (2017). Legacy.
+brocade_nos,Network OS (Brocade),Brocade Network OS on VDX (VCS fabric). Data-center line sold to Extreme (2017). Legacy.
+brocade_vdx,VDX (Brocade),Brocade VDX switches running Network OS. Sold to Extreme (2017). Legacy.
+brocade_vyos,Vyatta (Brocade),Brocade Vyatta vRouter. Vyatta sold to AT&T (2017); community fork is VyOS. Legacy/EOL.
+calix_b6,B6,Calix B6 Ethernet access. Legacy line (Occam heritage). Maintenance.
+casa_cmts,CMTS (Casa),Casa Systems CMTS/CCAP. Casa Systems filed bankruptcy (2024); assets acquired. Uncertain lifecycle.
+cdot_cros,CROS,C-DOT (India) CROS platform. Government/regional.
+centec_os,CentecOS,Centec Networks switch OS on merchant silicon. Active.
+checkpoint_gaia,Gaia,Check Point Gaia security-gateway OS (Linux-based). Active/strategic.
+ciena_saos,SAOS,Ciena SAOS packet-networking OS. Active.
+ciena_saos10,SAOS 10,Ciena SAOS 10 (containerized) next-gen packet OS. Active/strategic.
+ciena_waveserver,Waveserver,Ciena Waveserver optical transport. Active.
+cisco_apic,APIC,Cisco APIC — ACI fabric controller (Linux appliance). Active/strategic.
+cisco_asa,ASA,Cisco Adaptive Security Appliance firewall OS. Being succeeded by FTD/Secure Firewall; still widely deployed.
+cisco_ftd,FXOS,"Cisco FTD CLI runs atop FXOS (Firepower/Secure Firewall eXtensible OS). ""Secure Firewall"" is the current brand. Active/strategic."
+cisco_ios,IOS,Cisco IOS classic routers/switches. Mature; superseded by IOS XE on new platforms but broadly deployed.
+cisco_nxos,NX-OS,Cisco Nexus NX-OS data-center switches. Active/strategic.
+cisco_s200,SB S200,Cisco Small Business 200 series switches. Legacy SMB line. Maintenance/EOL era.
+cisco_s300,SB S300,Cisco Small Business 300 series switches. Legacy SMB line. Maintenance/EOL era.
+cisco_s500,SB S500,Cisco Small Business 500 series switches. Legacy SMB line. Maintenance/EOL era.
+cisco_tp,TelePresence,Cisco TelePresence endpoint OS. Superseded by Webex/RoomOS. Legacy.
+cisco_viptela,Viptela SD-WAN,Cisco Catalyst SD-WAN (formerly Viptela vEdge). Viptela acquired 2017. Active.
+cisco_wlc,AireOS,Cisco Wireless LAN Controller AireOS. Superseded by Catalyst 9800 (IOS XE); AireOS in maintenance.
+cisco_xe,IOS XE,Cisco IOS XE (Linux-based) — current flagship for Catalyst routing/switching. Active/strategic.
+cisco_xr,IOS XR,Cisco IOS XR carrier-grade routers. Active/strategic.
+cloudgenix_ion,ION,CloudGenix ION SD-WAN. Acquired by Palo Alto Networks (2020); folded into Prisma SD-WAN. Legacy branding.
+corelight_linux,Linux (Corelight),Corelight network-monitoring sensors on Linux. Active.
+coriant,Coriant,Coriant optical transport. Coriant acquired by Infinera (2018). Legacy branding.
+cumulus_linux,Cumulus Linux,Cumulus Linux switch OS. Cumulus acquired by NVIDIA (2020); converging with SONiC strategy. Maintenance.
+dell_dnos9,Dell DNOS9,Dell DNOS9 (Force10 FTOS lineage). Legacy; superseded by OS10. Maintenance.
+dell_force10,Force10 FTOS,Dell Force10 FTOS. Force10 acquired by Dell (2011). Legacy; superseded by OS10.
+dell_isilon,Isilon OneFS,Dell EMC Isilon/PowerScale storage (OneFS). Isilon via EMC (Dell-EMC merger 2016). Active.
+dell_os10,SmartFabric OS10,Dell SmartFabric OS10 (Linux-based). Current Dell networking OS. Active/strategic.
+dell_os6,Dell OS6,Dell EMC Networking OS6 (PowerConnect lineage). Legacy. Maintenance/EOL.
+dell_os9,Dell OS9,Dell EMC Networking OS9 (Force10 FTOS lineage). Legacy; superseded by OS10.
+dell_powerconnect,PowerConnect,Dell PowerConnect switches. Legacy SMB line. EOL era.
+dell_sonic,Enterprise SONiC (Dell),Dell Enterprise SONiC distribution. Note: Dell exited its own SONiC distro (2024), steering to community SONiC. Transitional.
+digi_transport,TransPort,Digi TransPort cellular routers. Active.
+dlink_ds,D-Link DS,D-Link DGS/DS-series switches. Active SMB line.
+edgecore_sonic,SONiC (Edgecore),Edgecore community/Enterprise SONiC switches. Active.
+ekinops_ek360,Ekinops 360,Ekinops 360 optical transport. Ekinops acquired OneAccess (2018). Active.
+eltex,Eltex,Eltex (Russia) switches/routers, generic driver. Regional.
+eltex_esr,ESR,Eltex ESR service routers/firewalls. Regional.
+endace,Endace,Endace packet-capture probes (EndaceProbe). Endace owned by Cisco-era then independent. Active/niche.
+enterasys,Enterasys,Enterasys switches. Enterasys acquired by Extreme (2013). Legacy/EOL.
+ericsson_ipos,IPOS,Ericsson IPOS routers (Redback SmartEdge lineage). Legacy carrier edge.
+ericsson_mltn63,MINI-LINK 63xx,Ericsson MINI-LINK 63xx microwave radios. Active carrier line.
+ericsson_mltn66,MINI-LINK 66xx,Ericsson MINI-LINK 66xx microwave radios. Active carrier line.
+extreme,EXOS/generic (Extreme),Extreme Networks generic driver. Extreme absorbed Enterasys, Brocade IP, Avaya networking. Active vendor.
+extreme_ers,ERS (Extreme),Ethernet Routing Switch via Extreme (ex-Avaya/Nortel). Legacy line under Extreme. Maintenance.
+extreme_exos,EXOS,Extreme EXOS (Linux-based) switching OS. Active/strategic.
+extreme_netiron,NetIron (Extreme),NetIron (ex-Brocade MLX) under Extreme. Legacy. Maintenance/EOL.
+extreme_nos,Network OS (Extreme),VDX Network OS (ex-Brocade) under Extreme. Legacy. Maintenance.
+extreme_slx,SLX-OS,Extreme SLX-OS (ex-Brocade SLX) routing/switching. Active.
+extreme_tierra,TierraOS,Extreme TierraOS (cloud-managed fabric). Emerging/active.
+extreme_vdx,VDX (Extreme),VDX switches (ex-Brocade) under Extreme. Legacy. Maintenance.
+extreme_vsp,VOSS (Extreme),Extreme VSP running VOSS (ex-Avaya/Nortel). Active/maintenance.
+extreme_wing,WiNG,Extreme WiNG wireless (ex-Zebra/Motorola/Symbol lineage). Maintenance.
+f5_linux,Linux (F5),F5 BIG-IP Linux bash shell. F5 core. Active.
+f5_ltm,TMOS (LTM),F5 BIG-IP LTM running TMOS. Active/strategic.
+f5_tmsh,TMSH,F5 BIG-IP TMOS shell (tmsh). Active/strategic.
+fiberstore_fsos,FSOS,FS (formerly Fiberstore) FSOS switches. Active.
+fiberstore_fsosv2,FSOS v2,FS (formerly Fiberstore) FSOS v2 switches. Active.
+fiberstore_networkos,FS NetworkOS,FS (formerly Fiberstore) NetworkOS switches. Active.
+flexvnf,FlexVNF,Versa Networks FlexVNF (SD-WAN/SASE). Active.
+fortinet,FortiOS,Fortinet FortiGate FortiOS firewalls. Active/strategic.
+fujitsu_sir,Si-R,Fujitsu Si-R routers. Regional (Japan).
+furukawa_fitelnet,FITELnet,Furukawa Electric FITELnet routers. Regional (Japan).
+garderos_grs,GRS,Garderos GRS industrial/edge routers. Niche.
+generic,Generic,Netmiko generic base driver (no vendor specifics).
+generic_termserver,Generic Term Server,Netmiko generic terminal-server driver.
+h3c_comware,Comware (H3C),H3C Comware. H3C spun out of the HP/H3C JV; majority owned by Unisplendour (China). Active.
+hillstone_stoneos,StoneOS,Hillstone Networks StoneOS firewalls. Active.
+hirschmann_hios,HiOS,Belden Hirschmann HiOS industrial switches. Active.
+hp_comware,Comware (HPE),HPE (H3C-derived) Comware switches. Enterprise-line ownership split HPE/H3C. Maintenance/active.
+hp_procurve,ProCurve (HP),Legacy HP ProCurve switches. Superseded by Aruba lines. EOL era.
+huawei,VRP (Huawei),Huawei VRP generic driver. Active vendor (subject to regional trade restrictions).
+huawei_olt,VRP OLT,Huawei OLT access (VRP-based). Active.
+huawei_ont,VRP ONT,Huawei ONT CPE (VRP-based). Active.
+huawei_smartax,SmartAX,Huawei SmartAX access platform. Active.
+huawei_smartaxmmi,SmartAX MMI,Huawei SmartAX legacy MMI interface. Maintenance.
+huawei_vrp,VRP,Huawei Versatile Routing Platform switches/routers. Active/strategic.
+huawei_vrpv8,VRPv8,Huawei VRP v8 (CloudEngine-era) OS. Active/strategic.
+iij_seilos,SEIL,IIJ SEIL routers. Regional (Japan).
+infinera_packet,Infinera Packet,Infinera packet-optical transport. Infinera acquired Coriant (2018); Infinera being acquired by Nokia (2024-25). Active.
+ipinfusion_ocnos,OcNOS,IP Infusion OcNOS disaggregated NOS. Active.
+juniper,Junos (generic),Juniper Junos generic/autodetect driver. Juniper being acquired by HPE (announced 2024). Active/strategic.
+juniper_junos,Junos,Juniper Junos (FreeBSD-based) routers/switches/firewalls. HPE acquisition pending. Active/strategic.
+juniper_screenos,ScreenOS,Juniper ScreenOS (NetScreen legacy) firewalls. EOL; replaced by SRX/Junos.
+keymile,Keymile,Keymile access platforms generic. Keymile acquired by ADVA (2016), now Adtran. Legacy.
+keymile_nos,Keymile NOS,Keymile Network OS access devices. Now under Adtran. Legacy.
+lancom_lcossx4,LCOS SX 4,LANCOM Systems LCOS SX v4 switches. LANCOM majority-owned by Rohde & Schwarz. Active (EU).
+lancom_lcossx5,LCOS SX 5,LANCOM Systems LCOS SX v5 switches. Rohde & Schwarz group. Active (EU).
+linux,Linux,Generic Linux host/server driver. Active.
+maipu,Maipu,Maipu Communication switches/routers. Regional (China).
+mellanox,Onyx/generic (Mellanox),Mellanox switches generic. Mellanox acquired by NVIDIA (2020). Legacy branding.
+mellanox_mlnxos,MLNX-OS Onyx,Mellanox MLNX-OS/Onyx switch OS. Now NVIDIA; converging toward SONiC. Maintenance.
+mikrotik_routeros,RouterOS,MikroTik RouterOS routers. Active/strategic.
+mikrotik_switchos,SwOS,MikroTik SwOS (SwitchOS) switches. Active.
+moxa_nos,Moxa NOS,Moxa industrial-switch OS. Active (industrial).
+mrv_lx,LX,MRV LX console/terminal servers. MRV acquired by ADVA (2017), now Adtran. Legacy.
+mrv_optiswitch,OptiSwitch,MRV OptiSwitch. Now under Adtran (via ADVA). Legacy.
+nec_ix,IX,NEC UNIVERGE IX routers. Regional (Japan). Active.
+netapp_cdot,ONTAP (cDOT),NetApp clustered Data ONTAP storage. Active/strategic.
+netgear_prosafe,ProSafe,Netgear ProSafe/Smart switches. Active SMB.
+netscaler,NetScaler,NetScaler ADC (formerly Citrix ADC). Citrix networking now Cloud Software Group / spun as NetScaler. Active.
+nokia_srl,SR Linux,Nokia SR Linux data-center NOS (open, Linux-based). Active/strategic.
+nokia_sros,SR OS (Nokia),Nokia Service Router OS (ex-Alcatel-Lucent, 2016 merger). Active/strategic.
+oneaccess_oneos,OneOS,OneAccess OneOS routers. OneAccess acquired by Ekinops (2018). Active.
+ovs_linux,Open vSwitch,Open vSwitch on Linux. Active/open-source.
+paloalto_panos,PAN-OS,Palo Alto Networks PAN-OS firewalls. Active/strategic.
+pluribus,Netvisor,Pluribus Networks Netvisor ONE. Pluribus acquired by Arista (2024). Legacy branding.
+quanta_mesh,QuantaMesh,Quanta Cloud Technology (QCT) QuantaMesh switches. Active (ODM).
+rad_etx,ETX,RAD Data Communications ETX demarcation NIDs. Active.
+raisecom_roap,ROAP,Raisecom ROAP-based access devices. Regional (China).
+raisecom_ros,ROS (Raisecom),Raisecom ROS switches. Regional (China). Note: distinct from Siemens ROX/others.
+ruckus_fastiron,FastIron (Ruckus),Ruckus ICX FastIron switches. Ruckus via Brocade→ARRIS→CommScope; now CommScope. Active.
+ruijie_os,RGOS,Ruijie Networks RGOS switches. Active (China/EM markets).
+silverpeak_vxoa,VXOA,Silver Peak VXOA SD-WAN. Silver Peak acquired by Aruba/HPE (2020); folded into EdgeConnect. Legacy branding.
+sixwind_os,6WIND OS,6WIND virtualized routing OS. Active.
+sophos_sfos,SFOS,Sophos Firewall OS (XG/XGS). Active/strategic.
+supermicro_smis,SMIS,Supermicro SMIS switch management. Niche.
+telcosystems_binos,BiNOS,Telco Systems BiNOS. Telco Systems (BATM) carrier-Ethernet line. Maintenance.
+teldat_cit,CIT,Teldat CIT routers. Teldat also holds bintec brand. Active (EU).
+tplink_jetstream,JetStream,TP-Link JetStream managed switches. Active SMB.
+ubiquiti_edge,EdgeOS,Ubiquiti EdgeOS (Vyatta-derived) devices. Maintenance; UniFi-first strategy.
+ubiquiti_edgerouter,EdgeOS Router,Ubiquiti EdgeRouter (EdgeOS). Maintenance.
+ubiquiti_edgeswitch,EdgeSwitch,Ubiquiti EdgeSwitch. Maintenance.
+ubiquiti_unifiswitch,UniFi Switch,Ubiquiti UniFi switch OS. Active/strategic.
+vertiv_mph,MPH PDU,Vertiv MPH rack PDUs. Vertiv (ex-Emerson Network Power). Active.
+vyatta_vyos,VyOS (Vyatta),VyOS on legacy Vyatta lineage. Vyatta sold to Brocade→AT&T; VyOS is the open successor. Transitional.
+vyos,VyOS,VyOS open-source router OS (Vyatta fork). Active/strategic.
+watchguard_fireware,Fireware,WatchGuard Firebox Fireware OS. Active.
+yamaha,Yamaha,Yamaha RTX routers/switches. Regional (Japan). Active.
+zpe_nodegrid,Nodegrid,ZPE Systems Nodegrid console/serial servers. ZPE owned by Legrand. Active.
+zte_zxros,ZXROS,ZTE ZXR OS switches/routers. Active (subject to regional trade restrictions).
+zyxel_os,ZynOS/Zyxel OS,Zyxel switch/gateway OS. Active SMB.

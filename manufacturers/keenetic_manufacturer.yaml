@@ -3,6 +3,8 @@ name: Keenetic
 description: Consumer and SOHO Wi-Fi router and mesh networking vendor.
 lookup:
   - keenetic
+oui_vendors:
+  - Keenetic Limited
 url: https://keenetic.com
 support_url: https://help.keenetic.com
 device_types_path: device-types/Keenetic

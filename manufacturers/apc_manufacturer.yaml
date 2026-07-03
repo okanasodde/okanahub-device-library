@@ -4,6 +4,10 @@ description: UPS, PDU, and data-center power and cooling vendor (Schneider Elect
 lookup:
   - apc
   - schneider
+oui_vendors:
+  - AMERICAN POWER CONVERSION CORP
+  - APC
+  - APC by Schneider Electric
 url: https://www.apc.com
 support_url: https://www.apc.com/us/en/support/
 cve_portal: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp

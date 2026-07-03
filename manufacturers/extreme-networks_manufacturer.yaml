@@ -22,13 +22,15 @@ lookup:
   - extremevsp
   - wing
   - extremewing
+oui_vendors:
+  - Extreme Networks Headquarters
 url: https://www.extremenetworks.com
 support_url: https://www.extremenetworks.com/support
 cve_portal: https://www.extremenetworks.com/support/psirt
 support_phone: +1-800-998-2408
 device_types_path: device-types/Extreme Networks
 elevation_images_path: elevation-images/Extreme Networks
-platforms_path: null
+platforms_path: platforms/Extreme Networks
 module_types_path: module-types/Extreme Networks
 module_images_path: null
 rack_types_path: null

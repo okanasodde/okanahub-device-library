@@ -4,6 +4,9 @@ description: Smart home automation hardware company; maker of the Insteon line o
 lookup:
   - smartlabs
   - insteon
+oui_vendors:
+  - Smartlabs
+  - Smartlabs, Inc.
 url: https://www.insteon.com
 support_url: https://www.insteon.com/support
 support_phone: +1-866-243-8022

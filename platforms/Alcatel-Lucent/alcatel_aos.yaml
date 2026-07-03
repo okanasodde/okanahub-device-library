@@ -1,0 +1,5 @@
+---
+name: AOS (Alcatel)
+manufacturer: Alcatel-Lucent
+network_driver: alcatel_aos
+description: Alcatel-Lucent Enterprise OmniSwitch AOS. ALE (enterprise) spun out of Alcatel-Lucent; Nokia acquired the carrier side (2016). Active.

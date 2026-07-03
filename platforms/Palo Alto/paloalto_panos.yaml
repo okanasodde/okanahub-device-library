@@ -1,0 +1,6 @@
+---
+name: PAN-OS
+manufacturer: Palo Alto
+network_driver: paloalto_panos
+napalm_driver: panos
+description: Palo Alto Networks PAN-OS firewalls. Active/strategic.

@@ -3,6 +3,9 @@ name: AVM
 description: German consumer electronics maker of FRITZ! home networking products including DSL/cable routers, mesh Wi-Fi, VoIP and smart-home devices.
 lookup:
   - avm
+oui_vendors:
+  - AVM Audiovisuelles Marketing und Computersysteme GmbH
+  - AVM GmbH
 url: https://en.avm.de
 support_url: https://en.avm.de/service/
 cve_portal: https://en.fritz.com/service/current-security-notifications/

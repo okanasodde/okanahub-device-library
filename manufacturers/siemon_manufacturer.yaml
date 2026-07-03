@@ -3,6 +3,8 @@ name: Siemon
 description: Network cabling and connectivity infrastructure manufacturer.
 lookup:
   - siemon
+oui_vendors:
+  - Siemon
 url: https://www.siemon.com
 support_url: https://www.siemon.com/en/home/support
 support_phone: +1-866-548-5814

@@ -1,0 +1,5 @@
+---
+name: CentecOS
+manufacturer: Centec Networks
+network_driver: centec_os
+description: Centec Networks switch OS on merchant silicon. Active.

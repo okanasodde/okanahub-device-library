@@ -3,6 +3,9 @@ name: Hitron
 description: Taiwanese telecommunications equipment manufacturer making DOCSIS cable modems, gateways, and WiFi routers for cable service providers.
 lookup:
   - hitron
+oui_vendors:
+  - Hitron Technologies. Inc
+  - Hitron Technology, Inc.
 url: https://hitrontech.com/
 support_url: https://hitrontech.com/service/
 cve_portal: https://www.hitrontech.com/legal/product-security-policy/

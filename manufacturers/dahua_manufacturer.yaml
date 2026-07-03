@@ -3,6 +3,10 @@ name: Dahua
 description: Video surveillance and security solutions vendor making IP and HDCVI cameras, NVRs/XVRs, PTZ, access control and related software.
 lookup:
   - dahua
+oui_vendors:
+  - Zhejiang Dahua Technology Co., Ltd.
+  - ZHEJIANG DAHUA TECHNOLOGYCO.,LTD
+  - ZHEJIANG DAHUA ZHILIAN CO.,LTD
 url: https://www.dahuasecurity.com
 support_url: https://support.dahuasecurity.com
 cve_portal: https://www.dahuasecurity.com/about-dahua/trust-center/dahua-psirt

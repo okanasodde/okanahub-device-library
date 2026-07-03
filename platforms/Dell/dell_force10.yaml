@@ -1,0 +1,5 @@
+---
+name: Force10 FTOS
+manufacturer: Dell
+network_driver: dell_force10
+description: Dell Force10 FTOS. Force10 acquired by Dell (2011). Legacy; superseded by OS10.

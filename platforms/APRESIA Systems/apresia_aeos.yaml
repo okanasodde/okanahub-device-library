@@ -1,0 +1,5 @@
+---
+name: AEOS
+manufacturer: APRESIA Systems
+network_driver: apresia_aeos
+description: APRESIA Systems AEOS switches. APRESIA formerly Hitachi Metals networking line. Active in Japan.

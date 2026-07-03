@@ -5,6 +5,8 @@ lookup:
   - phoenix
   - contact
   - phoenixcontact
+oui_vendors:
+  - Phoenix Contact GmbH & Co. KG
 url: https://www.phoenixcontact.com
 support_url: https://www.phoenixcontact.com/en-pc/service-and-support
 cve_portal: https://www.phoenixcontact.com/en-pc/service-and-support/psirt

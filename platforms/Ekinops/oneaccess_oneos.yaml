@@ -1,0 +1,5 @@
+---
+name: OneOS
+manufacturer: Ekinops
+network_driver: oneaccess_oneos
+description: OneAccess OneOS routers. OneAccess acquired by Ekinops (2018). Active.

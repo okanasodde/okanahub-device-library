@@ -5,6 +5,9 @@ lookup:
   - huber
   - suhner
   - hubersuhner
+oui_vendors:
+  - Huber + Suhner AG
+  - HUBER+SUHNER BKtel GmbH
 url: https://www.hubersuhner.com
 support_phone: +41-71-353-41-11
 device_types_path: device-types/HUBER SUHNER

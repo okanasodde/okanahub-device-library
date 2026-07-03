@@ -1,0 +1,5 @@
+---
+name: SMIS
+manufacturer: Supermicro
+network_driver: supermicro_smis
+description: Supermicro SMIS switch management. Niche.

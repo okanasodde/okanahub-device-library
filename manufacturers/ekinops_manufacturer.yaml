@@ -1,0 +1,20 @@
+---
+name: Ekinops
+description: French telecom equipment vendor providing optical transport systems (Ekinops 360) and, through its OneAccess business, access routers running the OneOS operating system.
+lookup:
+  - ekinops
+  - ek360
+  - ekinopsek360
+  - oneaccess
+  - oneos
+  - oneaccessoneos
+oui_vendors:
+  - EKINOPS SAS
+url: https://www.ekinops.com
+support_url: https://www.ekinops.com/support
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Ekinops
+module_types_path: null
+module_images_path: null
+rack_types_path: null

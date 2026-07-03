@@ -3,6 +3,8 @@ name: UGREEN
 description: Consumer electronics manufacturer making charging accessories, cables, hubs, docking stations, and NAS storage devices.
 lookup:
   - ugreen
+oui_vendors:
+  - Ugreen Group Limited
 url: https://www.ugreen.com
 support_url: https://www.ugreen.com/pages/support
 support_phone: +1-888-820-8830

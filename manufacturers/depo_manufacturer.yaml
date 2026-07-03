@@ -3,6 +3,8 @@ name: DEPO
 description: Russian manufacturer of servers, storage systems, personal computers and IT infrastructure equipment.
 lookup:
   - depo
+oui_vendors:
+  - DEPO Electronics Ltd
 url: https://www.depo.ru
 support_url: https://www.depo.ru/rubrica_r1632.aspx
 support_phone: +7-495-969-22-27

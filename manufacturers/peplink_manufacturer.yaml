@@ -3,6 +3,8 @@ name: Peplink
 description: Networking hardware vendor specializing in SD-WAN routers, cellular bonding, and multi-WAN load-balancing appliances
 lookup:
   - peplink
+oui_vendors:
+  - Peplink International Ltd.
 url: https://www.peplink.com
 support_url: https://www.peplink.com/support/
 device_types_path: device-types/Peplink

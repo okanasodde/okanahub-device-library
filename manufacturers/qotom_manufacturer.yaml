@@ -3,6 +3,8 @@ name: Qotom
 description: Chinese manufacturer of fanless mini PCs, industrial mini PCs, thin clients, and NAS appliances.
 lookup:
   - qotom
+oui_vendors:
+  - Qotom
 url: https://www.qotom.net
 device_types_path: device-types/Qotom
 elevation_images_path: null

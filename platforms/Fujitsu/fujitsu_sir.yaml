@@ -1,0 +1,5 @@
+---
+name: Si-R
+manufacturer: Fujitsu
+network_driver: fujitsu_sir
+description: Fujitsu Si-R routers. Regional (Japan).

@@ -3,6 +3,9 @@ name: Silex
 description: Wireless LAN module and device networking/connectivity vendor (Silex Technology).
 lookup:
   - silex
+oui_vendors:
+  - Silex Technology America
+  - Silex Technology, Inc.
 url: https://www.silextechnology.com
 support_url: https://www.silextechnology.com/support
 support_phone: +1-866-765-8761

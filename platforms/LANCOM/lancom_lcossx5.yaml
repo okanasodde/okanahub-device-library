@@ -1,0 +1,5 @@
+---
+name: LCOS SX 5
+manufacturer: LANCOM
+network_driver: lancom_lcossx5
+description: LANCOM Systems LCOS SX v5 switches. Rohde & Schwarz group. Active (EU).

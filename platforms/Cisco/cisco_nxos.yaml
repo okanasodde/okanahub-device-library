@@ -1,0 +1,6 @@
+---
+name: NX-OS
+manufacturer: Cisco
+network_driver: cisco_nxos
+napalm_driver: nxos
+description: Cisco Nexus NX-OS data-center switches. Active/strategic.

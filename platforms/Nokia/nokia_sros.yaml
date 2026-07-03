@@ -1,0 +1,5 @@
+---
+name: SR OS (Nokia)
+manufacturer: Nokia
+network_driver: nokia_sros
+description: Nokia Service Router OS (ex-Alcatel-Lucent

@@ -5,6 +5,9 @@ lookup:
   - digital
   - loggers
   - digitalloggers
+oui_vendors:
+  - Computer Performance, Inc. DBA Digital Loggers, Inc.
+  - Digital Loggers, Inc.
 url: https://www.digital-loggers.com
 support_url: https://www.digital-loggers.com/support.html
 support_phone: +1-408-330-5599

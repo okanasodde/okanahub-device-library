@@ -1,0 +1,5 @@
+---
+name: Nodegrid
+manufacturer: ZPE
+network_driver: zpe_nodegrid
+description: ZPE Systems Nodegrid console/serial servers. ZPE owned by Legrand. Active.

@@ -1,0 +1,5 @@
+---
+name: ZXROS
+manufacturer: ZTE
+network_driver: zte_zxros
+description: ZTE ZXR OS switches/routers. Active (subject to regional trade restrictions).

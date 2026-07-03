@@ -1,0 +1,5 @@
+---
+name: LX
+manufacturer: Adtran
+network_driver: mrv_lx
+description: MRV LX console/terminal servers. MRV acquired by ADVA (2017)

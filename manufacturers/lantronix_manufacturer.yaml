@@ -3,6 +3,8 @@ name: Lantronix
 description: Provider of IoT, device networking, console servers and remote device management hardware.
 lookup:
   - lantronix
+oui_vendors:
+  - Lantronix
 url: https://www.lantronix.com
 support_url: https://www.lantronix.com/technical-support/
 cve_portal: https://www.lantronix.com/technical-support/security-updates/

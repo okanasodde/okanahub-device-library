@@ -5,13 +5,23 @@ lookup:
   - allied
   - telesis
   - alliedtelesis
+oui_vendors:
+  - Allied Telesis (Hong Kong) Ltd.
+  - ALLIED TELESIS INTERNATIONAL CORPORATION
+  - Allied Telesis K.K.
+  - Allied Telesis Labs Ltd
+  - Allied Telesis Labs, Inc.
+  - Allied Telesis, Inc.
+  - ALLIED TELESIS, K.K.
+  - Allied Telesyn Inc.
+  - ALLIED TELESYN INTERNAIONAL
 url: https://www.alliedtelesis.com
 support_url: https://www.alliedtelesis.com/us/en/support
 cve_portal: https://www.alliedtelesis.com/us/en/support/cybersecurity-vulnerability-statement
 support_phone: +1-800-428-4835
 device_types_path: device-types/Allied Telesis
 elevation_images_path: null
-platforms_path: null
+platforms_path: platforms/Allied Telesis
 module_types_path: module-types/Allied Telesis
 module_images_path: null
 rack_types_path: null

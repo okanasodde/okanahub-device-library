@@ -1,0 +1,5 @@
+---
+name: ArubaOS-Switch
+manufacturer: Aruba Networks
+network_driver: aruba_osswitch
+description: ArubaOS-Switch (legacy Provision/HP switch OS). Being superseded by AOS-CX. Maintenance.

@@ -1,0 +1,5 @@
+---
+name: HiOS
+manufacturer: Belden
+network_driver: hirschmann_hios
+description: Belden Hirschmann HiOS industrial switches. Active.

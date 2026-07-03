@@ -1,0 +1,5 @@
+---
+name: AudioCodes Shell
+manufacturer: AudioCodes
+network_driver: audiocode_shell
+description: AudioCodes device native shell interface. Active.

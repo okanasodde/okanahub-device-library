@@ -5,6 +5,8 @@ lookup:
   - rockwell
   - automation
   - rockwellautomation
+oui_vendors:
+  - Rockwell Automation
 url: https://www.rockwellautomation.com
 support_url: https://support.rockwellautomation.com
 cve_portal: https://www.rockwellautomation.com/en-us/trust-center/security-advisories.html

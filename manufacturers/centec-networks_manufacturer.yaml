@@ -1,0 +1,16 @@
+---
+name: Centec Networks
+description: Chinese fabless semiconductor company (Suzhou Centec Communications) that designs Ethernet switching silicon and sells white-box switches running its CentecOS/Centec Network OS software.
+lookup:
+  - centec
+  - os
+  - centecos
+oui_vendors:
+  - Centec Networks Inc
+url: https://www.centec.com
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Centec Networks
+module_types_path: null
+module_images_path: null
+rack_types_path: null

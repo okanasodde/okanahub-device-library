@@ -1,0 +1,5 @@
+---
+name: VDX (Brocade)
+manufacturer: Brocade
+network_driver: brocade_vdx
+description: Brocade VDX switches running Network OS. Sold to Extreme (2017). Legacy.

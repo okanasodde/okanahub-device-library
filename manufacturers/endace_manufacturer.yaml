@@ -1,0 +1,16 @@
+---
+name: Endace
+description: New Zealand vendor of high-speed network packet-capture and recording appliances (EndaceProbe) used for security investigation and network performance monitoring.
+lookup:
+  - endace
+oui_vendors:
+  - Endace Technology
+url: https://www.endace.com
+support_url: https://support.endace.com
+support_phone: +1-866-501-3356
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Endace
+module_types_path: null
+module_images_path: null
+rack_types_path: null

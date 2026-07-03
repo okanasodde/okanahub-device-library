@@ -3,6 +3,8 @@ name: Neousys
 description: Rugged embedded and edge computing systems vendor.
 lookup:
   - neousys
+oui_vendors:
+  - Neousys Technology Inc.
 url: https://www.neousys-tech.com
 support_url: https://www.neousys-tech.com/en/support-service/technical-support
 support_phone: +1-847-656-3298

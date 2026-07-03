@@ -1,0 +1,5 @@
+---
+name: Moxa NOS
+manufacturer: Moxa
+network_driver: moxa_nos
+description: Moxa industrial-switch OS. Active (industrial).

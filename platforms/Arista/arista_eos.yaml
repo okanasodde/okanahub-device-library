@@ -1,0 +1,6 @@
+---
+name: EOS (Arista)
+manufacturer: Arista
+network_driver: arista_eos
+napalm_driver: eos
+description: Arista Extensible Operating System (Linux-based). Flagship DC switching OS. Active/strategic.

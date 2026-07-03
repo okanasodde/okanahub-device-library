@@ -1,0 +1,16 @@
+---
+name: Aviat Networks
+description: US-based provider of microwave and wireless transport networking equipment, including WTM and iPasolink radios, plus network management software and services.
+lookup:
+  - aviat
+  - wtm
+  - aviatwtm
+url: https://aviatnetworks.com/
+support_url: https://aviatcloud.com/
+support_phone: +1-210-526-6345
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Aviat Networks
+module_types_path: null
+module_images_path: null
+rack_types_path: null

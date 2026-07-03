@@ -5,6 +5,10 @@ lookup:
   - overland
   - tandberg
   - overlandtandberg
+oui_vendors:
+  - Overland Storage Inc.
+  - Tandberg Data ASA
+  - Tandberg Storage ASA
 url: https://www.overlandtandberg.com
 support_url: https://www.overlandtandberg.com/support/
 support_phone: +1-888-343-7627

@@ -1,0 +1,5 @@
+---
+name: SwOS
+manufacturer: MikroTik
+network_driver: mikrotik_switchos
+description: MikroTik SwOS (SwitchOS) switches. Active.

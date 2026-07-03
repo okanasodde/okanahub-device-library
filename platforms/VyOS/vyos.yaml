@@ -1,0 +1,5 @@
+---
+name: VyOS
+manufacturer: VyOS
+network_driver: vyos
+description: VyOS open-source router OS (Vyatta fork). Active/strategic.

@@ -1,0 +1,5 @@
+---
+name: FS NetworkOS
+manufacturer: FS
+network_driver: fiberstore_networkos
+description: FS (formerly Fiberstore) NetworkOS switches. Active.

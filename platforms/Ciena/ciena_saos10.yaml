@@ -1,0 +1,5 @@
+---
+name: SAOS 10
+manufacturer: Ciena
+network_driver: ciena_saos10
+description: Ciena SAOS 10 (containerized) next-gen packet OS. Active/strategic.

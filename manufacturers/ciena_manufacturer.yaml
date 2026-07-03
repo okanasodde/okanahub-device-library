@@ -9,13 +9,15 @@ lookup:
   - cienasaos10
   - waveserver
   - cienawaveserver
+oui_vendors:
+  - Ciena Corporation
 url: https://www.ciena.com
 support_url: https://www.ciena.com/support
 cve_portal: https://www.ciena.com/about/security
 support_phone: +1-800-243-6224
 device_types_path: device-types/Ciena
 elevation_images_path: elevation-images/Ciena
-platforms_path: null
+platforms_path: platforms/Ciena
 module_types_path: module-types/Ciena
 module_images_path: null
 rack_types_path: null

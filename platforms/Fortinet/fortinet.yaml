@@ -1,0 +1,5 @@
+---
+name: FortiOS
+manufacturer: Fortinet
+network_driver: fortinet
+description: Fortinet FortiGate FortiOS firewalls. Active/strategic.

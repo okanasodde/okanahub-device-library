@@ -5,6 +5,8 @@ lookup:
   - mimosa
   - networks
   - mimosanetworks
+oui_vendors:
+  - Mimosa Networks
 url: https://mimosa.co
 support_url: https://mimosa.co/support
 device_types_path: device-types/Mimosa Networks

@@ -4,6 +4,10 @@ description: GPON/EPON optical access and broadband CPE vendor (V-SOL).
 lookup:
   - vsolution
   - vsol
+oui_vendors:
+  - Guangzhou V-SOLUTION Electronic Technology Co., Ltd.
+  - Guangzhou V-Solution Telecommunication Technology Co.,Ltd.
+  - VSOLUTION TELECOMMUNICATION TECHNOLOGY CO.,LTD.
 url: https://www.vsolcn.com
 support_phone: +86-20-32211099
 device_types_path: device-types/V-Solution

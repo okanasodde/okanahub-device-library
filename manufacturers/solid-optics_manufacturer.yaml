@@ -5,6 +5,9 @@ lookup:
   - solid
   - optics
   - solidoptics
+oui_vendors:
+  - Solid Optics B.V.
+  - Solid Optics EU N.V.
 url: https://www.solid-optics.com
 support_url: https://www.solid-optics.com/contact/
 support_phone: +1-855-678-4271

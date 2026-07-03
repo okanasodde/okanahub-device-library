@@ -1,0 +1,5 @@
+---
+name: SB S200
+manufacturer: Cisco
+network_driver: cisco_s200
+description: Cisco Small Business 200 series switches. Legacy SMB line. Maintenance/EOL era.

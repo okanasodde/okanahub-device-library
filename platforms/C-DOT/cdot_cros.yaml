@@ -1,0 +1,5 @@
+---
+name: CROS
+manufacturer: C-DOT
+network_driver: cdot_cros
+description: C-DOT (India) CROS platform. Government/regional.

@@ -3,6 +3,8 @@ name: TrendNet
 description: Manufacturer of home and small-business networking and surveillance products, including switches, adapters, PoE gear and IP cameras.
 lookup:
   - trendnet
+oui_vendors:
+  - TRENDnet, Inc.
 url: https://www.trendnet.com
 support_url: https://www.trendnet.com/support/
 support_phone: +1-866-845-3673

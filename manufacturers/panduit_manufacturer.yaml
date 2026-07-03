@@ -3,6 +3,8 @@ name: Panduit
 description: US manufacturer of network and electrical infrastructure products including structured cabling, connectivity, racks and cable management.
 lookup:
   - panduit
+oui_vendors:
+  - Panduit Corp
 url: https://www.panduit.com
 support_url: https://www.panduit.com/en/support.html
 support_phone: +1-866-871-4571

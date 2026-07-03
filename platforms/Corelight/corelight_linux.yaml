@@ -1,0 +1,5 @@
+---
+name: Linux (Corelight)
+manufacturer: Corelight
+network_driver: corelight_linux
+description: Corelight network-monitoring sensors on Linux. Active.

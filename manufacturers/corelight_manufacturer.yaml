@@ -1,0 +1,17 @@
+---
+name: Corelight
+description: US network detection and response company whose sensors turn network traffic into security evidence, built on the open-source Zeek network monitoring framework and running on Linux.
+lookup:
+  - corelight
+  - linux
+  - corelightlinux
+url: https://corelight.com
+support_url: https://support.corelight.com/
+cve_portal: https://corelight.com/support/security
+support_phone: +1-888-547-9497
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Corelight
+module_types_path: null
+module_images_path: null
+rack_types_path: null

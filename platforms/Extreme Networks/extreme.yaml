@@ -1,0 +1,5 @@
+---
+name: EXOS/generic (Extreme)
+manufacturer: Extreme Networks
+network_driver: extreme
+description: Extreme Networks generic driver. Extreme absorbed Enterasys

@@ -1,0 +1,5 @@
+---
+name: IPOS
+manufacturer: Ericsson
+network_driver: ericsson_ipos
+description: Ericsson IPOS routers (Redback SmartEdge lineage). Legacy carrier edge.

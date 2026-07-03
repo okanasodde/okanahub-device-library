@@ -3,6 +3,8 @@ name: ZPAS
 description: Polish manufacturer of server/network racks, cabinets, and data center enclosures for ICT and power applications.
 lookup:
   - zpas
+oui_vendors:
+  - ZPAS S.A.
 url: https://www.zpas.pl
 support_phone: +48-74-872-01-00
 device_types_path: device-types/ZPAS

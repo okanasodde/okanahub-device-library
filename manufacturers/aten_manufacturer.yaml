@@ -3,6 +3,8 @@ name: Aten
 description: ATEN International manufactures KVM switches, secure KVM, AV/IT connectivity, and intelligent power distribution hardware.
 lookup:
   - aten
+oui_vendors:
+  - ATEN INTERNATIONAL CO., LTD.
 url: https://www.aten.com
 support_url: https://www.aten.com/global/en/supportcenter/
 cve_portal: https://www.aten.com/global/en/supportcenter/info/security-advisory/

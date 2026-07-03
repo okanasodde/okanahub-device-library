@@ -1,0 +1,5 @@
+---
+name: WiNG
+manufacturer: Extreme Networks
+network_driver: extreme_wing
+description: Extreme WiNG wireless (ex-Zebra/Motorola/Symbol lineage). Maintenance.

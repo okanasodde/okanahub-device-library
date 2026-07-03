@@ -5,13 +5,16 @@ lookup:
   - ruijie
   - os
   - ruijieos
+oui_vendors:
+  - Ruijie Networks Co.,LTD
+  - Shanghai Ruijie Technology
 url: https://www.ruijie.com/en-global/
 support_url: https://www.ruijie.com/en-global/support/
 cve_portal: https://www.ruijie.com/en-global/support/securityBulletins
 support_phone: +852-800-906-089
 device_types_path: device-types/Ruijie
 elevation_images_path: elevation-images/Ruijie
-platforms_path: null
+platforms_path: platforms/Ruijie
 module_types_path: null
 module_images_path: null
 rack_types_path: null

@@ -9,12 +9,14 @@ lookup:
   - ubiquitiedgerouter
   - ubiquitiedgeswitch
   - ubiquitiunifiswitch
+oui_vendors:
+  - Ubiquiti Inc
 url: https://www.ui.com
 support_url: https://help.ui.com
 cve_portal: https://help.ui.com/hc/en-us/sections/9189667713943-Advisory-Notices
 device_types_path: device-types/Ubiquiti
 elevation_images_path: elevation-images/Ubiquiti
-platforms_path: null
+platforms_path: platforms/Ubiquiti
 module_types_path: module-types/Ubiquiti
 module_images_path: null
 rack_types_path: null

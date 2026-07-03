@@ -5,13 +5,17 @@ lookup:
   - tplink
   - tp
   - link
+oui_vendors:
+  - TP-Link Systems Inc
+  - TP-Link Systems Inc.
+  - TP-LINK TECHNOLOGIES CO.,LTD.
 url: https://www.tp-link.com
 support_url: https://www.tp-link.com/support/
 cve_portal: https://www.tp-link.com/us/security-advisory/
 support_phone: +1-866-225-8139
 device_types_path: device-types/TP-Link
 elevation_images_path: elevation-images/TP-Link
-platforms_path: null
+platforms_path: platforms/TP-Link
 module_types_path: null
 module_images_path: null
 rack_types_path: null

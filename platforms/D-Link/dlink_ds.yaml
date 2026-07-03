@@ -1,0 +1,5 @@
+---
+name: D-Link DS
+manufacturer: D-Link
+network_driver: dlink_ds
+description: D-Link DGS/DS-series switches. Active SMB line.

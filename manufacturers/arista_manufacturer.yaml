@@ -5,13 +5,18 @@ lookup:
   - arista
   - eos
   - aristaeos
+oui_vendors:
+  - Arista Corp
+  - Arista Network, Inc.
+  - Arista Networks
+  - Arista Networks, Inc.
 url: https://www.arista.com
 support_url: https://www.arista.com/en/support
 cve_portal: https://www.arista.com/en/support/advisories-notices
 support_phone: +1-866-476-0000
 device_types_path: device-types/Arista
 elevation_images_path: elevation-images/Arista
-platforms_path: null
+platforms_path: platforms/Arista
 module_types_path: module-types/Arista
 module_images_path: null
 rack_types_path: null

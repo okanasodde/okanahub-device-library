@@ -1,0 +1,5 @@
+---
+name: Dell DNOS9
+manufacturer: Dell
+network_driver: dell_dnos9
+description: Dell DNOS9 (Force10 FTOS lineage). Legacy; superseded by OS10. Maintenance.

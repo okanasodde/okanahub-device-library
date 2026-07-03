@@ -1,0 +1,5 @@
+---
+name: Network OS (Brocade)
+manufacturer: Brocade
+network_driver: brocade_nos
+description: Brocade Network OS on VDX (VCS fabric). Data-center line sold to Extreme (2017). Legacy.

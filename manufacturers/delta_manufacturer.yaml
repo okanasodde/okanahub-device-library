@@ -3,6 +3,11 @@ name: Delta
 description: Power electronics and infrastructure vendor making switching power supplies, networking switches, PDUs, and industrial automation equipment.
 lookup:
   - delta
+oui_vendors:
+  - Delta Electronics
+  - Delta Electronics, Inc.
+  - DELTA NETWORKS (XIAMEN) LIMITED
+  - Delta Networks, Inc.
 url: https://www.deltaww.com
 support_url: https://www.deltaww.com/en-US/service-support/contact-us
 cve_portal: https://www.deltaww.com/en-US/service-support/product-cybersecurity/advisory

@@ -3,13 +3,16 @@ name: AudioCodes
 description: Voice networking and VoIP vendor (session border controllers, media gateways, IP phones).
 lookup:
   - audiocodes
+oui_vendors:
+  - Audiocodes USA, Inc
+  - Netrake an AudioCodes Company
 url: https://www.audiocodes.com
 support_url: https://www.audiocodes.com/services-support
 cve_portal: https://www.audiocodes.com/services-support/maintenance-and-support/security-vulnerabilities
 support_phone: +1-732-652-1085
 device_types_path: device-types/AudioCodes
 elevation_images_path: null
-platforms_path: null
+platforms_path: platforms/AudioCodes
 module_types_path: module-types/AudioCodes
 module_images_path: null
 rack_types_path: null

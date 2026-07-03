@@ -5,6 +5,8 @@ lookup:
   - cable
   - matters
   - cablematters
+oui_vendors:
+  - Cable Matters Inc.
 url: https://www.cablematters.com
 support_url: https://www.cablematters.com/cs-customerservice.aspx
 device_types_path: device-types/Cable Matters

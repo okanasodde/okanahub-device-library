@@ -1,0 +1,5 @@
+---
+name: Dell OS6
+manufacturer: Dell
+network_driver: dell_os6
+description: Dell EMC Networking OS6 (PowerConnect lineage). Legacy. Maintenance/EOL.

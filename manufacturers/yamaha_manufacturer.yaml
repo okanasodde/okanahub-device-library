@@ -5,12 +5,14 @@ lookup:
   - yamaha
   - telnet
   - yamahatelnet
+oui_vendors:
+  - YAMAHA CORPORATION
 url: https://network.yamaha.com/
 support_url: https://network.yamaha.com/support
 support_phone: +1-800-326-1088
 device_types_path: device-types/YAMAHA
 elevation_images_path: null
-platforms_path: null
+platforms_path: platforms/YAMAHA
 module_types_path: null
 module_images_path: null
 rack_types_path: null

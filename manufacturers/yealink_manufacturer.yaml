@@ -3,6 +3,9 @@ name: Yealink
 description: IP phone, video conferencing, and unified communications endpoint vendor.
 lookup:
   - yealink
+oui_vendors:
+  - XIAMEN YEALINK NETWORK TECHNOLOGY CO.,LTD
+  - YEALINK(XIAMEN) NETWORK TECHNOLOGY CO.,LTD.
 url: https://www.yealink.com
 support_url: https://support.yealink.com
 cve_portal: https://www.yealink.com/en/onepage/security-advisories

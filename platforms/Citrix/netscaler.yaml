@@ -1,0 +1,5 @@
+---
+name: NetScaler
+manufacturer: Citrix
+network_driver: netscaler
+description: NetScaler ADC (formerly Citrix ADC). Citrix networking now Cloud Software Group / spun as NetScaler. Active.

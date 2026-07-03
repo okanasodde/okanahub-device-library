@@ -1,5 +1,5 @@
 from test_configuration import COMPONENT_TYPES, IMAGE_FILETYPES, SCHEMAS, SCHEMAS_BASEPATH, KNOWN_SLUGS, ROOT_DIR, USE_LOCAL_KNOWN_SLUGS, NETBOX_DT_LIBRARY_URL, KNOWN_MODULES, USE_UPSTREAM_DIFF, PRECOMMIT_ALL_SWITCHES
-import pickle_operations
+import cache_operations
 from yaml_loader import DecimalSafeLoader
 from device_types import DeviceType, ModuleType, RackType, verify_filename, validate_components
 import decimal
@@ -30,8 +30,12 @@ def _get_definition_files():
         # Validate that the schema exists
         assert schema, f"Schema definition for {path} is empty!"
 
+        # Manufacturers are stored flat (one file per manufacturer); the other
+        # definition types use a per-manufacturer subdirectory.
+        glob_pattern = f"{path}/*" if path == "manufacturers" else f"{path}/*/*"
+
         # Map each definition file to its schema as a tuple (file, schema)
-        for file in sorted(glob.glob(f"{path}/*/*", recursive=True)):
+        for file in sorted(glob.glob(glob_pattern, recursive=True)):
             file_list.append((file, schema, 'skip'))
 
     return file_list
@@ -97,11 +101,13 @@ def _get_image_files():
 
     # Map each image file to its manufacturer
     for file in sorted(glob.glob(f"elevation-images{os.path.sep}*{os.path.sep}*", recursive=True)):
+        # Normalize to forward slashes so downstream splits are separator-agnostic (Windows).
+        file = file.replace('\\', '/')
         # Validate that the file extension is valid
-        assert file.split(os.path.sep)[2].split('.')[-1] in IMAGE_FILETYPES, f"Invalid file extension: {file}"
+        assert file.split('/')[2].split('.')[-1] in IMAGE_FILETYPES, f"Invalid file extension: {file}"
 
         # Map each image file to its manufacturer as a tuple (manufacturer, file)
-        file_list.append((file.split(os.path.sep)[1], file))
+        file_list.append((file.split('/')[1], file))
 
     return file_list
 
@@ -174,24 +180,31 @@ else:
     module_image_files = _get_all_module_image_files()
 
 if USE_LOCAL_KNOWN_SLUGS:
-    KNOWN_SLUGS = pickle_operations.read_pickle_data(f'{ROOT_DIR}/tests/known-slugs.pickle')
-    KNOWN_MODULES = pickle_operations.read_pickle_data(f'{ROOT_DIR}/tests/known-modules.pickle')
-    KNOWN_RACKS = pickle_operations.read_pickle_data(f'{ROOT_DIR}/tests/known-racks.pickle')
+    KNOWN_SLUGS = cache_operations.read_known_data(f'{ROOT_DIR}/tests/known-slugs.json')
+    KNOWN_MODULES = cache_operations.read_known_data(f'{ROOT_DIR}/tests/known-modules.json')
+    KNOWN_RACKS = cache_operations.read_known_data(f'{ROOT_DIR}/tests/known-racks.json')
 else:
     clone_kwargs = {
         'depth': 1,
-        'no-checkout': True,
     }
-    if Git().version_info >= (2, 18):
-        # partial clone
+    # Use a blobless + sparse clone so only tests/*.json is downloaded rather
+    # than the entire library. A `git checkout HEAD tests/*.json` against a
+    # blobless clone does not reliably trigger the on-demand promisor fetch on
+    # all git versions, so we materialize the tests/ directory via
+    # sparse-checkout instead (both require git >= 2.25). Older git falls back
+    # to a full shallow checkout.
+    use_sparse = Git().version_info >= (2, 25)
+    if use_sparse:
         clone_kwargs['filter'] = 'blob:none'
+        clone_kwargs['sparse'] = True
     with tempfile.TemporaryDirectory() as temp_dir, \
          Repo.clone_from(url=NETBOX_DT_LIBRARY_URL, to_path=temp_dir, **clone_kwargs) as repo \
     :
-        repo.git.checkout('HEAD', 'tests/*.pickle')
-        KNOWN_SLUGS = pickle_operations.read_pickle_data(f'{repo.working_dir}/tests/known-slugs.pickle')
-        KNOWN_MODULES = pickle_operations.read_pickle_data(f'{repo.working_dir}/tests/known-modules.pickle')
-        KNOWN_RACKS = pickle_operations.read_pickle_data(f'{repo.working_dir}/tests/known-racks.pickle')
+        if use_sparse:
+            repo.git.sparse_checkout('set', 'tests')
+        KNOWN_SLUGS = cache_operations.read_known_data(f'{repo.working_dir}/tests/known-slugs.json')
+        KNOWN_MODULES = cache_operations.read_known_data(f'{repo.working_dir}/tests/known-modules.json')
+        KNOWN_RACKS = cache_operations.read_known_data(f'{repo.working_dir}/tests/known-racks.json')
 
 SCHEMA_REGISTRY = _generate_schema_registry()
 
@@ -229,6 +242,11 @@ def test_definitions(file_path, schema, change_type):
     except ValidationError as e:
         # Schema validation failure. Ensure you are following the proper format.
         pytest.fail(f"{file_path} failed validation: {e}", False)
+
+    # Manufacturers and platforms are flat organizational records validated by schema
+    # only; none of the device/module/rack business rules below apply to them.
+    if "manufacturers" in file_path or "platforms" in file_path:
+        return
 
     # Identify if the definition is for a Device or Module
     if "device-types" in file_path:
@@ -318,7 +336,11 @@ def test_definitions(file_path, schema, change_type):
     # Check for images if front_image or rear_image is True
     if (definition.get('front_image') or definition.get('rear_image')):
         # Find images for given manufacturer, with matching device slug (exact match including case)
-        manufacturer_images = [image[1] for image in image_files if image[0] == file_path.split(os.path.sep)[1] and os.path.basename(image[1]).split('.')[0] == this_device.get_slug()]
+        # file_path may use OS-native separators (glob) or forward slashes
+        # (git diff against upstream); normalize before extracting the
+        # manufacturer (the second path segment) so this works on Windows too.
+        file_manufacturer = file_path.replace('\\', '/').split('/')[1]
+        manufacturer_images = [image[1] for image in image_files if image[0] == file_manufacturer and os.path.basename(image[1]).split('.')[0] == this_device.get_slug()]
         if not manufacturer_images:
             pytest.fail(f'{file_path} has Front or Rear Image set to True but no images found for manufacturer/device (slug={this_device.get_slug()})', False)
         elif len(manufacturer_images)>2:
@@ -329,14 +351,14 @@ def test_definitions(file_path, schema, change_type):
             front_image = [image_path.split('/')[2] for image_path in manufacturer_images if os.path.basename(image_path).split('.')[1] == 'front']
 
             if not front_image:
-                pytest.fail(f'{file_path} has front_image set to True but no matching image found (looking for \'elevation-images{os.path.sep}{file_path.split(os.path.sep)[1]}{os.path.sep}{this_device.get_slug()}.front.ext\' but only found {manufacturer_images})', False)
+                pytest.fail(f'{file_path} has front_image set to True but no matching image found (looking for \'elevation-images/{file_manufacturer}/{this_device.get_slug()}.front.ext\' but only found {manufacturer_images})', False)
 
         # If rear_image is True, verify that a rear image exists
         if(definition.get('rear_image')):
             rear_image = [image_path.split('/')[2] for image_path in manufacturer_images if os.path.basename(image_path).split('.')[1] == 'rear']
 
             if not rear_image:
-                pytest.fail(f'{file_path} has rear_image set to True but no matching image found (looking for \'elevation-images{os.path.sep}{file_path.split(os.path.sep)[1]}{os.path.sep}{this_device.get_slug()}.rear.ext\' but only found {manufacturer_images})', False)
+                pytest.fail(f'{file_path} has rear_image set to True but no matching image found (looking for \'elevation-images/{file_manufacturer}/{this_device.get_slug()}.rear.ext\' but only found {manufacturer_images})', False)
     iterdict(definition)
 
 @pytest.mark.parametrize('file_path', module_image_files)
@@ -346,7 +368,9 @@ def test_module_images(file_path):
     """
     import re
 
-    parts = file_path.split(os.path.sep)
+    # file_path may use OS-native separators (glob) or forward slashes (git
+    # diff); normalize so the structure check works on Windows too.
+    parts = file_path.replace('\\', '/').split('/')
 
     # Must follow module-images/<manufacturer>/<image-file> flat structure
     if len(parts) != 3:

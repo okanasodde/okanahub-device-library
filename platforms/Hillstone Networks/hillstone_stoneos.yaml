@@ -1,0 +1,5 @@
+---
+name: StoneOS
+manufacturer: Hillstone Networks
+network_driver: hillstone_stoneos
+description: Hillstone Networks StoneOS firewalls. Active.

@@ -1,0 +1,5 @@
+---
+name: Viptela SD-WAN
+manufacturer: Cisco
+network_driver: cisco_viptela
+description: Cisco Catalyst SD-WAN (formerly Viptela vEdge). Viptela acquired 2017. Active.

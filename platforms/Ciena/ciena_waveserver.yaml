@@ -1,0 +1,5 @@
+---
+name: Waveserver
+manufacturer: Ciena
+network_driver: ciena_waveserver
+description: Ciena Waveserver optical transport. Active.

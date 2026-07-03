@@ -5,6 +5,8 @@ lookup:
   - pcengines
   - pc
   - engines
+oui_vendors:
+  - PC Engines GmbH
 url: https://www.pcengines.ch
 device_types_path: device-types/PC Engines
 elevation_images_path: null

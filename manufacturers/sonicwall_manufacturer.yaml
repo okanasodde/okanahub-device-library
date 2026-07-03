@@ -4,6 +4,8 @@ description: Network security vendor making firewalls, VPN, UTM, SD-WAN and emai
 lookup:
   - sonicwall
   - sonicos
+oui_vendors:
+  - SonicWall
 url: https://www.sonicwall.com
 support_url: https://www.sonicwall.com/support
 cve_portal: https://psirt.global.sonicwall.com/vuln-list

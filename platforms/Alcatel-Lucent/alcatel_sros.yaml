@@ -1,0 +1,5 @@
+---
+name: SR OS (Alcatel)
+manufacturer: Alcatel-Lucent
+network_driver: alcatel_sros
+description: Alcatel-Lucent Service Router OS. Carrier business absorbed by Nokia (2016); now branded Nokia SR OS. Legacy naming.

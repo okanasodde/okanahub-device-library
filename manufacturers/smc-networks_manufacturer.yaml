@@ -5,6 +5,12 @@ lookup:
   - smc
   - networks
   - smcnetworks
+oui_vendors:
+  - SMC Networks
+  - SMC Networks Inc
+  - SMC Networks Inc.
+  - SMC Networks, Inc
+  - SMC Networks, Inc.
 device_types_path: device-types/SMC Networks
 elevation_images_path: elevation-images/SMC Networks
 platforms_path: null

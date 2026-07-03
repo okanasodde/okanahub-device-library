@@ -1,0 +1,5 @@
+---
+name: AireOS
+manufacturer: Cisco
+network_driver: cisco_wlc
+description: Cisco Wireless LAN Controller AireOS. Superseded by Catalyst 9800 (IOS XE); AireOS in maintenance.

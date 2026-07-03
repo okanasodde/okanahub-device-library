@@ -1,0 +1,5 @@
+---
+name: Fireware
+manufacturer: WatchGuard
+network_driver: watchguard_fireware
+description: WatchGuard Firebox Fireware OS. Active.

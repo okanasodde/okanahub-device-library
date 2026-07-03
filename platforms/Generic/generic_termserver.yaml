@@ -1,0 +1,5 @@
+---
+name: Generic Term Server
+manufacturer: Generic
+network_driver: generic_termserver
+description: Netmiko generic terminal-server driver.

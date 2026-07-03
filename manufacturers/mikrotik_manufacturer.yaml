@@ -13,7 +13,7 @@ cve_portal: https://mikrotik.com/supportsec
 support_phone: +371-6-7317700
 device_types_path: device-types/MikroTik
 elevation_images_path: elevation-images/MikroTik
-platforms_path: null
+platforms_path: platforms/MikroTik
 module_types_path: module-types/MikroTik
 module_images_path: null
 rack_types_path: null

@@ -1,0 +1,5 @@
+---
+name: VRPv8
+manufacturer: Huawei
+network_driver: huawei_vrpv8
+description: Huawei VRP v8 (CloudEngine-era) OS. Active/strategic.

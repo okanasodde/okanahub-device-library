@@ -1,0 +1,5 @@
+---
+name: ETX
+manufacturer: RAD
+network_driver: rad_etx
+description: RAD Data Communications ETX demarcation NIDs. Active.

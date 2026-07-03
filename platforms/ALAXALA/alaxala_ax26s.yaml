@@ -1,0 +1,5 @@
+---
+name: AX2600S
+manufacturer: ALAXALA
+network_driver: alaxala_ax26s
+description: ALAXALA AX2600S switches. ALAXALA is a Hitachi/NEC joint venture (now Hitachi subsidiary). Active in Japan market.

@@ -1,0 +1,5 @@
+---
+name: NetIron (Extreme)
+manufacturer: Extreme Networks
+network_driver: extreme_netiron
+description: NetIron (ex-Brocade MLX) under Extreme. Legacy. Maintenance/EOL.

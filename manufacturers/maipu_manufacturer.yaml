@@ -1,0 +1,16 @@
+---
+name: Maipu
+description: Maipu Communication Technology, founded in 1993 and based in Chengdu, China, is a data communication equipment vendor producing routers, switches, and wireless networking gear.
+lookup:
+  - maipu
+oui_vendors:
+  - Maipu Communication Technology Co.,Ltd.
+url: https://www.maipu.com/
+support_url: https://www.maipu.com/Supports/Details?id=124
+support_phone: +86-28-65544850
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Maipu
+module_types_path: null
+module_images_path: null
+rack_types_path: null

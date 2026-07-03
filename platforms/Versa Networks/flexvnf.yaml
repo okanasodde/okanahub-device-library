@@ -1,0 +1,5 @@
+---
+name: FlexVNF
+manufacturer: Versa Networks
+network_driver: flexvnf
+description: Versa Networks FlexVNF (SD-WAN/SASE). Active.

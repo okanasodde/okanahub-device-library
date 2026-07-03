@@ -1,0 +1,5 @@
+---
+name: ESR
+manufacturer: Eltex
+network_driver: eltex_esr
+description: Eltex ESR service routers/firewalls. Regional.

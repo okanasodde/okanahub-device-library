@@ -3,6 +3,8 @@ name: Opengear
 description: Out-of-band management, console server, and smart-out-of-band networking vendor.
 lookup:
   - opengear
+oui_vendors:
+  - OpenGear, Inc
 url: https://opengear.com
 support_url: https://opengear.com/support/
 cve_portal: https://opengear.com/security-advisories/

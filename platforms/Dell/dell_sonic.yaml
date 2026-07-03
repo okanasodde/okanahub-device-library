@@ -1,0 +1,5 @@
+---
+name: Enterprise SONiC (Dell)
+manufacturer: Dell
+network_driver: dell_sonic
+description: 'Dell Enterprise SONiC distribution. Note: Dell exited its own SONiC distro (2024)'

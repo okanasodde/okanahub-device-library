@@ -1,0 +1,5 @@
+---
+name: EdgeOS
+manufacturer: Ubiquiti
+network_driver: ubiquiti_edge
+description: Ubiquiti EdgeOS (Vyatta-derived) devices. Maintenance; UniFi-first strategy.

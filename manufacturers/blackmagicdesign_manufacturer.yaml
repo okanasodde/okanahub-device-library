@@ -4,6 +4,8 @@ description: Video production and broadcast equipment vendor (cameras, switchers
 lookup:
   - blackmagicdesign
   - blackmagic
+oui_vendors:
+  - Blackmagic Design
 url: https://www.blackmagicdesign.com
 support_url: https://www.blackmagicdesign.com/support
 support_phone: +1-408-954-0500

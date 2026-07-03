@@ -3,6 +3,8 @@ name: Parks
 description: Brazilian manufacturer of telecom and broadband access equipment, notably GPON OLTs and ONUs in the Fiberlink line.
 lookup:
   - parks
+oui_vendors:
+  - Parks S/A Comunicacoes Digitais
 url: https://www.parks.com.br
 support_phone: +55-51-3205-2949
 device_types_path: device-types/Parks

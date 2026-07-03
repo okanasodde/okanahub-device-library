@@ -3,12 +3,16 @@ name: Edgecore
 description: Open networking hardware vendor making bare-metal data center and campus switches, routers, and Wi-Fi access points.
 lookup:
   - edgecore
+oui_vendors:
+  - Edgecore Americas Networking Corporation
+  - EdgeCore Networks
+  - Edgecore Networks Corporation
 url: https://www.edge-core.com
 support_url: https://support.edge-core.com
 support_phone: +886-3-5638888
 device_types_path: device-types/Edgecore
 elevation_images_path: elevation-images/Edgecore
-platforms_path: null
+platforms_path: platforms/Edgecore
 module_types_path: module-types/Edgecore
 module_images_path: null
 rack_types_path: null

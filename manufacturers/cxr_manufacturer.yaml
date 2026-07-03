@@ -3,6 +3,8 @@ name: CXR
 description: French telecom and networking equipment maker for Ethernet, TDM, SONET/SDH and synchronization gear.
 lookup:
   - cxr
+oui_vendors:
+  - CXR Anderson Jacobson
 url: https://www.cxr.com
 support_url: https://www.cxr.com/en/pages/support-57.html
 support_phone: +33-2-37-62-88-00

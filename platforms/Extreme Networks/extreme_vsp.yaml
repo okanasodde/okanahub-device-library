@@ -1,0 +1,5 @@
+---
+name: VOSS (Extreme)
+manufacturer: Extreme Networks
+network_driver: extreme_vsp
+description: Extreme VSP running VOSS (ex-Avaya/Nortel). Active/maintenance.

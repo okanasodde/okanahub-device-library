@@ -7,12 +7,26 @@ lookup:
   - nokiasros
   - srl
   - nokiasrl
+oui_vendors:
+  - Nokia
+  - Nokia Bell Labs
+  - Nokia Bell N.V.
+  - Nokia Corporation
+  - Nokia Danmark A/S
+  - NOKIA MULTIMEDIA TERMINALS
+  - Nokia NET Product Operations
+  - Nokia Shanghai Bell Co., Ltd.
+  - Nokia Siemens Networks GmbH & Co. KG.
+  - Nokia Solutions (Shanghai) Co.,Ltd.
+  - Nokia Solutions and Networks GmbH & Co. KG
+  - Nokia Solutions and Networks India Private Limited
+  - NOKIA WIRELESS BUSINESS COMMUN
 url: https://www.nokia.com
 support_url: https://customer.nokia.com/s/
 cve_portal: https://www.nokia.com/about-us/security-and-privacy/product-security-advisory/
 device_types_path: device-types/Nokia
 elevation_images_path: elevation-images/Nokia
-platforms_path: null
+platforms_path: platforms/Nokia
 module_types_path: module-types/Nokia
 module_images_path: null
 rack_types_path: null

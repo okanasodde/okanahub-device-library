@@ -3,6 +3,8 @@ name: Avocent
 description: KVM switches, serial console servers, and IT infrastructure management hardware, now a brand of data center vendor Vertiv.
 lookup:
   - avocent
+oui_vendors:
+  - Emerson Network Power, Avocent Division
 url: https://www.vertiv.com
 support_url: https://www.vertiv.com/en-us/support/avocent-support/
 cve_portal: https://www.vertiv.com/en-us/support/security-support-center/

@@ -1,0 +1,5 @@
+---
+name: QuantaMesh
+manufacturer: QCT
+network_driver: quanta_mesh
+description: Quanta Cloud Technology (QCT) QuantaMesh switches. Active (ODM).

@@ -1,0 +1,5 @@
+---
+name: Keymile
+manufacturer: Adtran
+network_driver: keymile
+description: Keymile access platforms generic. Keymile acquired by ADVA (2016)

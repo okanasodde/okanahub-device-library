@@ -1,0 +1,5 @@
+---
+name: Onyx/generic (Mellanox)
+manufacturer: Mellanox
+network_driver: mellanox
+description: Mellanox switches generic. Mellanox acquired by NVIDIA (2020). Legacy branding.

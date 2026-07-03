@@ -1,0 +1,5 @@
+---
+name: OptiSwitch
+manufacturer: Adtran
+network_driver: mrv_optiswitch
+description: MRV OptiSwitch. Now under Adtran (via ADVA). Legacy.

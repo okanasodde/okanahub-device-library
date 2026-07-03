@@ -9,13 +9,18 @@ lookup:
   - huaweismartax
   - olt
   - huaweiolt
+oui_vendors:
+  - Huawei Device Co., Ltd.
+  - Huawei Symantec Technologies Co.,Ltd.
+  - Huawei Technologies Co., Ltd.
+  - HUAWEI TECHNOLOGIES CO.,LTD
 url: https://www.huawei.com
 support_url: https://support.huawei.com/enterprise/en/index.html
 cve_portal: https://www.huawei.com/en/psirt
 support_phone: +1-855-482-9343
 device_types_path: device-types/Huawei
 elevation_images_path: elevation-images/Huawei
-platforms_path: null
+platforms_path: platforms/Huawei
 module_types_path: module-types/Huawei
 module_images_path: null
 rack_types_path: null

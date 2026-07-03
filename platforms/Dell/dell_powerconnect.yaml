@@ -1,0 +1,5 @@
+---
+name: PowerConnect
+manufacturer: Dell
+network_driver: dell_powerconnect
+description: Dell PowerConnect switches. Legacy SMB line. EOL era.

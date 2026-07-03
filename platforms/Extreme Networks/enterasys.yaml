@@ -1,0 +1,5 @@
+---
+name: Enterasys
+manufacturer: Extreme Networks
+network_driver: enterasys
+description: Enterasys switches. Enterasys acquired by Extreme (2013). Legacy/EOL.

@@ -3,6 +3,8 @@ name: Meinberg
 description: Time and frequency synchronization vendor (NTP/PTP time servers, GNSS clocks).
 lookup:
   - meinberg
+oui_vendors:
+  - Meinberg Funkuhren GmbH & Co. KG
 url: https://www.meinbergglobal.com
 support_url: https://www.meinbergglobal.com/english/support/
 cve_portal: https://www.meinbergglobal.com/english/news/

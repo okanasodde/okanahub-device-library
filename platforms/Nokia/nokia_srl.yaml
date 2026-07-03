@@ -1,0 +1,5 @@
+---
+name: SR Linux
+manufacturer: Nokia
+network_driver: nokia_srl
+description: Nokia SR Linux data-center NOS (open

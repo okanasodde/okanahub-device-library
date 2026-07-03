@@ -5,6 +5,8 @@ lookup:
   - nabucasa
   - nabu
   - casa
+oui_vendors:
+  - Nabu Casa, Inc.
 url: https://www.nabucasa.com
 device_types_path: device-types/Nabu Casa
 elevation_images_path: elevation-images/Nabu Casa

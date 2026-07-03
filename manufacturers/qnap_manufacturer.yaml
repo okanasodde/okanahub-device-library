@@ -3,6 +3,8 @@ name: QNAP
 description: Taiwanese vendor of network-attached storage (NAS) appliances, surveillance and networking hardware for file sharing, backup and virtualization.
 lookup:
   - qnap
+oui_vendors:
+  - QNAP Systems, Inc.
 url: https://www.qnap.com
 support_url: https://service.qnap.com/en/home
 cve_portal: https://www.qnap.com/en/security-advisories

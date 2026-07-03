@@ -3,13 +3,15 @@ name: Fortinet
 description: Enterprise network security vendor making FortiGate firewalls, secure switches, wireless access points, and SASE/SD-WAN products.
 lookup:
   - fortinet
+oui_vendors:
+  - Fortinet, Inc.
 url: https://www.fortinet.com
 support_url: https://support.fortinet.com/welcome/
 cve_portal: https://www.fortiguard.com/psirt
 support_phone: +1-408-542-7780
 device_types_path: device-types/Fortinet
 elevation_images_path: elevation-images/Fortinet
-platforms_path: null
+platforms_path: platforms/Fortinet
 module_types_path: module-types/Fortinet
 module_images_path: null
 rack_types_path: null

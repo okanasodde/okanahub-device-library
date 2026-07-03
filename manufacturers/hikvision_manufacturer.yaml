@@ -3,6 +3,9 @@ name: Hikvision
 description: Manufacturer of video surveillance products including IP cameras, NVRs and DVRs for security and IoT applications.
 lookup:
   - hikvision
+oui_vendors:
+  - Hangzhou Hikvision Digital Technology Co.,Ltd.
+  - Prama Hikvision India Private Limited
 url: https://www.hikvision.com
 support_url: https://www.hikvision.com/en/support/
 cve_portal: https://www.hikvision.com/en/support/cybersecurity/security-advisory/

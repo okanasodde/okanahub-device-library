@@ -1,0 +1,20 @@
+---
+name: H3C
+description: Chinese networking and IT infrastructure vendor (New H3C), majority owned by Unisplendour, whose switches and routers run the Comware operating system.
+lookup:
+  - h3c
+  - comware
+  - h3ccomware
+oui_vendors:
+  - New H3C Technologies Co., Ltd
+  - Hangzhou H3C Technologies Co., Ltd.
+url: https://www.h3c.com
+support_url: https://www.h3c.com/en/Support/
+cve_portal: https://www.h3c.com/en/Support/Online_Help/psirt/
+support_phone: +86-571-86763000
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/H3C
+module_types_path: null
+module_images_path: null
+rack_types_path: null

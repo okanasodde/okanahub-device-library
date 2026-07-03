@@ -1,0 +1,5 @@
+---
+name: AudioCodes 6.6
+manufacturer: AudioCodes
+network_driver: audiocode_66
+description: AudioCodes gateways/SBCs running firmware v6.6. Legacy branch.

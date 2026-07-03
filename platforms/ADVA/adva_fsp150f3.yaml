@@ -1,0 +1,5 @@
+---
+name: FSP150 F3
+manufacturer: ADVA
+network_driver: adva_fsp150f3
+description: ADVA FSP 150 F3 series carrier-Ethernet access. ADVA merged with ADTRAN (2022). Active.

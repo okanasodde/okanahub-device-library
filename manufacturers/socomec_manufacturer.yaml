@@ -3,6 +3,8 @@ name: Socomec
 description: Electrical power equipment manufacturer of UPS systems, switching, transfer switches and energy measurement devices.
 lookup:
   - socomec
+oui_vendors:
+  - SOCOMEC
 url: https://www.socomec.com
 support_phone: +1-617-245-0447
 device_types_path: device-types/Socomec

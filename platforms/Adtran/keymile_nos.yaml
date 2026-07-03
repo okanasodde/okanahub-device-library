@@ -1,0 +1,5 @@
+---
+name: Keymile NOS
+manufacturer: Adtran
+network_driver: keymile_nos
+description: Keymile Network OS access devices. Now under Adtran. Legacy.

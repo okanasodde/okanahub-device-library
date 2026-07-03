@@ -1,0 +1,5 @@
+---
+name: ProCurve (HP)
+manufacturer: HP
+network_driver: hp_procurve
+description: Legacy HP ProCurve switches. Superseded by Aruba lines. EOL era.

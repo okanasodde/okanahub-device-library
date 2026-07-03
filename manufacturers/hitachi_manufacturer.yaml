@@ -3,6 +3,43 @@ name: HITACHI
 description: Maker of enterprise data storage systems and IT infrastructure, primarily through its Hitachi Vantara business.
 lookup:
   - hitachi
+oui_vendors:
+  - Hitachi Aloka Medical, Ltd.
+  - HITACHI COMPUTER PRODUCTS (AMERICA), INC.
+  - Hitachi Data Systems
+  - Hitachi Denshi, Ltd.
+  - Hitachi Energy  India Limited
+  - Hitachi Energy Australia Pty. Ltd.
+  - Hitachi Energy Germany AG
+  - Hitachi Energy Poland sp. Z o o
+  - Hitachi Energy Switzerland Ltd
+  - Hitachi Energy USA Inc.
+  - HITACHI ENGINEERING CO., LTD
+  - Hitachi Global Life Solutions, Inc.
+  - Hitachi High Technologies America, Inc.
+  - Hitachi High-Tech Control Systems Corporation
+  - Hitachi High-Tech Materials Corporation
+  - Hitachi High-Technologies Corporation
+  - Hitachi IE Systems Co., Ltd
+  - Hitachi Industrial Equipment Systems Co.,Ltd
+  - Hitachi Industry & Control Solutions, Ltd.
+  - Hitachi Information & Communication Engineering, Ltd.
+  - Hitachi Ltd, Semiconductor & Integrated Circuits Gr
+  - HITACHI Maxell Ltd.
+  - Hitachi Maxell, Ltd., Optronics Division
+  - Hitachi Metals America Ltd
+  - Hitachi Metals, Ltd.
+  - Hitachi Printing Solutions, Ltd.
+  - Hitachi Rail GTS Austria GmbH
+  - Hitachi Rail GTS Deutschland GmbH
+  - Hitachi Rail RCS France SAS
+  - Hitachi Reftechno, Inc.
+  - HITACHI SOFTWARE ENGINEERING
+  - HITACHI ZOSEN CORPORATION
+  - HITACHI-LG DATA STORAGE INC
+  - Hitachi-LG Data Storage Korea, Inc
+  - Hitachi, Ltd.
+  - Hitachi,Ltd.
 url: https://www.hitachivantara.com
 support_url: https://support.hitachivantara.com
 cve_portal: https://www.hitachi.com/hirt/security/index.html

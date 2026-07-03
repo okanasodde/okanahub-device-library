@@ -5,6 +5,10 @@ lookup:
   - raspberry
   - pi
   - raspberrypi
+oui_vendors:
+  - Raspberry Pi (Trading) Ltd
+  - Raspberry Pi Foundation
+  - Raspberry Pi Trading Ltd
 url: https://www.raspberrypi.com
 support_url: https://www.raspberrypi.com/contact/
 cve_portal: https://www.raspberrypi.com/contact/security/

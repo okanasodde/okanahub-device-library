@@ -1,0 +1,5 @@
+---
+name: MPH PDU
+manufacturer: Vertiv
+network_driver: vertiv_mph
+description: Vertiv MPH rack PDUs. Vertiv (ex-Emerson Network Power). Active.

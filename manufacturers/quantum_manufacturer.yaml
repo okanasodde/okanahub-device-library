@@ -3,6 +3,9 @@ name: Quantum
 description: Data storage, backup, and archive systems vendor.
 lookup:
   - quantum
+oui_vendors:
+  - Quantum Corp.
+  - Quantum Corporation
 url: https://www.quantum.com
 support_url: https://www.quantum.com/en/service-support/
 cve_portal: https://www.quantum.com/en/company/security/

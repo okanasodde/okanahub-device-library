@@ -9,7 +9,7 @@ from jsonschema import Draft202012Validator
 from jsonschema.exceptions import ValidationError
 from test_configuration import SCHEMAS, SCHEMAS_BASEPATH, KNOWN_SLUGS, ROOT_DIR, KNOWN_MODULES
 from urllib.request import urlopen
-import pickle_operations
+import cache_operations
 
 def _get_type_files(device_or_module):
     """
@@ -103,10 +103,10 @@ def _generate_knowns(device_or_module):
             KNOWN_MODULES.add((os.path.splitext(os.path.basename(file_path))[0], os.path.dirname(file_path)))
 
 _generate_knowns('device')
-pickle_operations.write_pickle_data(KNOWN_SLUGS, f'{ROOT_DIR}/tests/known-slugs.pickle')
+cache_operations.write_known_data(KNOWN_SLUGS, f'{ROOT_DIR}/tests/known-slugs.json')
 
 _generate_knowns('module')
-pickle_operations.write_pickle_data(KNOWN_MODULES, f'{ROOT_DIR}/tests/known-modules.pickle')
+cache_operations.write_known_data(KNOWN_MODULES, f'{ROOT_DIR}/tests/known-modules.json')
 
 _generate_knowns('rack')
-pickle_operations.write_pickle_data(KNOWN_MODULES, f'{ROOT_DIR}/tests/known-racks.pickle')
+cache_operations.write_known_data(KNOWN_MODULES, f'{ROOT_DIR}/tests/known-racks.json')

@@ -3,6 +3,9 @@ name: Sonnet
 description: Computer hardware maker of Thunderbolt and PCIe adapters, network interface cards, docks and storage expansion devices.
 lookup:
   - sonnet
+oui_vendors:
+  - Sonnet Labs Inc.
+  - Sonnet Technologies, Inc
 url: https://www.sonnettech.com
 support_url: https://www.sonnettech.com/support/index.html
 support_phone: +1-949-587-3500

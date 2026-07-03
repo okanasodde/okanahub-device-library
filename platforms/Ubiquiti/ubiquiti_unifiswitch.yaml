@@ -1,0 +1,5 @@
+---
+name: UniFi Switch
+manufacturer: Ubiquiti
+network_driver: ubiquiti_unifiswitch
+description: Ubiquiti UniFi switch OS. Active/strategic.

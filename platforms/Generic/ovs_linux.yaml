@@ -1,0 +1,5 @@
+---
+name: Open vSwitch
+manufacturer: Generic
+network_driver: ovs_linux
+description: Open vSwitch on Linux. Active/open-source.

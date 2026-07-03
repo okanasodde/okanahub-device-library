@@ -1,0 +1,6 @@
+---
+name: Junos (generic)
+manufacturer: Juniper
+network_driver: juniper
+napalm_driver: junos
+description: Juniper Junos generic/autodetect driver. Juniper being acquired by HPE (announced 2024). Active/strategic.

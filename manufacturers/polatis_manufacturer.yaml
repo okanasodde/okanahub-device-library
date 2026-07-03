@@ -3,6 +3,8 @@ name: Polatis
 description: All-optical (photonic) matrix switch vendor (HUBER+SUHNER Polatis).
 lookup:
   - polatis
+oui_vendors:
+  - H+S Polatis Ltd
 url: https://www.polatis.com
 support_phone: +1-781-275-5080
 device_types_path: device-types/Polatis

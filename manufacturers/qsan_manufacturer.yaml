@@ -3,6 +3,8 @@ name: QSAN
 description: Network-attached and SAN storage systems vendor.
 lookup:
   - qsan
+oui_vendors:
+  - Qsan Technology, Inc.
 url: https://www.qsan.com
 support_url: https://www.qsan.com/support
 cve_portal: https://www.qsan.com/security_advisories

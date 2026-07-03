@@ -1,0 +1,5 @@
+---
+name: CIT
+manufacturer: Teldat
+network_driver: teldat_cit
+description: Teldat CIT routers. Teldat also holds bintec brand. Active (EU).

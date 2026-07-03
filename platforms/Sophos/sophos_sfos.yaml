@@ -1,0 +1,5 @@
+---
+name: SFOS
+manufacturer: Sophos
+network_driver: sophos_sfos
+description: Sophos Firewall OS (XG/XGS). Active/strategic.

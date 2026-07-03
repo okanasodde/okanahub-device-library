@@ -3,6 +3,8 @@ name: Lanner
 description: Taiwanese designer and manufacturer of network appliances, uCPE/SD-WAN and edge computing hardware.
 lookup:
   - lanner
+oui_vendors:
+  - LANNER ELECTRONICS, INC.
 url: https://www.lannerinc.com
 support_url: https://www.lannerinc.com/services/design-and-manufacturing/technical-support
 support_phone: +886-2-8692-6060

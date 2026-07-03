@@ -5,7 +5,7 @@ lookup:
   - generic
 device_types_path: device-types/Generic
 elevation_images_path: elevation-images/Generic
-platforms_path: null
+platforms_path: platforms/Generic
 module_types_path: module-types/Generic
 module_images_path: null
 rack_types_path: null

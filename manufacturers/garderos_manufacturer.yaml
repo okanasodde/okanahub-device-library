@@ -1,0 +1,16 @@
+---
+name: Garderos
+description: German manufacturer of ruggedized industrial and edge routers running the Linux-based Garderos Router Software (GRS), targeting critical infrastructure and utility networks.
+lookup:
+  - garderos
+  - grs
+  - garderosgrs
+url: https://garderos.com
+support_url: https://my.garderos.com/
+support_phone: +49-89-189306-50
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Garderos
+module_types_path: null
+module_images_path: null
+rack_types_path: null

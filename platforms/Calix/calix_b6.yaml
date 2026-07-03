@@ -1,0 +1,5 @@
+---
+name: B6
+manufacturer: Calix
+network_driver: calix_b6
+description: Calix B6 Ethernet access. Legacy line (Occam heritage). Maintenance.

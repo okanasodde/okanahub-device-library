@@ -1,0 +1,5 @@
+---
+name: SmartFabric OS10
+manufacturer: Dell
+network_driver: dell_os10
+description: Dell SmartFabric OS10 (Linux-based). Current Dell networking OS. Active/strategic.

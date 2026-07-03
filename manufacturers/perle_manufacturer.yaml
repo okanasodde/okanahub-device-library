@@ -3,6 +3,8 @@ name: Perle
 description: Device networking, media conversion, console server, and IoT connectivity hardware manufacturer
 lookup:
   - perle
+oui_vendors:
+  - PERLE SYSTEMS LIMITED
 url: https://www.perle.com
 support_url: https://www.perle.com/support_services/
 cve_portal: https://www.perle.com/support_services/security.shtml

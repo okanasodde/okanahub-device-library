@@ -3,6 +3,9 @@ name: Xfusion
 description: Chinese provider of computing infrastructure manufacturing rack, blade, and high-density servers and related data-center hardware (spun off from Huawei's x86 server business).
 lookup:
   - xfusion
+oui_vendors:
+  - xFusion Digital Technologies Co., Limited
+  - xFusion Digital Technologies Co.,Ltd.
 url: https://www.xfusion.com
 support_url: https://support.xfusion.com
 cve_portal: https://support.xfusion.com/safe/en/psirt

@@ -17,13 +17,18 @@ lookup:
   - dellpowerconnect
   - sonic
   - dellsonic
+oui_vendors:
+  - Dell
+  - Dell EMC
+  - Dell Inc.
+  - Dell Technologies
 url: https://www.dell.com
 support_url: https://www.dell.com/support
 cve_portal: https://www.dell.com/support/security/en-us
 support_phone: +1-800-624-9896
 device_types_path: device-types/Dell
 elevation_images_path: elevation-images/Dell
-platforms_path: null
+platforms_path: platforms/Dell
 module_types_path: module-types/Dell
 module_images_path: module-images/Dell
 rack_types_path: null

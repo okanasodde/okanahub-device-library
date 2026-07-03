@@ -3,6 +3,8 @@ name: Infortrend
 description: Network and direct-attached storage systems vendor (EonStor).
 lookup:
   - infortrend
+oui_vendors:
+  - INFORTREND TECHNOLOGY, INC.
 url: https://www.infortrend.com
 support_url: https://www.infortrend.com/global/Support
 support_phone: +1-408-988-5088

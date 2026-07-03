@@ -3,6 +3,9 @@ name: Yeastar
 description: VoIP PBX, IP phone system, and VoIP gateway vendor providing on-premises and cloud unified communications for small and medium businesses.
 lookup:
   - yeastar
+oui_vendors:
+  - Xiamen Yeastar Digital Technology Co., Ltd
+  - Xiamen Yeastar Digital Technology Co.,Ltd
 url: https://www.yeastar.com
 support_url: https://support.yeastar.com
 support_phone: +1-972-914-4899

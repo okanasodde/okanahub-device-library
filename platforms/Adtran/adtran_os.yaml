@@ -1,0 +1,5 @@
+---
+name: AOS (Adtran)
+manufacturer: Adtran
+network_driver: adtran_os
+description: 'Adtran Operating System on NetVanta/Total Access routers/switches. Note: unrelated to Alcatel/Aruba AOS. Active.'

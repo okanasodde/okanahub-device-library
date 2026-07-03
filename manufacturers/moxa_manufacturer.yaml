@@ -5,13 +5,16 @@ lookup:
   - moxa
   - nos
   - moxanos
+oui_vendors:
+  - MOXA TECHNOLOGIES CORP., LTD.
+  - Moxa.Inc
 url: https://www.moxa.com
 support_url: https://www.moxa.com/en/support
 cve_portal: https://www.moxa.com/en/support/product-support/security-advisory
 support_phone: +1-714-528-6777
 device_types_path: device-types/Moxa
 elevation_images_path: elevation-images/Moxa
-platforms_path: null
+platforms_path: platforms/Moxa
 module_types_path: null
 module_images_path: null
 rack_types_path: null

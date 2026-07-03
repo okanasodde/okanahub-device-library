@@ -3,6 +3,8 @@ name: Allot
 description: Israeli vendor of network intelligence, traffic management, and cybersecurity solutions for communication service providers and enterprises.
 lookup:
   - allot
+oui_vendors:
+  - Allot Communications
 url: https://www.allot.com
 support_phone: +1-833-967-8080
 device_types_path: device-types/Allot

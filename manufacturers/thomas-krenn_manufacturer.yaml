@@ -5,6 +5,8 @@ lookup:
   - thomas
   - krenn
   - thomaskrenn
+oui_vendors:
+  - Thomas-Krenn.AG
 url: https://www.thomas-krenn.com
 support_url: https://www.thomas-krenn.com/en/services/support
 support_phone: +49-8551-9150-500

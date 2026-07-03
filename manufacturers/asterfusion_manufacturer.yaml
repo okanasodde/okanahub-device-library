@@ -1,0 +1,14 @@
+---
+name: Asterfusion
+description: Asterfusion Data Technologies is a Suzhou, China vendor of open-networking whitebox and data-center switches powered by its enterprise SONiC distribution, AsterNOS.
+lookup:
+  - asterfusion
+  - asternos
+  - asterfusionasternos
+url: https://asterfusion.com/
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Asterfusion
+module_types_path: null
+module_images_path: null
+rack_types_path: null

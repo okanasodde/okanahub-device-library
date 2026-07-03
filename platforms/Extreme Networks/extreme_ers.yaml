@@ -1,0 +1,5 @@
+---
+name: ERS (Extreme)
+manufacturer: Extreme Networks
+network_driver: extreme_ers
+description: Ethernet Routing Switch via Extreme (ex-Avaya/Nortel). Legacy line under Extreme. Maintenance.

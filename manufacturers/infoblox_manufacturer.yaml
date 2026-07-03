@@ -3,6 +3,8 @@ name: Infoblox
 description: DNS, DHCP, and IP address management (DDI) and network security vendor.
 lookup:
   - infoblox
+oui_vendors:
+  - Infoblox
 url: https://www.infoblox.com
 support_url: https://support.infoblox.com
 cve_portal: https://www.infoblox.com/products/grid/security-advisories/

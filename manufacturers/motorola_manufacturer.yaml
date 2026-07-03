@@ -3,6 +3,19 @@ name: Motorola
 description: Consumer networking brand for DOCSIS cable modems, gateways and Wi-Fi routers under the Motorola name.
 lookup:
   - motorola
+oui_vendors:
+  - MOTOROLA
+  - Motorola - BSG
+  - Motorola (Wuhan) Mobility Technologies Communication Co., Ltd.
+  - MOTOROLA COMMUNICATION ISRAEL
+  - Motorola Inc Business Light Radios
+  - Motorola Korea
+  - Motorola Mobility LLC, a Lenovo Company
+  - Motorola Solutions Inc.
+  - MOTOROLA SOLUTIONS MALAYSIA SDN. BHD.
+  - Motorola, Broadband Solutions Group
+  - Motorola(Wuhan) Mobility Technologies Communication Co.,Ltd
+  - WIRELESS DATA GROUP MOTOROLA
 url: https://www.motorola.com/us/en/family/modems-networking
 support_url: https://motorolanetwork.com/pages/help-site
 support_phone: +1-888-325-9336

@@ -1,0 +1,5 @@
+---
+name: ONTAP (cDOT)
+manufacturer: NetApp
+network_driver: netapp_cdot
+description: NetApp clustered Data ONTAP storage. Active/strategic.

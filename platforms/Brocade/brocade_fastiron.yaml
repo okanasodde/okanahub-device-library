@@ -1,0 +1,5 @@
+---
+name: FastIron (Brocade)
+manufacturer: Brocade
+network_driver: brocade_fastiron
+description: Brocade FastIron (ICX) campus switches. Brocade IP networking sold to Extreme (2017); FastIron continued by Ruckus/CommScope. Legacy driver.

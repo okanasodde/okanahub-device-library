@@ -3,6 +3,8 @@ name: UfiSpace
 description: Provider of open and disaggregated networking hardware (white-box routers and switches) for telecom carriers, cloud providers, and data centers.
 lookup:
   - ufispace
+oui_vendors:
+  - Ufispace Co., LTD.
 url: https://www.ufispace.com
 support_url: https://www.ufispace.com/support/technical-support
 support_phone: +886-2-7730-1188

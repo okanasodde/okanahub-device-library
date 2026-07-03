@@ -5,11 +5,14 @@ lookup:
   - telco
   - systems
   - telcosystems
+oui_vendors:
+  - Telco Systems, Inc.
+  - TELCO systems, s.r.o.
 url: https://www.telco.com
 support_url: https://www.telco.com/telco-systems-support/
 device_types_path: device-types/Telco Systems
 elevation_images_path: elevation-images/Telco Systems
-platforms_path: null
+platforms_path: platforms/Telco Systems
 module_types_path: module-types/Telco Systems
 module_images_path: null
 rack_types_path: null

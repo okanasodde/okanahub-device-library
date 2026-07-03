@@ -1,0 +1,5 @@
+---
+name: Dell OS9
+manufacturer: Dell
+network_driver: dell_os9
+description: Dell EMC Networking OS9 (Force10 FTOS lineage). Legacy; superseded by OS10.

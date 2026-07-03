@@ -5,6 +5,8 @@ lookup:
   - hpe
   - comware
   - hpcomware
+oui_vendors:
+  - Hewlett Packard Enterprise
 url: https://www.hpe.com
 support_url: https://support.hpe.com
 cve_portal: https://www.hpe.com/us/en/about/digital-trust-center/security.html

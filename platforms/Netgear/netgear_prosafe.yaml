@@ -1,0 +1,5 @@
+---
+name: ProSafe
+manufacturer: Netgear
+network_driver: netgear_prosafe
+description: Netgear ProSafe/Smart switches. Active SMB.

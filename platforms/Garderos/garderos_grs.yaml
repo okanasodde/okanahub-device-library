@@ -1,0 +1,5 @@
+---
+name: GRS
+manufacturer: Garderos
+network_driver: garderos_grs
+description: Garderos GRS industrial/edge routers. Niche.

@@ -1,0 +1,5 @@
+---
+name: Linux
+manufacturer: Generic
+network_driver: linux
+description: Generic Linux host/server driver. Active.

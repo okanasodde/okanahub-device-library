@@ -7,13 +7,15 @@ lookup:
   - paloaltopanos
   - palo
   - alto
+oui_vendors:
+  - Palo Alto Networks
 url: https://www.paloaltonetworks.com
 support_url: https://support.paloaltonetworks.com
 cve_portal: https://security.paloaltonetworks.com
 support_phone: +1-866-898-7087
 device_types_path: device-types/Palo Alto
 elevation_images_path: elevation-images/Palo Alto
-platforms_path: null
+platforms_path: platforms/Palo Alto
 module_types_path: module-types/Palo Alto
 module_images_path: null
 rack_types_path: null

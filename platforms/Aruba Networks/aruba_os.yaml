@@ -1,0 +1,5 @@
+---
+name: AOS (Aruba)
+manufacturer: Aruba Networks
+network_driver: aruba_os
+description: ArubaOS for wireless controllers and access points. HPE subsidiary. Active.

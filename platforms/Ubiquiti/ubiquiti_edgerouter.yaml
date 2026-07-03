@@ -1,0 +1,5 @@
+---
+name: EdgeOS Router
+manufacturer: Ubiquiti
+network_driver: ubiquiti_edgerouter
+description: Ubiquiti EdgeRouter (EdgeOS). Maintenance.

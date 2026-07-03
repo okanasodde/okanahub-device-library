@@ -3,6 +3,8 @@ name: Allnet
 description: ALLNET GmbH is a German vendor and distributor of networking, WLAN, storage, security, and home-automation hardware.
 lookup:
   - allnet
+oui_vendors:
+  - Allnet GmbH
 url: https://www.allnet.de
 support_phone: +49-89-89422215
 device_types_path: device-types/Allnet

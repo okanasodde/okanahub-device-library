@@ -1,0 +1,5 @@
+---
+name: ICOS
+manufacturer: Broadcom
+network_driver: broadcom_icos
+description: Broadcom ICOS (FASTPATH-derived) merchant-silicon switch OS. Active as reference NOS.

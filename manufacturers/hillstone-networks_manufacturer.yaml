@@ -1,0 +1,17 @@
+---
+name: Hillstone Networks
+description: Hillstone Networks is a network security vendor founded in 2006 and headquartered in Santa Clara, California, providing next-generation firewalls and security management appliances running its StoneOS operating system.
+lookup:
+  - hillstone
+  - stoneos
+  - hillstonestoneos
+url: https://www.hillstonenet.com/
+support_url: http://support.hillstonenet.com/
+cve_portal: https://www.hillstonenet.com/more/services/security-advisory/
+support_phone: +1-800-930-6707
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Hillstone Networks
+module_types_path: null
+module_images_path: null
+rack_types_path: null

@@ -6,6 +6,8 @@ lookup:
   - engineering
   - laboratories
   - sel
+oui_vendors:
+  - SCHWEITZER ENGINEERING
 url: https://selinc.com
 support_url: https://selinc.com/support/
 cve_portal: https://selinc.com/support/security-notifications/

@@ -1,0 +1,5 @@
+---
+name: VRP OLT
+manufacturer: Huawei
+network_driver: huawei_olt
+description: Huawei OLT access (VRP-based). Active.

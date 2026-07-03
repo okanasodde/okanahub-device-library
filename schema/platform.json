@@ -1,0 +1,33 @@
+{
+    "type": "object",
+    "$id": "urn:devicetype-library:platform",
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "properties": {
+        "name": {
+            "type": "string",
+            "maxLength": 255
+        },
+        "manufacturer": {
+            "type": "string",
+            "maxLength": 255
+        },
+        "network_driver": {
+            "type": "string",
+            "maxLength": 255
+        },
+        "napalm_driver": {
+            "type": "string",
+            "maxLength": 255
+        },
+        "napalm_args": {
+            "type": ["object", "null"],
+            "default": null
+        },
+        "description": {
+            "type": "string",
+            "maxLength": 255
+        }
+    },
+    "required": ["name"],
+    "additionalProperties": false
+}

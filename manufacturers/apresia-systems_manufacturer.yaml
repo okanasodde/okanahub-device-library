@@ -1,0 +1,15 @@
+---
+name: APRESIA Systems
+description: Japanese manufacturer of the Apresia series of enterprise and carrier Ethernet switches (running the AEOS network OS) and optical transmission equipment.
+lookup:
+  - apresia
+  - aeos
+  - apresiaaeos
+url: https://www.apresiasystems.co.jp/english/
+support_url: https://www.apresia.jp/products/support/
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/APRESIA Systems
+module_types_path: null
+module_images_path: null
+rack_types_path: null

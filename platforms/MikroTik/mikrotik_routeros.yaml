@@ -1,0 +1,5 @@
+---
+name: RouterOS
+manufacturer: MikroTik
+network_driver: mikrotik_routeros
+description: MikroTik RouterOS routers. Active/strategic.

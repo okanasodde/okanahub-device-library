@@ -3,6 +3,8 @@ name: Rittal
 description: German manufacturer of industrial and IT enclosures, climate control/cooling units, power distribution, busbar systems, and data center server racks.
 lookup:
   - rittal
+oui_vendors:
+  - RITTAL-WERK RUDOLF LOH GmbH & Co.
 url: https://www.rittal.com
 support_url: https://www.rittal.com/us-en_US/Services/Service-Request
 support_phone: +1-800-477-4000

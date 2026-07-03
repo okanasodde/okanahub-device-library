@@ -3,6 +3,12 @@ name: ADC
 description: ADC Telecommunications (KRONE) is a legacy fiber- and copper-based network connectivity and structured cabling brand, now part of CommScope.
 lookup:
   - adc
+oui_vendors:
+  - ADC - Global Connectivity Solutions Division
+  - ADC CODENOLL TECHNOLOGY CORP.
+  - ADC Corporation
+  - ADC Telecommunications
+  - ADC-Elektronik GmbH
 url: https://www.commscope.com
 support_url: https://www.commscope.com/supportcenter
 device_types_path: device-types/ADC

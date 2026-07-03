@@ -1,0 +1,5 @@
+---
+name: Generic
+manufacturer: Generic
+network_driver: generic
+description: Netmiko generic base driver (no vendor specifics).

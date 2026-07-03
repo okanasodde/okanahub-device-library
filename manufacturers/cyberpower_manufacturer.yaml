@@ -3,6 +3,8 @@ name: CyberPower
 description: Manufacturer of uninterruptible power supplies (UPS), power distribution units, surge protectors and power management products.
 lookup:
   - cyberpower
+oui_vendors:
+  - CyberPower Systems, Inc.
 url: https://www.cyberpowersystems.com
 support_url: https://www.cyberpowersystems.com/support/
 support_phone: +1-855-289-8177

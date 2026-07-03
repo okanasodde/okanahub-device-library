@@ -1,0 +1,5 @@
+---
+name: ASA
+manufacturer: Cisco
+network_driver: cisco_asa
+description: Cisco Adaptive Security Appliance firewall OS. Being succeeded by FTD/Secure Firewall; still widely deployed.

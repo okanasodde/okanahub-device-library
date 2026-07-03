@@ -3,6 +3,9 @@ name: Grandstream
 description: VoIP phones, IP video, networking and unified communications equipment vendor.
 lookup:
   - grandstream
+oui_vendors:
+  - Grandstream Networks Inc
+  - Grandstream Networks, Inc.
 url: https://www.grandstream.com
 support_url: https://www.grandstream.com/support
 cve_portal: https://psirt.grandstream.com/

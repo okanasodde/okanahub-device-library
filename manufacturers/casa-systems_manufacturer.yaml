@@ -1,0 +1,13 @@
+---
+name: Casa Systems
+description: Former US broadband network equipment vendor of CMTS/CCAP and 5G core products that filed Chapter 11 bankruptcy in 2024 and was liquidated, with cable assets sold to CommScope and mobile core/RAN assets to Lumine Group.
+lookup:
+  - casa
+  - cmts
+  - casacmts
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Casa Systems
+module_types_path: null
+module_images_path: null
+rack_types_path: null

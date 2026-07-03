@@ -3,6 +3,8 @@ name: Secunet
 description: German IT security company providing encryption, network security, eHealth, defense and public-sector cybersecurity products and solutions.
 lookup:
   - secunet
+oui_vendors:
+  - secunet Security Networks AG
 url: https://www.secunet.com
 support_phone: +49-201-5454-0
 device_types_path: device-types/Secunet

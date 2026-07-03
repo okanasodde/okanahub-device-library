@@ -1,0 +1,5 @@
+---
+name: TelePresence
+manufacturer: Cisco
+network_driver: cisco_tp
+description: Cisco TelePresence endpoint OS. Superseded by Webex/RoomOS. Legacy.

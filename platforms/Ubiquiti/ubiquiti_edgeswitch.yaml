@@ -1,0 +1,5 @@
+---
+name: EdgeSwitch
+manufacturer: Ubiquiti
+network_driver: ubiquiti_edgeswitch
+description: Ubiquiti EdgeSwitch. Maintenance.

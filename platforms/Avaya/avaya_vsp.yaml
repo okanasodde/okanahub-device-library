@@ -1,0 +1,5 @@
+---
+name: VSP (Avaya)
+manufacturer: Avaya
+network_driver: avaya_vsp
+description: Avaya Virtual Services Platform (VOSS). Nortel heritage; sold to Extreme (2017). Legacy branding.

@@ -3,6 +3,9 @@ name: Bachmann
 description: Power distribution and connectivity solutions vendor (rack PDUs, desk/office power modules).
 lookup:
   - bachmann
+oui_vendors:
+  - BACHMANN ELECTRONIC GmbH
+  - Bachmann Technology GmbH & Co. KG
 url: https://www.bachmann.com
 support_phone: +49-711-86602-0
 device_types_path: device-types/Bachmann

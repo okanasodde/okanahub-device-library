@@ -3,6 +3,10 @@ name: Commscope
 description: Network infrastructure vendor (cabling, connectivity, broadband, and wireless solutions).
 lookup:
   - commscope
+oui_vendors:
+  - Commscope
+  - CommScope Inc
+  - Commscope, Inc
 url: https://www.commscope.com
 support_url: https://www.commscope.com/supportcenter
 cve_portal: https://www.commscope.com/trust-center/security-advisories/

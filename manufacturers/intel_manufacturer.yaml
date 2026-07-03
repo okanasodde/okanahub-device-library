@@ -3,6 +3,11 @@ name: Intel
 description: Semiconductor and computing hardware manufacturer (CPUs, networking, FPGAs).
 lookup:
   - intel
+oui_vendors:
+  - Intel - GE Care Innovations LLC
+  - Intel Corporate
+  - Intel Corporation
+  - Intel Wireless Network Group
 url: https://www.intel.com
 support_url: https://www.intel.com/content/www/us/en/support.html
 cve_portal: https://www.intel.com/content/www/us/en/security-center/default.html

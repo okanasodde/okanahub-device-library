@@ -3,6 +3,10 @@ name: Linksys
 description: Brand of consumer and small-business networking hardware including Wi-Fi routers, mesh systems and switches.
 lookup:
   - linksys
+oui_vendors:
+  - Linksys Telecom Shenzhen CO., LTD
+  - Linksys USA, Inc
+  - The Linksys Group, Inc.
 url: https://www.linksys.com
 support_url: https://support.linksys.com
 support_phone: +1-800-326-7114

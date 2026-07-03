@@ -1,0 +1,5 @@
+---
+name: 6WIND OS
+manufacturer: 6WIND
+network_driver: sixwind_os
+description: 6WIND virtualized routing OS. Active.

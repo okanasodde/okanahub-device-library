@@ -1,0 +1,5 @@
+---
+name: ION
+manufacturer: Palo Alto
+network_driver: cloudgenix_ion
+description: CloudGenix ION SD-WAN. Acquired by Palo Alto Networks (2020); folded into Prisma SD-WAN. Legacy branding.

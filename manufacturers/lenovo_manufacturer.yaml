@@ -3,6 +3,19 @@ name: Lenovo
 description: Multinational manufacturer of PCs, servers, storage and data center networking hardware.
 lookup:
   - lenovo
+oui_vendors:
+  - Lenovo
+  - Lenovo (Beijing) Co., Ltd.
+  - Lenovo (Beijing) Limited.
+  - Lenovo Data Center Group
+  - Lenovo Future Communication Technology (Chongqing) Company Limited
+  - Lenovo Image(Tianjin) Technology Ltd.
+  - Lenovo India Private Limited
+  - Lenovo Information Products (Shenzhen)Co.,Ltd
+  - Lenovo Mobile Communication (Wuhan) Company Limited
+  - Lenovo Mobile Communication Technology Ltd.
+  - LENOVO(BEIJING)CO., LTD.
+  - LenovoEMC Products USA, LLC
 url: https://www.lenovo.com
 support_url: https://support.lenovo.com
 cve_portal: https://support.lenovo.com/us/en/product_security/ps500001-lenovo-product-security-advisories

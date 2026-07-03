@@ -1,0 +1,5 @@
+---
+name: TMOS (LTM)
+manufacturer: F5
+network_driver: f5_ltm
+description: F5 BIG-IP LTM running TMOS. Active/strategic.

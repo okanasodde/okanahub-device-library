@@ -1,0 +1,5 @@
+---
+name: Linux (F5)
+manufacturer: F5
+network_driver: f5_linux
+description: F5 BIG-IP Linux bash shell. F5 core. Active.

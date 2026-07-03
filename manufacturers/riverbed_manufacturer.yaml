@@ -3,6 +3,8 @@ name: Riverbed
 description: Network performance, observability, and WAN optimization (SteelHead) vendor for enterprise IT.
 lookup:
   - riverbed
+oui_vendors:
+  - Riverbed Technology, Inc.
 url: https://www.riverbed.com
 support_url: https://support.riverbed.com
 cve_portal: https://www.riverbed.com/trust-center/

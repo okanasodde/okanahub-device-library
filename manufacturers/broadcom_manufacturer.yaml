@@ -1,0 +1,16 @@
+---
+name: Broadcom
+description: US semiconductor and infrastructure software company whose networking business (including Brocade) produces switching silicon and network operating systems such as ICOS.
+lookup:
+  - broadcom
+  - icos
+  - broadcomicos
+url: https://www.broadcom.com/
+support_url: https://support.broadcom.com/
+cve_portal: https://support.broadcom.com/web/ecx/security-advisory
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Broadcom
+module_types_path: null
+module_images_path: null
+rack_types_path: null

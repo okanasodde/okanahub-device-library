@@ -1,0 +1,5 @@
+---
+name: ZynOS/Zyxel OS
+manufacturer: Zyxel
+network_driver: zyxel_os
+description: Zyxel switch/gateway OS. Active SMB.

@@ -1,0 +1,20 @@
+---
+name: Teldat
+description: Teldat is a Spanish networking and cybersecurity vendor, founded in 1985 and based near Madrid, that makes routers and SD-WAN equipment and owns the bintec elmeg brand.
+lookup:
+  - teldat
+  - cit
+  - teldatcit
+  - bintec
+  - boss
+  - bintecboss
+url: https://www.teldat.com/
+support_url: https://support.teldat.com/
+cve_portal: https://support.teldat.com/www/en/page.php?cmd=security_alert&blq_id=vulnerabilities-en
+support_phone: +34-91-807-6565
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/Teldat
+module_types_path: null
+module_images_path: null
+rack_types_path: null

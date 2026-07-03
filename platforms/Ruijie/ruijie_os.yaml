@@ -1,0 +1,5 @@
+---
+name: RGOS
+manufacturer: Ruijie
+network_driver: ruijie_os
+description: Ruijie Networks RGOS switches. Active (China/EM markets).

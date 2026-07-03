@@ -1,0 +1,5 @@
+---
+name: FastIron (Ruckus)
+manufacturer: Ruckus
+network_driver: ruckus_fastiron
+description: Ruckus ICX FastIron switches. Ruckus via Brocade->ARRIS->CommScope; now CommScope. Active.

@@ -3,6 +3,10 @@ name: Leviton
 description: American manufacturer of electrical wiring devices, lighting controls, network/data center connectivity solutions, and EV charging equipment for residential, commercial, and industrial markets.
 lookup:
   - leviton
+oui_vendors:
+  - Leviton Manufacturing Co., Inc
+  - Leviton Manufacturing Co., Inc.
+  - Leviton Network Solutions
 url: https://leviton.com
 support_url: https://leviton.com/support/resources/product-support
 support_phone: +1-800-824-3005

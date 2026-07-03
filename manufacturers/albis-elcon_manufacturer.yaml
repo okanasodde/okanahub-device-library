@@ -5,6 +5,8 @@ lookup:
   - albis
   - elcon
   - albiselcon
+oui_vendors:
+  - Albis Technologies AG
 url: https://www.albis-elcon.com
 device_types_path: device-types/Albis-Elcon
 elevation_images_path: null

@@ -3,6 +3,8 @@ name: Kehua
 description: Power electronics vendor making UPS systems, critical power and data center infrastructure, and renewable energy solutions.
 lookup:
   - kehua
+oui_vendors:
+  - Xiamen Kehua Hengsheng Co.,Ltd
 url: https://www.kehua.com
 support_url: https://www.kehua.com/support.html
 support_phone: +86-592-5160516

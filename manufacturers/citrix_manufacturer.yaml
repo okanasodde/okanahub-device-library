@@ -4,13 +4,15 @@ description: Application delivery, virtualization, and secure access (NetScaler)
 lookup:
   - citrix
   - netscaler
+oui_vendors:
+  - Citrix Systems, Inc.
 url: https://www.citrix.com
 support_url: https://support.citrix.com
 cve_portal: https://www.cloud.com/trust-center/product-security/vulnerability-response
 support_phone: +1-800-424-8749
 device_types_path: device-types/Citrix
 elevation_images_path: null
-platforms_path: null
+platforms_path: platforms/Citrix
 module_types_path: null
 module_images_path: null
 rack_types_path: null

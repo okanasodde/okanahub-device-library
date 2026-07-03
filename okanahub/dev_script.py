@@ -37,6 +37,14 @@ class Manufacturer(BaseModel):
             "Use Netmiko's driver as lookup values remove all underscores (e.g. 'aruba_aoscx'). use (e.g. 'arubaaoscx') all lower case."
         ),
     )
+    oui_vendors: list[Annotated[str, Field(max_length=255)]] = Field(
+        default_factory=list,
+        description=(
+            "IEEE OUI registrant names (verbatim from the OUI vendor list) that belong "
+            "to this manufacturer, including owned/acquired sub-brands. Used to map a "
+            "MAC-derived vendor string back to this manufacturer record."
+        ),
+    )
     url: Optional[str] = Field(
         default=None,
         max_length=200,
@@ -117,6 +125,7 @@ FIELD_ORDER = [
     "name",
     "description",
     "lookup",
+    "oui_vendors",
     "url",
     "support_url",
     "cve_portal",
@@ -194,6 +203,9 @@ def _to_yaml_dict(manufacturer: Manufacturer) -> dict:
     for key in FIELD_ORDER:
         value = dumped.get(key)
         if key in OMIT_IF_NONE and value is None:
+            continue
+        # oui_vendors is omitted entirely when empty (no OUI match for this vendor).
+        if key == "oui_vendors" and not value:
             continue
         out[key] = value
     return out

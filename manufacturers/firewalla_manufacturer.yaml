@@ -3,6 +3,8 @@ name: Firewalla
 description: Consumer and small-business cybersecurity firewall appliances combining firewall, IPS/IDS, VPN, and parental controls.
 lookup:
   - firewalla
+oui_vendors:
+  - FIREWALLA INC
 url: https://firewalla.com
 support_url: https://help.firewalla.com/hc/en-us
 device_types_path: device-types/Firewalla

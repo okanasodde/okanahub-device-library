@@ -3,6 +3,8 @@ name: Netlink
 description: Networking and fiber-optic transmission equipment brand.
 lookup:
   - netlink
+oui_vendors:
+  - NETLINK ICT
 device_types_path: device-types/Netlink
 elevation_images_path: elevation-images/Netlink
 platforms_path: null

@@ -1,0 +1,5 @@
+---
+name: ROS (Raisecom)
+manufacturer: Raisecom
+network_driver: raisecom_ros
+description: 'Raisecom ROS switches. Regional (China). Note: distinct from Siemens ROX/others.'

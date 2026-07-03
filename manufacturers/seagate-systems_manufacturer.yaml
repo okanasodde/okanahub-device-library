@@ -5,6 +5,9 @@ lookup:
   - seagate
   - systems
   - seagatesystems
+oui_vendors:
+  - Seagate Cloud Systems Inc
+  - Seagate Technology
 url: https://www.seagate.com
 support_url: https://www.seagate.com/support/
 cve_portal: https://www.seagate.com/support/product-security/

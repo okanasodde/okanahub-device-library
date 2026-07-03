@@ -1,0 +1,5 @@
+---
+name: IX
+manufacturer: NEC
+network_driver: nec_ix
+description: NEC UNIVERGE IX routers. Regional (Japan). Active.

@@ -3,6 +3,10 @@ name: Powercom
 description: Taiwanese manufacturer of uninterruptible power supplies (UPS), automatic voltage regulators, and power-protection peripherals.
 lookup:
   - powercom
+oui_vendors:
+  - Powercom Co., Ltd.
+  - PowerCom Technology
+  - Shenzhen Powercom Co.,Ltd
 url: https://www.upspowercom.com
 support_url: https://www.upspowercom.com/support
 support_phone: +886-2-2225-8552

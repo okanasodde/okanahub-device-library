@@ -1,0 +1,5 @@
+---
+name: VyOS (Vyatta)
+manufacturer: VyOS
+network_driver: vyatta_vyos
+description: VyOS on legacy Vyatta lineage. Vyatta sold to Brocade->AT&T; VyOS is the open successor. Transitional.

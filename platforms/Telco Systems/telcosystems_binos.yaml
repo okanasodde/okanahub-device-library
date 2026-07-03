@@ -1,0 +1,5 @@
+---
+name: BiNOS
+manufacturer: Telco Systems
+network_driver: telcosystems_binos
+description: Telco Systems BiNOS. Telco Systems (BATM) carrier-Ethernet line. Maintenance.

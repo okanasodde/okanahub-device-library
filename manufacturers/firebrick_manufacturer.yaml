@@ -3,6 +3,9 @@ name: FireBrick
 description: UK manufacturer of routers, firewalls, and VoIP/network appliances.
 lookup:
   - firebrick
+oui_vendors:
+  - FireBrick Limited
+  - FireBrick Ltd
 url: https://www.firebrick.co.uk
 support_url: https://www.firebrick.co.uk/support/
 support_phone: +44-1344-400-500

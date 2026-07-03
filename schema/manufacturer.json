@@ -19,6 +19,14 @@
             },
             "default": []
         },
+        "oui_vendors": {
+            "type": "array",
+            "items": {
+                "type": "string",
+                "maxLength": 255
+            },
+            "default": []
+        },
         "url": {
             "type": "string",
             "format": "uri",

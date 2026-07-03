@@ -5,6 +5,19 @@ lookup:
   - schneider
   - electric
   - schneiderelectric
+oui_vendors:
+  - Schneider Electric
+  - Schneider Electric (Australia)
+  - Schneider Electric Asia Pacific Ltd
+  - Schneider Electric Canada Inc
+  - Schneider Electric Fire & Security Oy
+  - Schneider Electric Japan Holdings Ltd.
+  - Schneider Electric Korea
+  - Schneider Electric Motion
+  - Schneider Electric Motion USA
+  - Schneider Electric Ultra Terminal
+  - Schneider Electric USA
+  - Schneider-Electric(China)Co.Ltd,Shenzhen Branch
 url: https://www.se.com
 support_url: https://www.se.com/ww/en/work/support/
 cve_portal: https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp

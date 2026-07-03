@@ -1,0 +1,5 @@
+---
+name: Endace
+manufacturer: Endace
+network_driver: endace
+description: Endace packet-capture probes (EndaceProbe). Endace owned by Cisco-era then independent. Active/niche.

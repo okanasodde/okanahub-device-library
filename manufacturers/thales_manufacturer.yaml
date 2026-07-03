@@ -3,6 +3,23 @@ name: Thales
 description: French multinational that makes cybersecurity and data-protection hardware, including Luna (SafeNet) hardware security modules (HSMs) for encryption and key management.
 lookup:
   - thales
+oui_vendors:
+  - Samsung Thales
+  - Thales Alenia Space
+  - Thales Avionics In-Flight Systems, LLC
+  - Thales Avionics Ltd
+  - THALES AVS France
+  - Thales Belgium
+  - Thales Canada Inc.
+  - Thales CETCA Avionics CO., Ltd
+  - Thales Communications Inc
+  - Thales Contact Solutions Ltd.
+  - Thales e-Security Ltd.
+  - Thales e-Transactions GmbH
+  - THALES Elektronik Systeme GmbH
+  - Thales Nederland BV
+  - Thales UK Limited
+  - Thales-Panda Transportation System
 url: https://www.thalesgroup.com
 support_url: https://supportportal.thalesgroup.com/csm
 cve_portal: https://www.thalesgroup.com/en/global/group/psirt/thales-product-security-advisories

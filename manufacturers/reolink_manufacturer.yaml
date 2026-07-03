@@ -3,6 +3,8 @@ name: Reolink
 description: Consumer and business security camera vendor making PoE/WiFi IP cameras, NVR systems, and video doorbells.
 lookup:
   - reolink
+oui_vendors:
+  - Reolink Innovation Limited
 url: https://reolink.com
 support_url: https://support.reolink.com
 support_phone: +1-888-895-1558

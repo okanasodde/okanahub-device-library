@@ -3,6 +3,8 @@ name: SNR
 description: Network equipment vendor producing Ethernet switches, transceivers, Wi-Fi routers, ONT/STB devices, UPSs and PDUs, marketed under the SNR brand.
 lookup:
   - snr
+oui_vendors:
+  - SNR Inc.
 url: https://snr.global
 device_types_path: device-types/SNR
 elevation_images_path: elevation-images/SNR

@@ -3,6 +3,8 @@ name: Cudy
 description: Consumer and SMB networking hardware vendor making Wi-Fi routers, mesh systems, access points and adapters.
 lookup:
   - cudy
+oui_vendors:
+  - Shenzhen Cudy Technology Co., Ltd.
 url: https://www.cudy.com
 support_url: https://www.cudy.com/pages/support
 support_phone: +86-755-8600-8993

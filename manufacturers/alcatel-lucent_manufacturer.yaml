@@ -5,12 +5,33 @@ lookup:
   - alcatel
   - lucent
   - alcatellucent
+oui_vendors:
+  - ALCATEL - SEL
+  - Alcatel Alenia Space Italia
+  - Alcatel Bell Space N.V.
+  - Alcatel Canada Inc.
+  - ALCATEL DATA NETWORKS
+  - Alcatel DI
+  - ALCATEL ITALIA S.p.A.
+  - Alcatel Lucent
+  - Alcatel Microelectronics
+  - Alcatel North America
+  - ALCATEL STC AUSTRALIA
+  - ALCATEL TAISEL
+  - Alcatel-Lucent
+  - Alcatel-Lucent Enterprise
+  - ALCATEL-LUCENT FRANCE - WTD
+  - Alcatel-Lucent IPD
+  - Alcatel-Lucent Shanghai Bell Co., Ltd
+  - Alcatel-Lucent Telecom Limited
+  - Lucent Technologies
+  - LUCENT TECHNOLOGIES TAIWAN TELECOMMUNICATIONS CO., LTD.
 url: https://www.al-enterprise.com
 support_url: https://www.al-enterprise.com/en/support
 cve_portal: https://www.al-enterprise.com/en/support/security-advisories
 device_types_path: device-types/Alcatel-Lucent
 elevation_images_path: elevation-images/Alcatel-Lucent
-platforms_path: null
+platforms_path: platforms/Alcatel-Lucent
 module_types_path: module-types/Alcatel-Lucent
 module_images_path: null
 rack_types_path: null

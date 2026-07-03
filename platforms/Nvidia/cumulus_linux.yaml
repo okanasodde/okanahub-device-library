@@ -1,0 +1,5 @@
+---
+name: Cumulus Linux
+manufacturer: Nvidia
+network_driver: cumulus_linux
+description: Cumulus Linux switch OS. Cumulus acquired by NVIDIA (2020); converging with SONiC strategy. Maintenance.

@@ -1,0 +1,5 @@
+---
+name: SLX-OS
+manufacturer: Extreme Networks
+network_driver: extreme_slx
+description: Extreme SLX-OS (ex-Brocade SLX) routing/switching. Active.

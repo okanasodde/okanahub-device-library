@@ -1,0 +1,5 @@
+---
+name: MINI-LINK 66xx
+manufacturer: Ericsson
+network_driver: ericsson_mltn66
+description: Ericsson MINI-LINK 66xx microwave radios. Active carrier line.

@@ -3,6 +3,8 @@ name: Cohesity
 description: Data management, backup, and recovery software/appliance vendor.
 lookup:
   - cohesity
+oui_vendors:
+  - Cohesity Inc
 url: https://www.cohesity.com
 support_url: https://www.cohesity.com/services/support/
 cve_portal: https://www.cohesity.com/security-advisories/

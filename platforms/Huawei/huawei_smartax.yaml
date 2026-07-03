@@ -1,0 +1,5 @@
+---
+name: SmartAX
+manufacturer: Huawei
+network_driver: huawei_smartax
+description: Huawei SmartAX access platform. Active.

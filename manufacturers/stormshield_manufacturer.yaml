@@ -3,6 +3,8 @@ name: Stormshield
 description: Network security vendor (firewall/UTM, endpoint, and data security).
 lookup:
   - stormshield
+oui_vendors:
+  - Stormshield
 url: https://www.stormshield.com
 support_url: https://www.stormshield.com/support/
 cve_portal: https://advisories.stormshield.eu

@@ -3,6 +3,8 @@ name: Patton
 description: US manufacturer of VoIP gateways, session border controllers, Ethernet extenders and network interface converters.
 lookup:
   - patton
+oui_vendors:
+  - PATTON ELECTRONICS CO.
 url: https://www.patton.com
 support_url: https://www.patton.com/support/
 support_phone: +1-301-975-1007

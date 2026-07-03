@@ -1,0 +1,5 @@
+---
+name: VXOA
+manufacturer: Aruba Networks
+network_driver: silverpeak_vxoa
+description: Silver Peak VXOA SD-WAN. Silver Peak acquired by Aruba/HPE (2020); folded into EdgeConnect. Legacy branding.

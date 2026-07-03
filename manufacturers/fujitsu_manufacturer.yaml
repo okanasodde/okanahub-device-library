@@ -3,13 +3,26 @@ name: Fujitsu
 description: Japanese multinational ICT vendor making servers, storage, client computing devices and IT services
 lookup:
   - fujitsu
+oui_vendors:
+  - Fujitsu Client Computing Limited
+  - Fujitsu component limited
+  - FUJITSU DENSO LTD.
+  - Fujitsu I-Network Systems Limited.
+  - FUJITSU ISOTEC LIMITED
+  - Fujitsu Limited
+  - FUJITSU MICROELECTRONICS, INC.
+  - FUJITSU NEXION, INC.
+  - Fujitsu Services Ltd
+  - Fujitsu Siemens Computers
+  - Fujitsu Softek
+  - Fujitsu Technology Solutions GmbH
 url: https://www.fujitsu.com
 support_url: https://support.ts.fujitsu.com
 cve_portal: https://security.ts.fujitsu.com/ProductSecurity/
 support_phone: +1-800-873-3822
 device_types_path: device-types/Fujitsu
 elevation_images_path: null
-platforms_path: null
+platforms_path: platforms/Fujitsu
 module_types_path: null
 module_images_path: null
 rack_types_path: null

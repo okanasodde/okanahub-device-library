@@ -1,0 +1,5 @@
+---
+name: FXOS
+manufacturer: Cisco
+network_driver: cisco_ftd
+description: Cisco FTD CLI runs atop FXOS (Firepower/Secure Firewall eXtensible OS). "Secure Firewall" is the current brand. Active/strategic.

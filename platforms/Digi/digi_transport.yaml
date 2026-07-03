@@ -1,0 +1,5 @@
+---
+name: TransPort
+manufacturer: Digi
+network_driver: digi_transport
+description: Digi TransPort cellular routers. Active.

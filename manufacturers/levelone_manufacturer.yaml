@@ -4,6 +4,8 @@ description: Networking brand of Digital Data Communications offering switches, 
 lookup:
   - levelone
   - level1
+oui_vendors:
+  - LevelOne Communications (India) Private Limited
 url: https://global.level1.com
 support_phone: +1-800-876-8889
 device_types_path: device-types/LevelOne

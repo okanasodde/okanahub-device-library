@@ -1,0 +1,5 @@
+---
+name: VRP ONT
+manufacturer: Huawei
+network_driver: huawei_ont
+description: Huawei ONT CPE (VRP-based). Active.

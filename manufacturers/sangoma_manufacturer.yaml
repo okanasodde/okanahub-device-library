@@ -3,6 +3,8 @@ name: Sangoma
 description: Unified communications and VoIP vendor (telephony cards, gateways, FreePBX/Asterisk).
 lookup:
   - sangoma
+oui_vendors:
+  - Sangoma Technologies
 url: https://www.sangoma.com
 support_url: https://www.sangoma.com/support/
 support_phone: +1-877-344-4861

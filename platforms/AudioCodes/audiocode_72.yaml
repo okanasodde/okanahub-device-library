@@ -1,0 +1,5 @@
+---
+name: AudioCodes 7.2
+manufacturer: AudioCodes
+network_driver: audiocode_72
+description: AudioCodes gateways/SBCs running firmware v7.2. Active branch.

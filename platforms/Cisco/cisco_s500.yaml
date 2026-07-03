@@ -1,0 +1,5 @@
+---
+name: SB S500
+manufacturer: Cisco
+network_driver: cisco_s500
+description: Cisco Small Business 500 series switches. Legacy SMB line. Maintenance/EOL era.

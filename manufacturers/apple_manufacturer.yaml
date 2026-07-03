@@ -3,6 +3,8 @@ name: Apple
 description: Apple Inc. designs consumer electronics, computers, mobile devices, and networking products such as AirPort and Apple TV.
 lookup:
   - apple
+oui_vendors:
+  - Apple, Inc.
 url: https://www.apple.com
 support_url: https://support.apple.com
 cve_portal: https://support.apple.com/en-us/100100

@@ -1,0 +1,5 @@
+---
+name: SmartAX MMI
+manufacturer: Huawei
+network_driver: huawei_smartaxmmi
+description: Huawei SmartAX legacy MMI interface. Maintenance.

@@ -1,0 +1,5 @@
+---
+name: WTM
+manufacturer: Aviat Networks
+network_driver: aviat_wtm
+description: Aviat Networks WTM microwave radios. Active.

@@ -1,0 +1,6 @@
+---
+name: IOS XE
+manufacturer: Cisco
+network_driver: cisco_xe
+napalm_driver: ios
+description: Cisco IOS XE (Linux-based) - current flagship for Catalyst routing/switching. Active/strategic.

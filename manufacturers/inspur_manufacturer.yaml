@@ -3,6 +3,13 @@ name: Inspur
 description: Servers, storage, and cloud data-center hardware vendor.
 lookup:
   - inspur
+oui_vendors:
+  - Inspur (Shandong) Electronic Information Co., Ltd
+  - Inspur Communication Technology Co.,Ltd.
+  - Inspur Computer Technology Co.,Ltd.
+  - Inspur Digital Enterprise Technology Co., Ltd.
+  - Inspur Group Co., Ltd.
+  - Inspur Software Group Ltd.
 url: https://www.inspur.com
 support_phone: +86-531-8160-4000
 device_types_path: device-types/Inspur

@@ -3,13 +3,16 @@ name: WatchGuard
 description: Network security vendor making the Firebox next-generation firewall/UTM appliances, plus secure WiFi, MFA and endpoint security products.
 lookup:
   - watchguard
+oui_vendors:
+  - WatchGuard Technologies, Inc.
+  - WatchGuard Video
 url: https://www.watchguard.com
 support_url: https://www.watchguard.com/wgrd-support/overview
 cve_portal: https://www.watchguard.com/wgrd-psirt/advisories
 support_phone: +1-877-232-3531
 device_types_path: device-types/WatchGuard
 elevation_images_path: elevation-images/WatchGuard
-platforms_path: null
+platforms_path: platforms/WatchGuard
 module_types_path: null
 module_images_path: null
 rack_types_path: null

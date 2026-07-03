@@ -3,12 +3,28 @@ name: NEC
 description: Japanese multinational IT and networking vendor making telecom/5G/optical transport network equipment, servers, and IT solutions.
 lookup:
   - nec
+oui_vendors:
+  - NEC AMERICA, INC.
+  - NEC Asia Pacific Pte Ltd
+  - NEC Australia Pty Ltd
+  - NEC CASIO Mobile Communications
+  - NEC Corporation
+  - NEC DO BRASIL S.A.
+  - NEC Eluminant Technologies, Inc.
+  - NEC Magnus Communications,Ltd.
+  - NEC Personal Computers, Ltd.
+  - NEC Personal Products
+  - NEC Personal Products, Ltd
+  - NEC Platforms, Ltd
+  - NEC Platforms, Ltd.
+  - NEC TOKIN Corporation
+  - NEC UNIFIED SOLUTIONS NEDERLAND B.V.
 url: https://www.nec.com/
 support_url: https://www.nec.com/en/global/support/index.html
 cve_portal: https://jpn.nec.com/security-info/policy_en.html
 device_types_path: device-types/NEC
 elevation_images_path: null
-platforms_path: null
+platforms_path: platforms/NEC
 module_types_path: module-types/NEC
 module_images_path: null
 rack_types_path: null

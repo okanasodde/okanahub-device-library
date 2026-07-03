@@ -3,6 +3,8 @@ name: Raritan
 description: Vendor of intelligent rack PDUs, KVM-over-IP switches, and data center power and environment management hardware; now part of Legrand.
 lookup:
   - raritan
+oui_vendors:
+  - Raritan Computer, Inc
 url: https://www.raritan.com
 support_url: https://www.raritan.com/support
 support_phone: +1-800-724-8090

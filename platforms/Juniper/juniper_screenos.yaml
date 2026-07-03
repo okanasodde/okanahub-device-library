@@ -1,0 +1,5 @@
+---
+name: ScreenOS
+manufacturer: Juniper
+network_driver: juniper_screenos
+description: Juniper ScreenOS (NetScreen legacy) firewalls. EOL; replaced by SRX/Junos.

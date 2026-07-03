@@ -1,0 +1,5 @@
+---
+name: JetStream
+manufacturer: TP-Link
+network_driver: tplink_jetstream
+description: TP-Link JetStream managed switches. Active SMB.

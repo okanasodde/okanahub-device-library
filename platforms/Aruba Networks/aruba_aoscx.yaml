@@ -1,0 +1,5 @@
+---
+name: AOS-CX
+manufacturer: Aruba Networks
+network_driver: aruba_aoscx
+description: Aruba AOS-CX modern switching OS. Aruba is HPE's networking arm (Aruba acquired 2015). Active/strategic.

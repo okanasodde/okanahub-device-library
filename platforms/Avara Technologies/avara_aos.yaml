@@ -1,0 +1,5 @@
+---
+name: AOS (Avara)
+manufacturer: Avara Technologies
+network_driver: avara_aos
+description: Avara Technologies OAP800 access platform AOS. Niche/regional.

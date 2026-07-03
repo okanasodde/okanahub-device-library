@@ -1,0 +1,18 @@
+---
+name: IIJ
+description: Internet Initiative Japan (IIJ) is Japan's first commercial ISP, founded in 1992, which develops and sells the SEIL series of enterprise routers running its SEIL operating system.
+lookup:
+  - iij
+  - seilos
+  - iijseilos
+oui_vendors:
+  - INTERNET INITIATIVE JAPAN, INC.
+url: https://www.iij.ad.jp/en/
+support_url: https://www.iij.ad.jp/en/contact/
+support_phone: +81-3-5205-6500
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/IIJ
+module_types_path: null
+module_images_path: null
+rack_types_path: null

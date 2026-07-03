@@ -1,0 +1,5 @@
+---
+name: AX3600S
+manufacturer: ALAXALA
+network_driver: alaxala_ax36s
+description: ALAXALA AX3600S switches. Hitachi subsidiary. Active in Japan market.

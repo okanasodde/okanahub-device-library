@@ -1,0 +1,5 @@
+---
+name: VDX (Extreme)
+manufacturer: Extreme Networks
+network_driver: extreme_vdx
+description: VDX switches (ex-Brocade) under Extreme. Legacy. Maintenance.

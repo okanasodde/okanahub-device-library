@@ -1,0 +1,5 @@
+---
+name: ERS (Avaya)
+manufacturer: Avaya
+network_driver: avaya_ers
+description: Avaya Ethernet Routing Switch. Legacy Nortel line; enterprise networking sold to Extreme (2017). Legacy.

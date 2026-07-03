@@ -1,0 +1,5 @@
+---
+name: AsterNOS
+manufacturer: Asterfusion
+network_driver: asterfusion_asternos
+description: AsterFusion AsterNOS (SONiC-based) data-center switches. Active.

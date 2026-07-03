@@ -1,0 +1,18 @@
+---
+name: 6WIND
+description: 6WIND is a French networking software vendor providing high-performance virtualized routing, including its VSR virtual service router software for cloud and edge deployments.
+lookup:
+  - sixwind
+  - os
+  - sixwindos
+oui_vendors:
+  - 6WIND
+url: https://www.6wind.com/
+support_url: https://www.6wind.com/support/
+support_phone: +33-1-39-30-92-10
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/6WIND
+module_types_path: null
+module_images_path: null
+rack_types_path: null

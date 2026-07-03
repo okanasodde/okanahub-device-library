@@ -5,6 +5,9 @@ lookup:
   - rohde
   - schwarz
   - rohdeschwarz
+oui_vendors:
+  - ROHDE & SCHWARZ GMBH & CO. KG
+  - Rohde&Schwarz Topex SA
 url: https://www.rohde-schwarz.com
 support_url: https://www.rohde-schwarz.com/us/service-support/service/service-overview_229461.html
 support_phone: +1-888-837-8772

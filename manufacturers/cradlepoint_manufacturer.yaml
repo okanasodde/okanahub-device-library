@@ -3,6 +3,8 @@ name: Cradlepoint
 description: Cellular/5G wireless edge router and WAN networking vendor (part of Ericsson).
 lookup:
   - cradlepoint
+oui_vendors:
+  - CradlePoint, Inc
 url: https://cradlepoint.com
 support_url: https://cradlepoint.com/support/
 cve_portal: https://cradlepoint.com/trust-center/

@@ -3,6 +3,8 @@ name: Olencom
 description: Optical networking and transmission equipment vendor (Olencom Electronics).
 lookup:
   - olencom
+oui_vendors:
+  - OLENCOM ELECTRONICS
 url: https://www.olencom.com
 device_types_path: device-types/Olencom
 elevation_images_path: null

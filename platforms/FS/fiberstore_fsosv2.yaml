@@ -1,0 +1,5 @@
+---
+name: FSOS v2
+manufacturer: FS
+network_driver: fiberstore_fsosv2
+description: FS (formerly Fiberstore) FSOS v2 switches. Active.

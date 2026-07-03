@@ -3,6 +3,8 @@ name: Brennenstuhl
 description: Power strips, extension leads, and electrical accessories manufacturer.
 lookup:
   - brennenstuhl
+oui_vendors:
+  - Hugo Brennenstuhl Gmbh & Co. KG.
 url: https://www.brennenstuhl.com
 support_phone: +800-4872-0741
 device_types_path: device-types/Brennenstuhl

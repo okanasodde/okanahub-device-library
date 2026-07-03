@@ -1,0 +1,6 @@
+---
+name: IOS XR
+manufacturer: Cisco
+network_driver: cisco_xr
+napalm_driver: iosxr
+description: Cisco IOS XR carrier-grade routers. Active/strategic.

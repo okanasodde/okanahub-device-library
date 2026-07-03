@@ -3,6 +3,8 @@ name: Sedna
 description: Networking and IT equipment brand.
 lookup:
   - sedna
+oui_vendors:
+  - Sedna
 device_types_path: device-types/Sedna
 elevation_images_path: null
 platforms_path: null

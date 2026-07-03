@@ -17,7 +17,7 @@ cve_portal: https://www.arubanetworks.com/support-services/security-bulletins/
 support_phone: +1-800-943-4526
 device_types_path: null
 elevation_images_path: null
-platforms_path: null
+platforms_path: platforms/Aruba Networks
 module_types_path: null
 module_images_path: null
 rack_types_path: null

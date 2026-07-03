@@ -1,0 +1,5 @@
+---
+name: Infinera Packet
+manufacturer: Infinera
+network_driver: infinera_packet
+description: Infinera packet-optical transport. Infinera acquired Coriant (2018); Infinera being acquired by Nokia (2024-25). Active.

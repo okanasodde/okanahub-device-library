@@ -1,7 +1,9 @@
 ---
-name: Cisco
+name: Cisco Systems
 description: Networking, security, and enterprise IT infrastructure vendor.
 lookup:
+  - cisco
+lookup_backup:
   - cisco
   - apic
   - ciscoapic
@@ -29,13 +31,19 @@ lookup:
   - ciscoxe
   - xr
   - ciscoxr
+oui_vendors:
+  - Cisco Meraki
+  - Cisco SPVTG
+  - Cisco Systems Inc
+  - Cisco Systems, Inc
+  - Cisco-Linksys, LLC
 url: https://www.cisco.com
 support_url: https://www.cisco.com/c/en/us/support/index.html
 cve_portal: https://sec.cloudapps.cisco.com/security/center/publicationListing.x
 support_phone: +1-800-553-2447
 device_types_path: device-types/Cisco
 elevation_images_path: elevation-images/Cisco
-platforms_path: null
+platforms_path: platforms/Cisco
 module_types_path: module-types/Cisco
 module_images_path: module-images/Cisco
 rack_types_path: null

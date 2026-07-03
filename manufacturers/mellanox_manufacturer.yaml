@@ -5,11 +5,13 @@ lookup:
   - mellanox
   - mlnxos
   - mellanoxmlnxos
+oui_vendors:
+  - Mellanox Technologies, Inc.
 url: https://www.nvidia.com/en-us/networking/
 support_url: https://www.nvidia.com/en-us/networking/support/
 device_types_path: device-types/Mellanox
 elevation_images_path: elevation-images/Mellanox
-platforms_path: null
+platforms_path: platforms/Mellanox
 module_types_path: module-types/Mellanox
 module_images_path: null
 rack_types_path: null

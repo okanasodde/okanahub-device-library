@@ -1,0 +1,5 @@
+---
+name: MINI-LINK 63xx
+manufacturer: Ericsson
+network_driver: ericsson_mltn63
+description: Ericsson MINI-LINK 63xx microwave radios. Active carrier line.

@@ -3,6 +3,13 @@ name: Canon
 description: Japanese manufacturer of imaging and optical products including printers, multifunction devices, cameras and network imaging hardware
 lookup:
   - canon
+oui_vendors:
+  - CANON ELECTRON TUBES & DEVICES CO., LTD.
+  - Canon Electronic Business Machines (H.K.) Co., Ltd.
+  - CANON FINETECH INC.
+  - Canon Imaging Systems Inc.
+  - CANON INC.
+  - Canon Korea Inc.
 url: https://global.canon
 cve_portal: https://canon.jp/support/support-info/220609vulnerability-response
 support_phone: +1-800-652-2666

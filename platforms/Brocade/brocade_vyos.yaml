@@ -1,0 +1,5 @@
+---
+name: Vyatta (Brocade)
+manufacturer: Brocade
+network_driver: brocade_vyos
+description: Brocade Vyatta vRouter. Vyatta sold to AT&T (2017); community fork is VyOS. Legacy/EOL.

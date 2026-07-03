@@ -3,6 +3,8 @@ name: Netonix
 description: Manufacturer of carrier-grade managed PoE switches purpose-built for wireless internet service providers (WISPs).
 lookup:
   - netonix
+oui_vendors:
+  - Netonix
 url: https://www.netonix.com
 device_types_path: device-types/Netonix
 elevation_images_path: null

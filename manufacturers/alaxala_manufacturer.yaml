@@ -1,0 +1,17 @@
+---
+name: ALAXALA
+description: Japanese maker of the AX-series enterprise and carrier network switches and routers, formed in 2004 from Hitachi and NEC networking divisions and now majority-owned (75%) by Fortinet.
+lookup:
+  - alaxala
+  - ax26s
+  - ax36s
+  - alaxalaax26s
+  - alaxalaax36s
+url: https://www.alaxala.com/en/
+cve_portal: https://www.alaxala.com/en/techinfo/information/index.html
+device_types_path: null
+elevation_images_path: null
+platforms_path: platforms/ALAXALA
+module_types_path: null
+module_images_path: null
+rack_types_path: null

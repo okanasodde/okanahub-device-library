@@ -1,0 +1,5 @@
+---
+name: APIC
+manufacturer: Cisco
+network_driver: cisco_apic
+description: Cisco APIC - ACI fabric controller (Linux appliance). Active/strategic.

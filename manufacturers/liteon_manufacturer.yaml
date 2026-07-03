@@ -5,6 +5,17 @@ lookup:
   - liteon
   - lite-on
   - liteontechnology
+oui_vendors:
+  - LITE-ON CLEAN ENERGY TECHNOLOGY CORP.
+  - LITE-ON Communications, Inc.
+  - LITE-ON IT Corporation
+  - Lite-On Network Communication (Dongguan) Limited
+  - Lite-On Technogy Corp.
+  - LITE-ON Technology Corp.
+  - LiteON
+  - Liteon Technology Corporation
+  - Liteon, Inc.
+  - Liteon, Mobile Media Solution SBU
 url: https://www.liteon.com
 support_phone: +886-2-8798-2888
 device_types_path: device-types/LiteOn

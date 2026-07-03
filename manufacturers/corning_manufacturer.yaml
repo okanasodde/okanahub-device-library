@@ -3,6 +3,8 @@ name: Corning
 description: Optical fiber, cable, and connectivity solutions manufacturer for networks and data centers.
 lookup:
   - corning
+oui_vendors:
+  - Corning Incorporated
 url: https://www.corning.com
 support_url: https://www.corning.com/optical-communications/worldwide/en/home/support.html
 support_phone: +1-800-743-2675
